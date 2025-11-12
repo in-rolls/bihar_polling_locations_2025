@@ -1,0 +1,740 @@
+Polling Station (Main and Auxiliary) Details,,,,,,,,,,
+AC No. & Name,Polling Station No.,Polling Station Name,Main/Auxiliary Polling Station (M/A),Elector Serial No. From,Elector Serial No. To,Latitude of Polling Station Building,Longitude of Polling Station Building,Electricity facility at PS (Yes/No),Toilet Facility at PS (Yes/No),Ramp Facility at PS (Yes/No)
+1,2,3,4,5,6,7,8,9,10,11
+214-Arwal [33-Arwal],001,"utakarmit madhay vidyalay ,santavan Bigaha,uttar Bhag",Main,1,524,"N025°29'52""","E084°71'22""",Yes,Yes,Yes
+214-Arwal [33-Arwal],001,"utakarmit madhay vidyalay ,santavan Bigaha,Dakshin Bhag",Auxiliary,525,1033,"N025°29'52""","E084°71'22""",Yes,Yes,Yes
+214-Arwal [33-Arwal],002,"Madhya vidyalay,koriyam Dakhsin Bhag",Main,1,587,"N025°28'75""","E084°71'22""",Yes,Yes,Yes
+214-Arwal [33-Arwal],002,"Madhya vidyalay,koriyam Uttar Bhag",Auxiliary,588,1173,"N025°28'75""","E084°71'22""",Yes,Yes,Yes
+214-Arwal [33-Arwal],003,prathamik Vidyalay Bara,Main,1,866,"N025°29'50""","E084°72'30""",Yes,Yes,Yes
+214-Arwal [33-Arwal],004,"prathamik Vidyalay, Satapura",Main,1,949,"N025°29'13""","E084°72'36""",Yes,Yes,Yes
+214-Arwal [33-Arwal],005,"prathamik Vidyalay, Prasadi English East Part ",Main,1,881,"N025°28'69""","E084°69'27""",Yes,Yes,Yes
+214-Arwal [33-Arwal],006,"prathamik Vidyalay, Prasadi English West Part ",Main,1,924,"N025°29'569""","E084°69'27""",Yes,Yes,Yes
+214-Arwal [33-Arwal],007,panchayat Bhavan sonvarsha,Main,1,531,"N025°29'52""","E084°39'00""",Yes,Yes,Yes
+214-Arwal [33-Arwal],008,"Madhya Vidalaya, prasadi English (East Part)",Main,1,771,"N025°14'07""","E084°68'91""",Yes,Yes,Yes
+214-Arwal [33-Arwal],009,"Madhya Vidalaya, prasadi English (Middle Part)",Main,1,849,"N025°14'07""","E084°68'91""",Yes,Yes,Yes
+214-Arwal [33-Arwal],010,"Madhya Vidalaya, Sarkri tola Ibrahimpur, (East Part)",Main,1,936,"N025°27'62""","E084°67'98""",Yes,Yes,Yes
+214-Arwal [33-Arwal],011,"Madhya Vidalaya, Sarkri tola Ibrahimpur, (Middle Part)",Main,1,752,"N025°27'62""","E084°67'98""",Yes,Yes,Yes
+214-Arwal [33-Arwal],012,"prathamik Vidyalay, Konika Uttar Bhag",Main,1,697,"N025°29'77""","E084°27'77""",Yes,Yes,Yes
+214-Arwal [33-Arwal],012,"prathamik Vidyalay, Konika Dakshin Bhag",Auxiliary,698,1410,"N025°29'77""","E084°27'77""",Yes,Yes,Yes
+214-Arwal [33-Arwal],013,Samudayik Bhavan Sakari Chauki,Main,1,797,"N025°14'07""","E084°39'00""",Yes,No,Yes
+214-Arwal [33-Arwal],014,"prathamik Vidyalay, Sonavarasa (Duna Chhapara) West Part",Main,1,564,"N025°28'86""","E084°68'36""",Yes,Yes,Yes
+214-Arwal [33-Arwal],014,"prathamik Vidyalay, Sonavarasa (Duna Chhapara) East Part",Auxiliary,565,1128,"N025°28'86""","E084°68'36""",Yes,Yes,Yes
+214-Arwal [33-Arwal],015,"Utkarmit Madhya Vidyala, Rasidapur ",Main,1,952,"N025°25'42""","E084°68'00""",Yes,Yes,Yes
+214-Arwal [33-Arwal],016,"Utkarmit Madhya Vidyala, Ahiyarapur, East Part",Main,1,714,"N025°26'63""","E084°67'36""",Yes,Yes,Yes
+214-Arwal [33-Arwal],016,"Utkarmit Madhya Vidyala, Ahiyarapur, West Part",Auxiliary,715,1419,"N025°26'63""","E084°67'36""",Yes,Yes,Yes
+214-Arwal [33-Arwal],017,"Utkarmit Madhya Vidyala, Asalanapur, Uttar Bhag",Main,1,688,"N025°15'05""","E084°40'55""",Yes,Yes,Yes
+214-Arwal [33-Arwal],017,"Utkarmit Madhya Vidyala, Asalanapur, Dakshin Bhag",Auxiliary,689,1369,"N025°15'05""","E084°40'55""",Yes,Yes,Yes
+214-Arwal [33-Arwal],018,"prathamik Vidyalay, Bhusuda East Part",Main,1,560,"N025°15'06""","E084°41'25""",Yes,Yes,Yes
+214-Arwal [33-Arwal],018,"prathamik Vidyalay, Bhusuda West Part",Auxiliary,561,1126,"N025°15'06""","E084°41'25""",Yes,Yes,Yes
+214-Arwal [33-Arwal],019,"prathamik Vidyalay, Khanakulipur",Main,1,634,"N025°24'21""","E084°68'44""",Yes,Yes,Yes
+214-Arwal [33-Arwal],020,"Uchacha Vidyalay, arwal (Uttar Bhag",Main,1,763,"N025°14'53""","E084°39'56""",Yes,Yes,Yes
+214-Arwal [33-Arwal],021,"Uchacha Vidyalay, arwal (Middle Part)",Main,1,815,"N025°14'53""","E084°39'56""",Yes,Yes,Yes
+214-Arwal [33-Arwal],022,"Uchacha Vidyalay, arwal (Dakshin Bhag)",Main,1,643,"N025°14'53""","E084°39'56""",Yes,Yes,Yes
+214-Arwal [33-Arwal],022,"Uchacha Vidyalay, arwal (Dakshin Pakshim Bhag)",Auxiliary,644,1294,"N025°14'53""","E084°39'56""",Yes,Yes,Yes
+214-Arwal [33-Arwal],023,"Utkarmit Madhya Vidyala, Makhadumpur, East Part",Main,1,991,"N025°24'19""","E084°67'66""",Yes,Yes,Yes
+214-Arwal [33-Arwal],024,"Utkarmit Madhya Vidyala, Makhadumpur, West Part",Main,1,900,"N025°24'19""","E084°67'66""",Yes,Yes,Yes
+214-Arwal [33-Arwal],025,"Uchacha Vidyalay, Fakharpur (Uttar Bhag)",Main,1,594,"N025°14'44""","E084°42'22""",Yes,Yes,Yes
+214-Arwal [33-Arwal],025,"Uchacha Vidyalay, Fakharpur (Uttar Paksshim Bhag)",Auxiliary,595,1184,"N025°14'44""","E084°42'22""",Yes,Yes,Yes
+214-Arwal [33-Arwal],026,"Utkarmit Middle School Fakharpur, Uttar Part",Main,1,579,"N025°14'44""","E084°42'22""",Yes,Yes,No
+214-Arwal [33-Arwal],026,"Utkarmit Middle School Fakharpur,East Part",Auxiliary,580,1161,"N025°14'44""","E084°42'22""",Yes,Yes,No
+214-Arwal [33-Arwal],027,"prathamik Vidyalay, Brijalavigaha",Main,1,789,"N025°24'05""","E084°69'49""",Yes,Yes,Yes
+214-Arwal [33-Arwal],028,"prathamik Vidyalay, Chiraiyatand Uttar Bhag",Main,1,638,"N025°24'05""","E084°68'18""",Yes,Yes,Yes
+214-Arwal [33-Arwal],028,"prathamik Vidyalay, Chiraiyatand Dakshin Bhag",Auxiliary,639,1214,"N025°24'05""","E084°68'18""",Yes,Yes,Yes
+214-Arwal [33-Arwal],029,"Utkarmit Madhya Vidyala,Hasanapura, East Part",Main,1,549,"N025°23'11""","E084°70'02""",Yes,Yes,Yes
+214-Arwal [33-Arwal],029,"Utkarmit Madhya Vidyala,Hasanapura, Wast Part",Auxiliary,550,1090,"N025°23'11""","E084°70'02""",Yes,Yes,Yes
+214-Arwal [33-Arwal],030,Primary School Makbulpur Raza,Main,1,621,"N 025º24'52""","E 084º70'12""",Yes,Yes,Yes
+214-Arwal [33-Arwal],031,"Prathamik Vidyalay,Gaddopur East Part",Main,1,663,"N 025º14'03""","E 084º42'37""",Yes,Yes,Yes
+214-Arwal [33-Arwal],031,"Prathamik Vidyalay,Gaddopur Middle Part",Auxiliary,664,1328,"N 025º14'03""","E 084º42'37""",Yes,Yes,Yes
+214-Arwal [33-Arwal],032,"Primary School, Gaddopur West Part",Main,1,666,"N 025º14'03""","E 084º42'37""",Yes,Yes,Yes
+214-Arwal [33-Arwal],033,"Prathamik Vidyalay, Jinapura",Main,1,687,"N 025º23'58""","E 084º68'62""",Yes,Yes,Yes
+214-Arwal [33-Arwal],034,"Prathamik Vidyalay, Motha Kanya, Uttar Bhag",Main,1,525,"N 025º22'61""","E 084º68'19""",Yes,Yes,Yes
+214-Arwal [33-Arwal],034,"Prathamik Vidyalay, Motha Kanya, Dakshin Bhag",Auxiliary,526,1047,"N 025º22'61""","E 084º68'19""",Yes,Yes,Yes
+214-Arwal [33-Arwal],035,"Prathamik Vidyalay, Motha (Balak) Dakshin Bhag)",Main,1,630,"N 025º22'61""","E 084º68'19""",Yes,Yes,Yes
+214-Arwal [33-Arwal],035,"Prathamik Vidyalay, Motha (Balak ) Uttar Bhag)",Auxiliary,631,1238,"N 025º22'61""","E 084º68'19""",Yes,Yes,Yes
+214-Arwal [33-Arwal],036,"Madhya Vidyalay, Bhadasi (Uttar Bhag )",Main,1,686,"N 025º13'20""","E 084º41'43""",Yes,Yes,Yes
+214-Arwal [33-Arwal],036,"Madhya Vidyalay, Bhadasi (Uttar Pakshim Bhag )",Auxiliary,687,1363,"N 025º13'20""","E 084º41'43""",Yes,Yes,Yes
+214-Arwal [33-Arwal],037,Madhya Vidyalaya Bhadasi (Dakshin Bhag),Main,1,522,"N 025º13'20""","E 084º41'43""",Yes,Yes,Yes
+214-Arwal [33-Arwal],037,Madhya Vidyalaya Bhadasi (Dakshin Pakshim Bhag),Auxiliary,523,1052,"N 025º13'20""","E 084º41'43""",Yes,Yes,Yes
+214-Arwal [33-Arwal],038,Madhya Vidyalaya Bhadasi (Middle Part),Main,1,726,"N 025º13'20""","E 084º41'43""",Yes,Yes,Yes
+214-Arwal [33-Arwal],039,"Prathamik Vidyalay, Feku Vigaha",Main,1,989,"N 025º21'92""","E 084º67'62""",Yes,Yes,Yes
+214-Arwal [33-Arwal],040,"Utkramit Madhya Vidyalay, Jalpura",Main,1,815,"N 025º21'94""","E 084º68'66""",Yes,Yes,Yes
+214-Arwal [33-Arwal],041,"+2 Balika Uchcha Vidyalay arwal,Dakshin Bhag",Main,1,721,"N 025º14'37""","E 084º67'12""",Yes,Yes,Yes
+214-Arwal [33-Arwal],041,"+2 Balika Uchcha Vidyalay arwal,Dakshin Pakshim Bhag",Auxiliary,722,1422,"N 025º14'37""","E 084º67'12""",Yes,Yes,Yes
+214-Arwal [33-Arwal],042,Utkramit Madhya Vidyalay Vasilapur Arwal Sipah (Dakshin Bhag),Main,1,784,"N 025º24'06""","E 084º66'13""",Yes,Yes,Yes
+214-Arwal [33-Arwal],043,Utkramit Madhya Vidyalay Vasilapur Araval Sipah (Middle Part),Main,1,723,"N 025º24'06""","E 084º66'13""",Yes,Yes,Yes
+214-Arwal [33-Arwal],044,"+2 Balika Uchcha Vidyalay arwal,Uttar Bhag",Main,1,612,"N 025º14'37""","E 084º67'12""",Yes,Yes,Yes
+214-Arwal [33-Arwal],044,"+2 Balika Uchcha Vidyalay arwal,Uttar Pakshim Bhag",Auxiliary,613,1221,"N 025º14'37""","E 084º67'12""",Yes,Yes,Yes
+214-Arwal [33-Arwal],045,"+2 Balika Uchcha Vidyalay arwal, East Part",Main,1,744,"N 025º14'37""","E 084º67'12""",Yes,Yes,Yes
+214-Arwal [33-Arwal],046,"Utkramit middle school saidpur dhava, East Part",Main,1,725,"N 025º23'52""","E 084º67'27""",Yes,Yes,Yes
+214-Arwal [33-Arwal],046,"Utkramit middle school saidpur dhava, Uttar Bhag",Auxiliary,726,1448,"N 025º23'52""","E 084º67'27""",Yes,Yes,Yes
+214-Arwal [33-Arwal],047,"Utkramit Madhya Vidyalay Dangara Aahar, East Part",Main,1,779,"N 025º22'72""","E 084º66'47""",Yes,Yes,Yes
+214-Arwal [33-Arwal],048,Utkramit Madhya Vidyalay Dangara Aahar(Middle Part),Main,1,851,"N 025º22'62""","E 084º66'47""",Yes,Yes,Yes
+214-Arwal [33-Arwal],049,"Utkramit Middle school Bhagavan Bigha, East Part",Main,1,585,"N 025º29'52""","E 084º66'01""",Yes,Yes,Yes
+214-Arwal [33-Arwal],049,"Utkramit Middle school Bhagavan Bigha, West Part",Auxiliary,586,1159,"N 025º29'52""","E 084º66'01""",Yes,Yes,Yes
+214-Arwal [33-Arwal],050,"Prathamik Vidyalay, Payarechak (Uttar Bhag)",Main,1,500,"N 025º21'66""","E 084º66'86""",Yes,Yes,Yes
+214-Arwal [33-Arwal],051,Prathmik vidhaly pyarechak (Dakshin Bhag),Main,1,925,"N 025º21'66""","E 084º66'86""",Yes,Yes,Yes
+214-Arwal [33-Arwal],052,"Prathamik Vidyalay,Vajitapur",Main,1,696,"N 025º12'05""","E 084º40'18""",Yes,Yes,Yes
+214-Arwal [33-Arwal],053,"Utkramit Madhya Vidyalay, Sarava, Uttar Bhag",Main,1,799,"N 025º20'80""","E 084º66'09""",Yes,Yes,Yes
+214-Arwal [33-Arwal],054,"Utkramit Madhya Vidyalay, Sarava (Middle Part)",Main,1,843,"N 025º20'80""","E 084º66'09""",Yes,Yes,Yes
+214-Arwal [33-Arwal],055,"Urdu Prathamik Vidyalay, Arwal, Uttar Bhag",Main,1,904,"N 025º23'69""","E 084º64'38""",Yes,Yes,Yes
+214-Arwal [33-Arwal],056,"Urdu Prathamik Vidyalay, Arwal (Middle Part)",Main,1,908,"N 025º23'69""","E 084º64'38""",Yes,Yes,Yes
+214-Arwal [33-Arwal],057,"Prathamik Vidyalay, Malhipatti, East Part",Main,1,725,"N 025º23'60""","E 084º64'61""",Yes,Yes,Yes
+214-Arwal [33-Arwal],057,"Prathamik Vidyalay, Malhipatti, West Part",Auxiliary,726,1441,"N 025º23'60""","E 084º64'61""",Yes,Yes,Yes
+214-Arwal [33-Arwal],058,Prathmik Vidyalay Arwal Hindi (west Part),Main,1,961,"N 025º24'05""","E 084º65'52""",Yes,Yes,Yes
+214-Arwal [33-Arwal],059,Prathmik Vidyalay Arawal Hindi (east Part),Main,1,892,"N 025º24'05""","E 084º65'52""",Yes,Yes,Yes
+214-Arwal [33-Arwal],060,Uchcha Vidyalay Umairabad (West Part ),Main,1,716,"N 025º14'54""","E 084º39'12""",Yes,Yes,Yes
+214-Arwal [33-Arwal],060,Uchcha Vidyalay Umairabad (Uttar Bhag ),Auxiliary,717,1423,"N 025º14'54""","E 084º39'12""",Yes,Yes,Yes
+214-Arwal [33-Arwal],061,Uchcha Vidyalay Umairabad(East Part),Main,1,589,"N 025º14'54""","E 084º39'12""",Yes,Yes,Yes
+214-Arwal [33-Arwal],061,Uchcha Vidyalay Umairabad (Dakshin Bhag),Auxiliary,590,1160,"N 025º14'54""","E 084º39'12""",Yes,Yes,Yes
+214-Arwal [33-Arwal],062,"Prathamik Vidyalay, Malhipatti, West North Part",Main,1,586,"N 025º23'60""","E 084º64'61""",Yes,Yes,Yes
+214-Arwal [33-Arwal],062,"Prathamik Vidyalay, Malhipatti, West Middle Part",Auxiliary,587,1167,"N 025º23'60""","E 084º64'61""",Yes,Yes,Yes
+214-Arwal [33-Arwal],063,"Utkramit Madhya Vidyalay,Kagaji Muhalla (East Part )",Main,1,664,"N 025º29'52""","E 084º64'52""",Yes,Yes,Yes
+214-Arwal [33-Arwal],063,Utkramit Madhya Vidyalay Kagaji Mahalla (Middle Part ),Auxiliary,665,1325,"N 025º29'52""","E 084º64'52""",Yes,Yes,Yes
+214-Arwal [33-Arwal],064,"Madhya Vidhalya Baidarabad, East Part",Main,1,671,"N 025º13'52""","E 084º38'40""",Yes,Yes,Yes
+214-Arwal [33-Arwal],064,"Madhya Vidhalya Baidarabad ,East Middle Part",Auxiliary,672,1359,"N 025º13'52""","E 084º38'40""",Yes,Yes,Yes
+214-Arwal [33-Arwal],065,"Prathamik Vidyalay, Muradapur Hujara Naya Bhavan (East Part )",Main,1,716,"N 025º23'72""","E 084º64'83""",Yes,Yes,Yes
+214-Arwal [33-Arwal],065,"Prathamik Vidyalay, Muradapur Hujara Naya Bhavan (West Part)",Auxiliary,717,1443,"N 025º23'72""","E 084º64'83""",Yes,Yes,Yes
+214-Arwal [33-Arwal],066,"Madhya Vidhalya Baidarabad, Daya Bhag",Main,1,921,"N 025º13'52""","E 084º38'40""",Yes,Yes,Yes
+214-Arwal [33-Arwal],067,"Madhya Vidhalya Baidarabad, Middle Part",Main,1,931,"N 025º13'52""","E 084º38'40""",Yes,Yes,Yes
+214-Arwal [33-Arwal],068,"Madhya Vidhalya Baidarabad, Baya Bhag",Main,1,510,"N 025º13'52""","E 084º38'40""",Yes,Yes,Yes
+214-Arwal [33-Arwal],068,"Madhya Vidhalya Baidarabad, Uttar Bhag",Auxiliary,511,1024,"N 025º13'52""","E 084º38'40""",Yes,Yes,Yes
+214-Arwal [33-Arwal],069,"Prathamik Vidyalay, Pipara Bangla, East Part",Main,1,797,"N 025º20'36""","E 084º63'22""",Yes,Yes,Yes
+214-Arwal [33-Arwal],070,"Prathamik Vidyalay, Pipara Bangla Middle Part",Main,1,795,"N 025º20'36""","E 084º63'22""",Yes,Yes,Yes
+214-Arwal [33-Arwal],071,"Prathamik Vidyalay,Amarachauki, Uttar Bhag",Main,1,706,"N 025º21'12""","E 084º62'02""",Yes,Yes,Yes
+214-Arwal [33-Arwal],072,"Prathamik Vidyalay,Amarachauki Middle Part",Main,1,825,"N 025º21'12""","E 084º61'16""",Yes,Yes,Yes
+214-Arwal [33-Arwal],073,"Utkramit Madhya Vidyalay Amara, Uttar Bhag",Main,1,727,"N 025º21'33""","E 084º71'22""",Yes,Yes,Yes
+214-Arwal [33-Arwal],073,"Utkramit Madhya Vidyalay Amara,Dakshin Bhag",Auxiliary,728,1455,"N 025º21'33""","E 084º71'22""",Yes,Yes,Yes
+214-Arwal [33-Arwal],074,"Prathamik Vidyalay, Hasanapur Pipara, Uttar Bhag",Main,1,924,"N 025º21'72""","E 084º62'38""",Yes,Yes,Yes
+214-Arwal [33-Arwal],075,"Prathamik Vidyalay, Hasanapur Pipara Middle Part",Main,1,852,"N 025º21'72""","E 084º62'38""",Yes,Yes,Yes
+214-Arwal [33-Arwal],076,"Prathamik Vidyalay, Kanshopur",Main,1,712,"N 025º21'27""","E 084º63'66""",Yes,Yes,Yes
+214-Arwal [33-Arwal],077,"Utkramit Madhya Vidyalay, Abgila East Part",Main,1,641,"N 025º20'36""","E 084º65'02""",Yes,Yes,Yes
+214-Arwal [33-Arwal],077,"Utkramit Madhya Vidyalay, Abgila Middle Part",Auxiliary,642,1264,"N 025º20'36""","E 084º65'02""",Yes,Yes,Yes
+214-Arwal [33-Arwal],078,"Utkramit Madhya Vidyalay, Abgila, West Part",Main,1,640,"N 025º20'36""","E 084º65'02""",Yes,Yes,Yes
+214-Arwal [33-Arwal],079,"Uchcha Vidyalay, Itava",Main,1,759,"N 025º11'49""","E 084º38'38""",Yes,Yes,Yes
+214-Arwal [33-Arwal],080,"Uchcha Vidyalay, Itava, Middle Part",Main,1,912,"N 025º11'49""","E 084º38'38""",Yes,Yes,Yes
+214-Arwal [33-Arwal],081,"Utkramit Madhya Vidyalay,Gaura",Main,1,820,"N 025º218'83""","E 084º64'53""",Yes,Yes,Yes
+214-Arwal [33-Arwal],082,"Prathamik Vidyalay, Tejpura",Main,1,816,"N 025º20'36""","E 084º63'77""",Yes,Yes,Yes
+214-Arwal [33-Arwal],083,"Prathamik Vidyalay, Tejpura, Middle Part",Main,1,886,"N 025º20'36""","E 084º63'77""",Yes,Yes,Yes
+214-Arwal [33-Arwal],084,"Prathamik Vidyalay, Vrindavan",Main,1,341,"N 025º24'22""","E 08461'91""",Yes,Yes,Yes
+214-Arwal [33-Arwal],085,Buniyadi Vidyalay Haibatpur (West Part ),Main,1,957,"N 025º218'16""","E 084º63'19""",Yes,Yes,Yes
+214-Arwal [33-Arwal],086,Buniyadi Vidyalay Haibatpur (East Part ),Main,1,747,"N 025º218'16""","E 084º63'19""",Yes,Yes,Yes
+214-Arwal [33-Arwal],087,"Madhya Vidyalay, Ramapur Waina",Main,1,868,"N 025º20'66""","E 084º59'94""",Yes,Yes,Yes
+214-Arwal [33-Arwal],088,"Madhya Vidyalay, Ramapur Waina, Middle Part",Main,1,957,"N 025º20'66""","E 084º59'94""",Yes,Yes,Yes
+214-Arwal [33-Arwal],089,Panchayat Bhavan Ramapur Vaina,Main,1,939,"N 025º12'22""","E 084º35'57""",Yes,Yes,Yes
+214-Arwal [33-Arwal],090,"Madhya Vidyalay,Bahadurpur, East Part",Main,1,647,"N 025º20'13""","E 084º59'38""",Yes,Yes,Yes
+214-Arwal [33-Arwal],090,"Madhya Vidyalay,Bahadurpur, West Part",Auxiliary,648,1283,"N 025º20'13""","E 084º59'38""",Yes,Yes,Yes
+214-Arwal [33-Arwal],091,"Madhya Vidyalay, Fatehapur Sanda( Uttar Bhag)",Main,1,579,"N 025º29'52""","E 084º36'55""",Yes,Yes,Yes
+214-Arwal [33-Arwal],091,"Madhya Vidyalay, Fatehapur Sanda( Middle Part)",Auxiliary,580,1160,"N 025º29'52""","E 084º36'55""",Yes,Yes,Yes
+214-Arwal [33-Arwal],092,"Madhya Vidyalay, Fatehapur Sanda( Dakshin Part)",Main,1,834,"N 025º29'52""","E 084º36'55""",Yes,Yes,Yes
+214-Arwal [33-Arwal],093,"Prathamik Vidyalay, Saidpur",Main,1,711,"N 025º11'36""","E 084º59'16""",Yes,Yes,Yes
+214-Arwal [33-Arwal],094,"Utkramit Madhya Vidyalay,Sumera",Main,1,859,"N 025º19'24""","E 084º58'15""",Yes,Yes,Yes
+214-Arwal [33-Arwal],095,"Utkramit Madhya Vidyalay,Makhadumabad ,Vichala Gawan, East Part",Main,1,553,"N 025º18'94""","E 084º58'41""",Yes,Yes,Yes
+214-Arwal [33-Arwal],095,"Utkramit Madhya Vidyalay,Makhadumabad Vichala Gawan, West Part",Auxiliary,554,1035,"N 025º18'94""","E 084º58'41""",Yes,Yes,Yes
+214-Arwal [33-Arwal],096,"Utkramit Madhya Vidyalay,Parasi ( Uttar Bhag)",Main,1,652,"N 025º18'44""","E 084º56'62""",Yes,Yes,Yes
+214-Arwal [33-Arwal],096,"Utkramit Madhya Vidyalay,Parasi ( Middle Part)",Auxiliary,653,1329,"N 025º18'44""","E 084º56'62""",Yes,Yes,Yes
+214-Arwal [33-Arwal],097,"Utkramit Madhya Vidyalay,Parasi (Dakshin Bhag)",Main,1,650,"N 025º18'44""","E 084º56'62""",Yes,Yes,Yes
+214-Arwal [33-Arwal],097,"Utkramit Madhya Vidyalay,Parasi (Dakshin Madhya Bhag)",Auxiliary,651,1313,"N 025º18'44""","E 084º56'62""",Yes,Yes,Yes
+214-Arwal [33-Arwal],098,"Urdu Prathamik Vidyalay, Parasi",Main,1,745,"N 025º19'21""","E 084º56'66""",Yes,Yes,Yes
+214-Arwal [33-Arwal],099,"Utkramit Madhya Vidayalay Sumera, East North Part",Main,1,723,"N 025º19'24""","E 084º58'15""",Yes,Yes,Yes
+214-Arwal [33-Arwal],099,"Utkramit Madhya Vidayalay Sumera, East South Part",Auxiliary,724,1425,"N 025º19'24""","E 084º58'15""",Yes,Yes,Yes
+214-Arwal [33-Arwal],100,"Madhya Vidyalay, Khabhaini (Uttar Bhag)",Main,1,848,"N 025º17'72""","E 084º61'91""",Yes,Yes,Yes
+214-Arwal [33-Arwal],101,"Madhya Vidyalay,Khabhaini (Dakshin Bhag)",Main,1,594,"N 025º17'72""","E 084º61'91""",Yes,Yes,Yes
+214-Arwal [33-Arwal],101,"Madhya Vidyalay,Khabhaini (Middle Part)",Auxiliary,595,1160,"N 025º17'72""","E 084º61'91""",Yes,Yes,Yes
+214-Arwal [33-Arwal],102,"Utkramit Madhya Vidyalay, Dhobi Bigha (Paramapura), Uttar Bhag",Main,1,522,"N 025º17'27""","E 084º61'02""",Yes,Yes,Yes
+214-Arwal [33-Arwal],102,"Utkramit Madhya Vidyalay, Dhobi Bigha (Paramapura), Dakshin Bhag",Auxiliary,523,1035,"N 025º17'27""","E 084º61'02""",Yes,Yes,Yes
+214-Arwal [33-Arwal],103,"Utkramit Madhya Vidyalay, Dhobi Bigha (Paramapura) Middle Part",Main,1,647,"N 025º17'27""","E 084º61'02""",Yes,Yes,Yes
+214-Arwal [33-Arwal],104,"Prathamik Vidyalay, Raja Bigha",Main,1,562,"N 025º17'83""","E 084º61'77""",Yes,Yes,Yes
+214-Arwal [33-Arwal],105,"Utkramit Madhya Vidyalay, Harna, Uttar Bhag",Main,1,513,"N 025º17'41""","E 084º63'27""",Yes,Yes,Yes
+214-Arwal [33-Arwal],105,"Utkramit Madhya Vidyalay, Harna, Dakshin Bhag",Auxiliary,514,1034,"N 025º17'41""","E 084º63'27""",Yes,Yes,Yes
+214-Arwal [33-Arwal],106,"Madhya Vidyalay, Dariyapur",Main,1,732,"N 025º16'39""","E 084º63'80""",Yes,Yes,Yes
+214-Arwal [33-Arwal],107,"Uchcha Vidyalay, Dariyapur, Uttar Bhag",Main,1,618,"N 025º16'39""","E 084º38'12""",Yes,Yes,Yes
+214-Arwal [33-Arwal],107,"Uchcha Vidyalay, Dariyapur, Dakshin Bhag",Auxiliary,619,1226,"N 025º16'39""","E 084º38'12""",Yes,Yes,Yes
+214-Arwal [33-Arwal],108,"Utkramit Madhya Vidyalay, Nisarapur Saravar",Main,1,749,"N 025º16'52""","E 084º64'66""",Yes,Yes,Yes
+214-Arwal [33-Arwal],109,"Utkramit Madhya Vidyalay, Sarauti, Baya Bhag",Main,1,935,"N 025º19'94""","E 084º65'94""",Yes,Yes,Yes
+214-Arwal [33-Arwal],110,"Utkramit Madhya Vidyalay, Sarauti, Daya Bhag",Main,1,718,"N 025º19'94""","E 084º65'94""",Yes,Yes,Yes
+214-Arwal [33-Arwal],111,"Sanskrit Uchcha Vidyalay, Sarauti, East Part",Main,1,606,"N 025º11'50""","E 084º39'29""",Yes,Yes,Yes
+214-Arwal [33-Arwal],111,"Sanskrit Uchcha Vidyalay, Sarauti, West Part",Auxiliary,607,1175,"N 025º11'50""","E 084º39'29""",Yes,Yes,Yes
+214-Arwal [33-Arwal],112,"Prathamik Vidyalay, Ranapur, Uttar Bhag",Main,1,607,"N 025º18'48""","E 084º64'72""",Yes,Yes,Yes
+214-Arwal [33-Arwal],112,"Prathamik Vidyalay, Ranapur, Dakshin Bhag",Auxiliary,608,1199,"N 025º18'48""","E 084º64'72""",Yes,Yes,Yes
+214-Arwal [33-Arwal],113,"Madhya Vidyalay, Ramapur Chauram ( Uttar Bhag)",Main,1,968,"N 025º18'02""","E 084º65'61""",Yes,Yes,Yes
+214-Arwal [33-Arwal],114,"Madhya Vidyalay, Ramapur Chauram (Dakshin Bhag)",Main,1,669,"N 025º18'02""","E 084º65'61""",Yes,Yes,Yes
+214-Arwal [33-Arwal],114,"Madhya Vidyalay, Ramapur Chauram (Middle Part)",Auxiliary,670,1340,"N 025º18'02""","E 084º65'61""",Yes,Yes,Yes
+214-Arwal [33-Arwal],115,"Prathmik Vidyalay, Dhoraha",Main,1,848,"N 025º18'16""","E 084º64'36""",Yes,Yes,Yes
+214-Arwal [33-Arwal],116,"Prathamik Vidyalay, Bakeya",Main,1,872,"N 025º16'32""","E 084º66'35""",Yes,Yes,Yes
+214-Arwal [33-Arwal],117,"Utkramit Madhya Vidyalay, Parashuramapur, Uttar Bhag",Main,1,600,"N 84º33'28""","E 25º11'40""",Yes,Yes,Yes
+214-Arwal [33-Arwal],117,"Utkramit Madhya Vidyalay, Parashuramapur, Dakshin Bhag",Auxiliary,601,1198,"N 84º33'28""","E 25º11'40""",Yes,Yes,Yes
+214-Arwal [33-Arwal],118,"Utkramit Madhya Vidyalay, Lakshmanpur Bath (East Part)",Main,1,682,"N 84º33'28""","E 25º12'06""",Yes,Yes,Yes
+214-Arwal [33-Arwal],118,"Utkramit Madhya Vidyalay, Lakshmanpur Bath (East Middle Part)",Auxiliary,683,1410,"N 84º33'28""","E 25º12'06""",Yes,Yes,Yes
+214-Arwal [33-Arwal],119,"Utkramit Madhya Vidyalay, Lakshmanpur Bath (West Part)",Main,1,696.00,"N 84º32'40""","E 25º12'06""",Yes,Yes,Yes
+214-Arwal [33-Arwal],119,"Utkramit Madhya Vidyalay, Lakshmanpur Bath (West Middle Part)",Auxiliary,697,1393,"N 84º32'40""","E 25º12'06""",Yes,Yes,Yes
+214-Arwal [33-Arwal],120,Uchcha Vidyalay Kamata (East Part),Main,1,597,"N 84º32'03""","E 25º11'15""",Yes,Yes,Yes
+214-Arwal [33-Arwal],120,Uchcha Vidyalay Kamata (Middle Part),Auxiliary,598,1204,"N 84º32'03""","E 25º11'15""",Yes,Yes,Yes
+214-Arwal [33-Arwal],121,Uchcha Vidyalay Kamata (West Part),Main,1,828,"N 84º32'02""","E 25º11'15""",Yes,Yes,Yes
+214-Arwal [33-Arwal],122,"Madhya Vidyalay, Kamata (East Part)",Main,1,516,"N 84º32'03""","E 25º11'16""",Yes,Yes,Yes
+214-Arwal [33-Arwal],122,"Madhya Vidyalay, Kamata (Middle Part)",Auxiliary,517,1046,"N 84º32'03""","E 25º11'16""",Yes,Yes,Yes
+214-Arwal [33-Arwal],123,"Madhya Vidyalay, Kamata (West Part)",Main,1,891,"N 84º32'02""","E 25º11'16""",Yes,Yes,Yes
+214-Arwal [33-Arwal],124,"Prathamik Vidyalay,Tavakala",Main,1,980,"N 84º33'11""","E 25º10'48""",Yes,Yes,Yes
+214-Arwal [33-Arwal],125,"Utkramit Madhya Vidyalay, Bishunapura, Uttar Bhag",Main,1,716,"N 84º33'37""","E 25º11'00""",Yes,Yes,Yes
+214-Arwal [33-Arwal],125,"Utkramit Madhya Vidyalay, Bishunapura, Dakshin Bhag",Auxiliary,717,1410,"N 84º33'37""","E 25º11'00""",Yes,Yes,Yes
+214-Arwal [33-Arwal],126,"Panchayat Bhavan Sakari Khurd, East Part",Main,1,598,"N 84º33'48""","E 25º10'34""",Yes,No,Yes
+214-Arwal [33-Arwal],126,"Panchayat Bhavan Sakari Khurd, West Part",Auxiliary,599,1185,"N 84º33'48""","E 25º10'34""",Yes,No,Yes
+214-Arwal [33-Arwal],127,"Madhya Vidyalay, Sakari Khurd, East Part",Main,1,625,"N 84º32'43""","E 25º10'34""",Yes,Yes,Yes
+214-Arwal [33-Arwal],127,"Madhya Vidyalay, Sakari Khurd,West Part",Auxiliary,626,1263,"N 84º32'43""","E 25º10'34""",Yes,Yes,Yes
+214-Arwal [33-Arwal],128,"Utkramit Madhya Vidyalay, Masuda (Baya Bhag)",Main,1,892,"N 84º33'37""","E 25º10'48""",Yes,Yes,Yes
+214-Arwal [33-Arwal],129,"Utkramit Madhya Vidyalay, Masuda (Daya Bhag)",Main,1,935,"N 84º33'37""","E 25º10'48""",Yes,Yes,Yes
+214-Arwal [33-Arwal],130,"Madhya Vidyalay, Validad (Uttar Bhag)",Main,1,514,"N 84º35'40""","E 25º10'45""",Yes,Yes,Yes
+214-Arwal [33-Arwal],130,"Madhya Vidyalay, Validad (West Part)",Auxiliary,515,1029,"N 84º35'40""","E 25º10'45""",Yes,Yes,Yes
+214-Arwal [33-Arwal],131,Madhya Vidyalay validad (Middle Part),Main,1,518,"N 84º35'40""","E 25º10'45""",Yes,Yes,Yes
+214-Arwal [33-Arwal],131,Madhya Vidyalay validad (East Part),Auxiliary,519,1041,"N 84º35'40""","E 25º10'45""",Yes,Yes,Yes
+214-Arwal [33-Arwal],132,"Prathamik Vidyalay, Rupi Vigaha (Makabulapur), East Part",Main,1,654,"N 84º35'01""","E 25º10'55""",Yes,Yes,Yes
+214-Arwal [33-Arwal],132,"Prathamik Vidyalay, Rupi Vigaha (Makabulapur), West Part",Auxiliary,655,1313,"N 84º35'01""","E 25º10'55""",Yes,Yes,Yes
+214-Arwal [33-Arwal],133,"Madhya Vidyalay, Validad (Dakshin Bhag)",Main,1,697,"N 84º35'39""","E 25º10'45""",Yes,Yes,Yes
+214-Arwal [33-Arwal],133,"Madhya Vidyalay, Validad (Dakshin Madhya Bhag)",Auxiliary,698,1379,"N 84º35'39""","E 25º10'45""",Yes,Yes,Yes
+214-Arwal [33-Arwal],134,"Prathamik Vidyalay, Rupsagar Bigha",Main,1,774,"N 84º36'07""","E 25º10'26""",Yes,Yes,Yes
+214-Arwal [33-Arwal],135,"Utkramit Madhya Vidyalay, Bhikhanpur Dhevai (Baya bhag)",Main,1,831,"N 84º36'13""","E 25º10'03""",Yes,Yes,Yes
+214-Arwal [33-Arwal],136,Utkramit madhya Vidhalay dhevai (Daya bhag),Main,1,816,"N 84º36'13""","E 25º10'03""",Yes,Yes,Yes
+214-Arwal [33-Arwal],137,"Prathamik Vidyalay, Shahavajapur Dhevai, Uttar Bhag",Main,1,602,"N 84º36'38""","E 25º09'37""",Yes,Yes,Yes
+214-Arwal [33-Arwal],137,"Prathamik Vidyalay, Shahavajapur Dhevai, Dakshin Bhag",Auxiliary,603,1222,"N 84º36'38""","E 25º09'37""",Yes,Yes,Yes
+214-Arwal [33-Arwal],138,"Uchcha Vidyalay, Injor",Main,1,703,"N 84º37'03""","E 25º09'37""",Yes,Yes,Yes
+214-Arwal [33-Arwal],139,"Madhya Vidyalay, Injor, Uttar Bhag",Main,1,700,"N 84º37'01""","E 25º09'36""",Yes,Yes,Yes
+214-Arwal [33-Arwal],139,"Madhya Vidyalay, Injor, Dakshin Bhag",Auxiliary,701,1444,"N 84º37'01""","E 25º09'36""",Yes,Yes,Yes
+214-Arwal [33-Arwal],140,"Utkramit Madhya Vidyalay, Goind, East Part",Main,1,554,"N 84º36'26""","E 25º08'30""",Yes,Yes,Yes
+214-Arwal [33-Arwal],140,"Utkramit Madhya Vidyalay, Goind, West Part",Auxiliary,555,1099,"N 84º36'26""","E 25º08'30""",Yes,Yes,Yes
+214-Arwal [33-Arwal],141,"Madhya Vidyalay, Khaira, Uttar Bhag",Main,1,684,"N 84º36'02""","E 25º08'33""",Yes,Yes,Yes
+214-Arwal [33-Arwal],141,"Madhya Vidyalay, Khaira, Dakshin Bhag",Auxiliary,685,1382,"N 84º36'02""","E 25º08'33""",Yes,Yes,Yes
+214-Arwal [33-Arwal],142,"Utkramit Madhya Vidyalay, Rupaich, Uttar Bhag",Main,1,690,"N 84º36'53""","E 25º08'16""",Yes,Yes,Yes
+214-Arwal [33-Arwal],142,"Utkramit Madhya Vidyalay, Rupaich, Dakshin Bhag",Auxiliary,691,1381,"N 84º36'53""","E 25º08'16""",Yes,Yes,Yes
+214-Arwal [33-Arwal],143,"Utkramit Madhya Vidyalay, Haradiya (Baya bhag)",Main,1,521,"N 84º35'17""","E 25º09'49""",Yes,Yes,Yes
+214-Arwal [33-Arwal],143,"Utkramit Madhya Vidyalay, Haradiya (East Part)",Auxiliary,522,1023,"N 84º35'17""","E 25º09'49""",Yes,Yes,Yes
+214-Arwal [33-Arwal],144,Utkramit madhya vidhalay hardiyan (Daya bhag),Main,1,875,"N 84º35'17""","E 25º09'49""",Yes,Yes,Yes
+214-Arwal [33-Arwal],145,"Utkramit Madhya Vidyalay, Bandhu Bigha",Main,1,867,"N 84º34'37""","E 25º09'33""",Yes,Yes,Yes
+214-Arwal [33-Arwal],146,"Utkramit Madhya Vidyalay, Usridih",Main,1,996,"N 84º34'54""","E 25º08'25""",Yes,Yes,Yes
+214-Arwal [33-Arwal],147,"Madhya Vidyalay, Usari, Uttar Bhag",Main,1,686,"N 84º35'26""","E 25º08'10""",Yes,Yes,Yes
+214-Arwal [33-Arwal],147,"Madhya Vidyalay, Usari,Dakshin Bhag",Auxiliary,687,1351,"N 84º35'26""","E 25º08'10""",Yes,Yes,Yes
+214-Arwal [33-Arwal],148,"Prathamik Vidyalay, Usari chakiya (Baya bhag)",Main,1,931,"N 84º35'29""","E 25º08'33""",Yes,Yes,Yes
+214-Arwal [33-Arwal],149,Prathmik vidhaly usri chakiya (Daya bhag),Main,1,899,"N 84º35'29""","E 25º08'33""",Yes,Yes,Yes
+214-Arwal [33-Arwal],150,"Urdu Kanya Prathamik Vidyalay, Maneri bigha",Main,1,655,"N 84º35'32""","E 25º08'18""",Yes,Yes,Yes
+214-Arwal [33-Arwal],150,Madarsa Talimul Eslam Maneri Bigha,Auxiliary,656,1305,"N 84º35'32""","E 25º08'18""",Yes,Yes,Yes
+214-Arwal [33-Arwal],151,"Prathamik Vidyalay, Koni Kutti (Dakshin Bhag)",Main,1,661,"N 84º32'06""","E 25º08'21""",Yes,Yes,Yes
+214-Arwal [33-Arwal],152,"Utkarmit Madhya Vidyalay, Koni",Main,1,927,"N 84º31'59""","E 25º08'10""",Yes,Yes,Yes
+214-Arwal [33-Arwal],153,"Uchcha Vidyalay, Jayapur (Dakshin Bhag)",Main,1,559,"N 84º33'42""","E 25º08'15""",Yes,Yes,Yes
+214-Arwal [33-Arwal],153,"Uchcha Vidyalay, Jayapur (East Part)",Auxiliary,560,1117,"N 84º33'42""","E 25º08'15""",Yes,Yes,Yes
+214-Arwal [33-Arwal],154,"Uchcha vidhalay jaypur, (madhya bhag)",Main,1,538,"N 84º33'42""","E 25º08'15""",Yes,Yes,Yes
+214-Arwal [33-Arwal],154,"Uchcha vidhalay jaypur, ( East Middle Part)",Auxiliary,539,1076,"N 84º33'42""","E 25º08'15""",Yes,Yes,Yes
+214-Arwal [33-Arwal],155,"Uchcha Vidyalay, Jayapur (Uttar Bhag)",Main,1,692,"N 84º33'42""","E 25º08'15""",Yes,Yes,Yes
+214-Arwal [33-Arwal],155,"Uchcha Vidyalay, Jayapur (West Part)",Auxiliary,693,1390,"N 84033'42""","E 25º08'15""",Yes,Yes,Yes
+214-Arwal [33-Arwal],156,"Madhya Vidyalay, Savajapura, East Part",Main,1,626,"N 84º33'56""","E 25º07'36""",Yes,Yes,Yes
+214-Arwal [33-Arwal],156,"Madhya Vidyalay, Savajapura, West Part",Auxiliary,627,1257,"N 84º33'56""","E 25º07'36""",Yes,Yes,Yes
+214-Arwal [33-Arwal],157,"Prathamik Vidyalay, bakhatar",Main,1,947,"N 84º34'29""","E 25º07'48""",Yes,Yes,Yes
+214-Arwal [33-Arwal],158,"Prathamik Vidyalay, Sembhua",Main,1,883,"N 84º33'28""","E 25º07'09""",Yes,Yes,Yes
+214-Arwal [33-Arwal],159,"Utkarmit Madhya Vidyalay, Mehandiya Bazar Naya Bhavan, Uttar Bhag",Main,1,697,"N 84º33'55""","E 25º09'43""",Yes,Yes,Yes
+214-Arwal [33-Arwal],159,"Utkarmit Madhya Vidyalay, Mehandiya Bazar Naya Bhavan, Dakshin Bhag",Auxiliary,698,1438,"N 84º33'55""","E 25º09'43""",Yes,Yes,Yes
+214-Arwal [33-Arwal],160,"Utkarmit Madhya Vidyalay, Pahaleja, East Part",Main,1,588,"N 84º33'39""","E 25º08'45""",Yes,Yes,Yes
+214-Arwal [33-Arwal],160,"Utkarmit Madhya Vidyalay, Pahaleja, West Part",Auxiliary,589,1178,"N 84º33'39""","E 25º08'45""",Yes,Yes,Yes
+214-Arwal [33-Arwal],161,"Nawsrijit Prathmik Vidyalay Prabhu Tola, East Part",Main,1,528,"N 84º32'45""","E 25º08'54""",Yes,No,No
+214-Arwal [33-Arwal],161,"Nawsrijit Prathmik Vidyalay Prabhu Tola, West Part",Auxiliary,529,1047,"N 84º32'45""","E 25º08'54""",Yes,No,No
+214-Arwal [33-Arwal],162,"Madhya Vidyalay, Bodh Vigaha (Dakshin Bhag)",Main,1,528,"N 84º32'31""","E 25º08'46""",Yes,Yes,Yes
+214-Arwal [33-Arwal],162,"Madhya Vidyalay, Bodh Vigaha (Uttar Bhag)",Auxiliary,529,1053,"N 84º32'31""","E 25º08'46""",Yes,Yes,Yes
+214-Arwal [33-Arwal],163,"Prathamik Vidyalay, Madhusarva Chauki, Uttar Bhag",Main,1,560,"N 84º33'47""","E 25º09'25""",Yes,Yes,Yes
+214-Arwal [33-Arwal],163,"Prathamik Vidyalay, Madhusarva Chauki, Dakshin Bhag",Auxiliary,561,1155,"N 84º33'47""","E 25º09'25""",Yes,Yes,Yes
+214-Arwal [33-Arwal],164,"Utkarmit Madhya Vidyalay, Mahendiya Bad, East Part",Main,1,636,"N 84º33'51""","E 25º08'59""",Yes,Yes,Yes
+214-Arwal [33-Arwal],164,"Utkarmit Madhya Vidyalay, Mahendiya Bad, West Part",Auxiliary,637,1293,"N 84º33'51""","E 25º08'59""",Yes,Yes,Yes
+214-Arwal [33-Arwal],165,"Prathamik Vidyalay, Koyal Bhupat, East Part",Main,1,703,"N 84º33'28""","E 25º09'42""",Yes,Yes,Yes
+214-Arwal [33-Arwal],165,"Prathamik Vidyalay, Koyal Bhupat, West Part",Auxiliary,704,1429,"N 84º33'28""","E 25º09'42""",Yes,Yes,Yes
+214-Arwal [33-Arwal],166,"Madhya Vidyalay, Isamailapur Koyal, Uttar Bhag",Main,1,603,"N 84º31'49""","E 25º07'47""",Yes,Yes,Yes
+214-Arwal [33-Arwal],166,"Madhya Vidyalay, Isamailapur Koyal, Dakshin Bhag",Auxiliary,604,1194,"N 84º31'49""","E 25º07'47""",Yes,Yes,Yes
+214-Arwal [33-Arwal],167,"Prathamik Vidyalay, Khusadihara, East Part",Main,1,608,"N 84º32'33""","E 25º09'55""",Yes,Yes,Yes
+214-Arwal [33-Arwal],167,"Prathamik Vidyalay, Khusadihara, West Part",Auxiliary,609,1201,"N 84º32'33""","E 25º09'55""",Yes,Yes,Yes
+214-Arwal [33-Arwal],168,"Uchcha Vidyalay Niranjanpur, East Part",Main,1,666,"N 84º33'06""","E 25º10'11""",Yes,Yes,Yes
+214-Arwal [33-Arwal],168,"Uchcha Vidyalay Niranjanpur, West Part",Auxiliary,667,1262,"N 84º33'06""","E 25º10'11""",Yes,Yes,Yes
+214-Arwal [33-Arwal],169,"Uchcha Vidyalay Jamuhari, East Part",Main,1,673,"N 84º32'30""","E 25º09'23""",Yes,Yes,Yes
+214-Arwal [33-Arwal],169,"Uchcha Vidyalay Jamuhari, West Part",Auxiliary,674,1363,"N 84º32'30""","E 25º09'23""",Yes,Yes,Yes
+214-Arwal [33-Arwal],170,"Prathamik Vidyalay, Nath Kharasa",Main,1,848,"N 84º31'42""","E 25º09'37""",Yes,Yes,Yes
+214-Arwal [33-Arwal],171,"Utkramit Madhya Vidyalay, Masadapur (West Part )",Main,1,962,"N 84º31'00""","E 25º10'56""",Yes,Yes,Yes
+214-Arwal [33-Arwal],172,"Utkramit Madhya Vidyalay, Masadapur (East Part )",Main,1,587,"N 84º31'00""","E 25º10'56""",Yes,Yes,Yes
+214-Arwal [33-Arwal],172,"Utkramit Madhya Vidyalay, Masadapur (Uttar Bhag )",Auxiliary,588,1153,"N 84º31'00""","E 25º10'56""",Yes,Yes,Yes
+214-Arwal [33-Arwal],173,"Madhya Vidyalay, Sohasa, Uttar Bhag",Main,1,593,"N 84º29'51""","E 25º10'39""",Yes,Yes,Yes
+214-Arwal [33-Arwal],173,"Madhya Vidyalay, Sohasa, Dakshin Bhag",Auxiliary,594,1182,"N 84º29'51""","E 25º10'39""",Yes,Yes,Yes
+214-Arwal [33-Arwal],174,"Utkramit Madhya Vidyalay, Raj Kharasa, East Part",Main,1,725,"N 84º30'38""","E 25º09'31""",Yes,Yes,Yes
+214-Arwal [33-Arwal],174,"Utkramit Madhya Vidyalay, Raj Kharasa, West Part",Auxiliary,726,1443,"N 84º30'38""","E 25º09'31""",Yes,Yes,Yes
+214-Arwal [33-Arwal],175,"Uchcha Vidyalay Sohasa, Uttar Bhag",Main,1,709,"N 84º29'40""","E 25º10'29""",Yes,Yes,Yes
+214-Arwal [33-Arwal],175,"Uchcha Vidyalay Sohasa, Dakshin Bhag",Auxiliary,710,1428,"N 84º29'40""","E 25º10'29""",Yes,Yes,Yes
+214-Arwal [33-Arwal],176,Uchcha Vidyalay Chanda (West Part ),Main,1,577,"N 84º29'46""","E 25º08'47""",Yes,Yes,Yes
+214-Arwal [33-Arwal],176,Uchcha Vidyalay Chanda (East Part ),Auxiliary,578,1132,"N 84º29'46""","E 25º08'47""",Yes,Yes,Yes
+214-Arwal [33-Arwal],177,"Utkarmit Madhya Vidyalay Mainpura, Naya Bhawan , East Part",Main,1,707,"N 84º28'46""","E 25º08'48""",Yes,Yes,Yes
+214-Arwal [33-Arwal],177,"Utkarmit Madhya Vidyalay Mainpura, Naya Bhawan ,West Part",Auxiliary,708,1426,"N 84º28'47""","E 25º08'56""",Yes,Yes,Yes
+214-Arwal [33-Arwal],178,Samudayik Bhavan Upadhyay Vigaha,Main,1,931,"N 84º30'01""","E 25º08'40""",Yes,Yes,No
+214-Arwal [33-Arwal],179,Samudayik Bhavan Ojha Vigaha,Main,1,736,"N 84º29'45""","E 25º08'34""",Yes,Yes,Yes
+214-Arwal [33-Arwal],180,"Utkramit Madhya Vidyalay, Musepur (West Part )",Main,1,752,"N 84º30'17""","E 25º09'09""",Yes,Yes,Yes
+214-Arwal [33-Arwal],180,"Utkramit Madhya Vidyalay, Musepur (Middle Part )",Auxiliary,753,1483,"N 84º30'17""","E 25º09'09""",Yes,Yes,Yes
+214-Arwal [33-Arwal],181,"Utkramit Madhya Vidyalay, Musepur (East Part )",Main,1,695,"N 84º30'17""","E 25º09'09""",Yes,Yes,Yes
+214-Arwal [33-Arwal],181,"Utkramit Madhya Vidyalay, Musepur (East Middle Part )",Auxiliary,696,1404,"N 84º30'17""","E 25º09'09""",Yes,Yes,Yes
+214-Arwal [33-Arwal],182,"Kanya Prathamik Vidyalay, Katharain",Main,1,891,"N 84º30'33""","E 25º08'10""",Yes,Yes,Yes
+214-Arwal [33-Arwal],183,"Utkramit Madhya Vidyalay, Saravarpur (Uttar Bhag)",Main,1,533,"N 84º31'12""","E 25º08'39""",Yes,Yes,Yes
+214-Arwal [33-Arwal],183,"Utkramit Madhya Vidyalay, Saravarpur (Middle Part)",Auxiliary,534,1052,"N 84º31'12""","E 25º08'39""",Yes,Yes,Yes
+214-Arwal [33-Arwal],184,"Utkramit Madhya Vidyalay, Saravarpur (Dakshin Bhag)",Main,1,713,"N 84º31'12""","E 25º08'39""",Yes,Yes,Yes
+214-Arwal [33-Arwal],185,"Prathamik Vidyalay, Durgapur",Main,1,913,"N 84º30'06""","E 25º08'10""",Yes,Yes,Yes
+214-Arwal [33-Arwal],186,"Madhya Vidyalay, Belasar (East Part )",Main,1,620,"N 84º31'19""","E 25º07'47""",Yes,Yes,Yes
+214-Arwal [33-Arwal],186,"Madhya Vidyalay, Belasar (Uttar Bhag )",Auxiliary,621,1241,"N 84º31'19""","E 25º07'47""",Yes,Yes,Yes
+214-Arwal [33-Arwal],187,Nawsrijit Prathamik Vidyalay Belsar Chauki,Main,1,739,"N 84º31'24""","E 25º07'34""",Yes,Yes,Yes
+214-Arwal [33-Arwal],188,"Madhya Vidyalay, Belasar (West Part ) Naya Bhavan",Main,1,603,"N 84º31'18""","E 25º07'47""",Yes,Yes,Yes
+214-Arwal [33-Arwal],188,"Madhya Vidyalay, Belasar (Dakshin Bhag ) Naya Bhavan",Auxiliary,604,1204,"N 84º31'18""","E 25º07'47""",Yes,Yes,Yes
+214-Arwal [33-Arwal],189,"Prathamik Vidyalay, Amir Bigha (Baya Bhag)",Main,1,964,"N 84º31'03""","E 25º07'55""",Yes,Yes,Yes
+214-Arwal [33-Arwal],190,Prathmik vidhalay amir Bigha (Daya bhag),Main,1,807,"N 84º31'03""","E 25º07'55""",Yes,Yes,Yes
+214-Arwal [33-Arwal],191,"Utkramit Madhya Vidyalay, Rajpura",Main,1,800,"N 84º30'41""","E 25º06'29""",Yes,Yes,Yes
+214-Arwal [33-Arwal],192,"Utkramit Madhya Vidyalay, Parshurampur-II Uttar Bhag",Main,1,627,"N 84º31'39""","E 25º06'45""",Yes,Yes,Yes
+214-Arwal [33-Arwal],192,"Utkramit Madhya Vidyalay, Parshurampur-II Dakshin Bhag",Auxiliary,628,1252,"N 84º31'39""","E 25º06'45""",Yes,Yes,Yes
+214-Arwal [33-Arwal],193,"Madhya Vidyalay, Hridayachak, East Part",Main,1,703,"N 84º31'51""","E 25º06'01""",Yes,Yes,Yes
+214-Arwal [33-Arwal],193,"Madhya Vidyalay, Hridayachak,West Part",Auxiliary,704,1425,"N 84º31'51""","E 25º06'01""",Yes,Yes,Yes
+214-Arwal [33-Arwal],194,"Urdu Kanya Prathamik Vidyalay, Hridayachak (Uttar Bhag)",Main,1,865,"N 84º31'51""","E 25º06'41""",Yes,Yes,Yes
+214-Arwal [33-Arwal],195,"Urdu Kanya Prathamik Vidyalay, Hridayachak (Dakshin Bhag)",Main,1,570,"N 84º31'51""","E 25º06'41""",Yes,Yes,Yes
+214-Arwal [33-Arwal],196,"Prathamik Vidyalay, Teri, Uttar Bhag",Main,1,602,"N 84º33'03""","E 25º07'04""",Yes,Yes,Yes
+214-Arwal [33-Arwal],196,"Prathamik Vidyalay, Teri, Dakshin Bhag",Auxiliary,603,1187,"N 84º33'03""","E 25º07'04""",Yes,Yes,Yes
+214-Arwal [33-Arwal],197,"Utkramit Madhya Vidyalay, Teri Bigha, Uttar Bhag",Main,1,557,"N 84º32'46""","E 25º07'04""",Yes,Yes,Yes
+214-Arwal [33-Arwal],197,"Utkramit Madhya Vidyalay, Teri Bigha, Dakshin Bhag",Auxiliary,558,1094,"N 84º32'46""","E 25º07'04""",Yes,Yes,Yes
+214-Arwal [33-Arwal],198,"Utkramit Madhya Vidyalay, Teri Bigha, Middle Part",Main,1,624,"N 84º32'46""","E 25º07'04""",Yes,Yes,Yes
+214-Arwal [33-Arwal],199,"Madhya Vidyalay, Belawan (Baya Bhag)",Main,1,504,"N 84º28'30""","E 25º08'31""",Yes,Yes,Yes
+214-Arwal [33-Arwal],199,"Madhya Vidyalay, Belawan (Baya Uttar Bhag)",Auxiliary,505,1034,"N 84º28'30""","E 25º08'31""",Yes,Yes,Yes
+214-Arwal [33-Arwal],200,Madhya vidhalay Belawan (Daya bhag),Main,1,925,"N 84º28'30""","E 25º08'31""",Yes,Yes,Yes
+214-Arwal [33-Arwal],201,"Prathamik Vidyalay, Navada",Main,1,561,"N 84º29'15""","E 25º08'03""",Yes,Yes,Yes
+214-Arwal [33-Arwal],202,"Utkramit Uchcha Madhyamik Vidyalay Belawan, East Part",Main,1,709,"N 84º28'28""","E 25º08'27""",Yes,Yes,Yes
+214-Arwal [33-Arwal],202,"Utkramit Uchcha Madhyamik Vidyalay Belawan, West Part",Auxiliary,710,1415,"N 84º28'28""","E 25º08'27""",Yes,Yes,Yes
+214-Arwal [33-Arwal],203,"Uchcha Vidyalay Kaler, Uttar Bhag",Main,1,700,"N 84º29'01""","E 25º07'28""",Yes,Yes,Yes
+214-Arwal [33-Arwal],300,"Uchcha Vidyalay Kaler, Dakshin Bhag",99,701,1404,"N 84029'01""","E 25007'28""",Yes,Yes,Yes
+214-Arwal [33-Arwal],204,"Shivadeni Saw College Kaler, East Part",Main,1,692,"N 84º30'00""","E 25º07'21""",Yes,Yes,Yes
+214-Arwal [33-Arwal],204,"Shivadeni Saw College Kaler,West Part",Auxiliary,693,1380,"N 84º30'00""","E 25º07'21""",Yes,Yes,Yes
+214-Arwal [33-Arwal],205,Prathmik vidhalay Vardali bigha (East Part),Main,1,840,"N 84º29'22""","E 25º07'36""",Yes,Yes,Yes
+214-Arwal [33-Arwal],206,Prathmik vidhalay Vardali bigha (Middle Part),Main,1,658,"N 84º29'22""","E 25º07'36""",Yes,Yes,Yes
+214-Arwal [33-Arwal],206,"Prathamik Vidyalay, Vardali Bigha (Dakshin Madhya Bhag )",Auxiliary,659,1275,"N 84º29'22""","E 25º07'36""",Yes,Yes,Yes
+214-Arwal [33-Arwal],207,"Prathamik Vidyalay, Vardali Bigha (West Part) Naya Bhawan",Main,1,683,"N 84º29'22""","E 25º07'36""",Yes,Yes,Yes
+214-Arwal [33-Arwal],207,"Prathamik Vidyalay, Vardali Bigha (West Middle Part) Naya Bhawan",Auxiliary,684,1353,"N 84º29'22""","E 25º07'36""",Yes,Yes,Yes
+214-Arwal [33-Arwal],208,Nawsrijit Prathamik Vidyalay Bangla Kothi,Main,1,726,"N 84º28'13""","E 25º07'20""",Yes,Yes,Yes
+214-Arwal [33-Arwal],209,"Shivadeni Saw College Kaler, Uttar Bhag",Main,1,533,"N 84º29'58""","E 25º07'24""",Yes,Yes,Yes
+214-Arwal [33-Arwal],209,"Shivadeni Saw College Kaler, Dakshin Bhag",Auxiliary,534,1053,"N 84º29'58""","E 25º07'24""",Yes,Yes,Yes
+214-Arwal [33-Arwal],210,"Utkramit Madhya Vidyalay, Samahariya Uttar Bhag",Main,1,659,"N 84º30'16""","E 25º06'27""",Yes,Yes,Yes
+214-Arwal [33-Arwal],210,"Utkramit Madhya Vidyalay, Samahariya Dakshin Bhag",Auxiliary,660,1288,"N 84º30'16""","E 25º06'27""",Yes,Yes,Yes
+214-Arwal [33-Arwal],211,"Urdu Utkramit Madhya Vidyalay Purakothi, East Part",Main,1,588,"N 84º27'32""","E 25º07'22""",Yes,Yes,Yes
+214-Arwal [33-Arwal],211,"Urdu Utkramit Madhya Vidyalay Purakothi, East Middle Part",Auxiliary,589,1178,"N 84º27'32""","E 25º07'22""",Yes,Yes,Yes
+214-Arwal [33-Arwal],212,"Urdu Utkramit Madhya Vidyalay Purakothi, West Part",Main,1,421,"N 84º27'34""","E 25007'33""",Yes,Yes,Yes
+214-Arwal [33-Arwal],213,"Utkramit Madhya, Vidyalay Jalwaiya, East Part",Main,1,680,"N 84º28'43""","E 25º10'23""",Yes,Yes,Yes
+214-Arwal [33-Arwal],213,"Utkramit Madhya Vidyalay Jalwaiya,West Part",Auxiliary,681,1362,"N 84º28'43""","E 25º10'23""",Yes,Yes,Yes
+214-Arwal [33-Arwal],214,Prathmik Vidyalay Bulaki Bigha,Main,1,723,"N 84º29'26""","E 25º05'54""",Yes,Yes,Yes
+214-Arwal [33-Arwal],215,Samudayik Bhwan Pahadpur ( Gawan ke Pakshim),Main,1,846,"N 84º29'31""","E 25º06'19""",Yes,Yes,Yes
+214-Arwal [33-Arwal],216,"Madhya Vidyalay Aaganoor, Uttar Bhag",Main,1,568,"N 84º28'27""","E 25º06'08""",Yes,Yes,Yes
+214-Arwal [33-Arwal],216,"Madhya Vidyalay, Aaganoor (East Part )",Auxiliary,569,1146,"N 84º28'27""","E 25º06'08""",Yes,Yes,Yes
+214-Arwal [33-Arwal],217,"Madhya Vidyalay, Aaganoor (South Part)",Main,1,549,"N 84º28'25""","E 25º06'07""",Yes,Yes,Yes
+214-Arwal [33-Arwal],217,"Madhya Vidyalay, Aaganoor West Part)",Auxiliary,550,1062,"N 84º28'25""","E 25º06'07""",Yes,Yes,Yes
+214-Arwal [33-Arwal],218,Sichai Bhawan Dak Bangla Aaganoor (Baya Bhag),Main,1,955,"N 84º28'28""","E 25º06'10""",Yes,Yes,Yes
+214-Arwal [33-Arwal],219,Sichai Bhawan Dak Bangla Aaganoor (Daya Bhag),Main,1,967,"N 84º28'28""","E 25º06'10""",Yes,Yes,Yes
+214-Arwal [33-Arwal],220,"Kanya Prathamik Vidyalay, Belkhara, Uttar Bhag",Main,1,762,"N 84º63'35""","E 25º15'31""",Yes,Yes,Yes
+214-Arwal [33-Arwal],221,"Kanya Prathamik Vidyalay, Belkhara, Dakshin Bhag",Main,1,752,"N 84º63'35""","E 25º15'31""",Yes,Yes,Yes
+214-Arwal [33-Arwal],222,"Utkramit Madhya Vidyalay, Shekhpura",Main,1,894,"N 025'09'95""","E 084'39'04""",Yes,Yes,Yes
+214-Arwal [33-Arwal],223,"Madhya Vidyalay, Belkhara ( North Part)",Main,1,643,"N 025'09'55""","E 084'38'06""",Yes,Yes,Yes
+214-Arwal [33-Arwal],223,"Madhya Vidyalay, Belkhara ( North Middle Part)",Auxiliary,644,1268,"N 025'09'55""","E 084'38'06""",Yes,Yes,Yes
+214-Arwal [33-Arwal],224,"Madhya Vidyalay, Belkhara ( South Part)",Main,1,803,"N 025'09'55""","E 084'38'06""",Yes,Yes,Yes
+214-Arwal [33-Arwal],225,"Madhya Vidyalay, Belkhara ( Middle Part)",Main,1,824,"N 025'09'55""","E 084'38'06""",Yes,Yes,Yes
+214-Arwal [33-Arwal],226,"Utkramit Madhya Vidyalay, Chainpur, North Part",Main,1,568,"N 025'08'16""","E 084'40'13""",Yes,Yes,Yes
+214-Arwal [33-Arwal],226,"Utkramit Madhya Vidyalay, Chainpur, South Part",Auxiliary,569,1128,"N 025'08'16""","E 084'40'13""",Yes,Yes,Yes
+214-Arwal [33-Arwal],227,"Madhya Vidyalay, Shahar Telpa, West Part",Main,1,519,"N 025'07'43""","E 084'39'28""",Yes,Yes,Yes
+214-Arwal [33-Arwal],227,"Madhya Vidyalay, Shahar Telpa, East Part",Auxiliary,520,1019,"N 025'07'43""","E 084'39'28""",Yes,Yes,Yes
+214-Arwal [33-Arwal],228,"+2 Bhagawat High School Shahar Telpa, Purana Bhawan, ( West Part )",Main,1,846,"N 025'07'44""","E 084'39'43""",Yes,Yes,Yes
+214-Arwal [33-Arwal],229,"+2 Bhagawat High School Shahar Telpa, Purana Bhawan, ( East Part )",Main,1,912,"N 025'07'44""","E 084'39'43""",Yes,Yes,Yes
+214-Arwal [33-Arwal],230,Prathmik Vidyalya Miya Bag,Main,1,695,"N 025'08'13""","E 084'39'53""",Yes,Yes,Yes
+214-Arwal [33-Arwal],231,"+2 Bhagawat High School Shahar Telpa, New Bhawan, ( North Part )",Main,1,826,"N 025'07'44""","E 084'39'43""",Yes,Yes,Yes
+214-Arwal [33-Arwal],232,"+2 Bhagawat High School Shahar Telpa, New Bhawan, ( South Part )",Main,1,903,"N 025'07'44""","E 084'39'43""",Yes,Yes,Yes
+214-Arwal [33-Arwal],233,"Utkramit Madhya Vidyalay, Kasauti, North Part",Main,1,733,"N 025'07'99""","E 084'35'53""",Yes,Yes,Yes
+214-Arwal [33-Arwal],233,"Utkramit Madhya Vidyalay, Kasauti, South Part",Auxiliary,734,1467,"N 025'07'99""","E 084'35'53""",Yes,Yes,Yes
+214-Arwal [33-Arwal],234,"Prathmik Vidyalay, Basan Bigha, North Part",Main,1,636,"N 025'07'24""","E 084'34'48""",Yes,Yes,Yes
+214-Arwal [33-Arwal],234,"Prathmik Vidyalay, Basan Bigha, South Part",Auxiliary,637,1272,"N 025'07'24""","E 084'34'48""",Yes,Yes,Yes
+214-Arwal [33-Arwal],235,"Prathmik Vidyalay, Bambhai, North Part",Main,1,579,"N 025'07'22""","E 084'36'13""",Yes,Yes,Yes
+214-Arwal [33-Arwal],235,"Prathmik Vidyalay, Bambhai, South Part",Auxiliary,580,1156,"N 025'07'22""","E 084'36'13""",Yes,Yes,Yes
+214-Arwal [33-Arwal],236,"Madhya Vidyalay, Bambhai, North Part",Main,1,583,"N 025'12' 34""","E 084'58'73""",Yes,Yes,Yes
+214-Arwal [33-Arwal],236,"Madhya Vidyalay, Bambhai,South Part",Auxiliary,584,1150,"N 025'12' 34""","E 084'58'73""",Yes,Yes,Yes
+214-Arwal [33-Arwal],237,"Prathmik Vidyalay, Pan Bigha,",Main,1,827,"N 025'07'31""","E 084'36'35""",Yes,Yes,Yes
+214-Arwal [33-Arwal],238,"Utkramit Madhya Vidyalay, Kubari ( West Part)",Main,1,678,"N 025'07'52""","E 084'36'45""",Yes,Yes,Yes
+214-Arwal [33-Arwal],238,"Utkramit Madhya Vidyalay, Kubari ( Middle Part)",Auxiliary,679,1344,"N 025'07'52""","E 084'36'45""",Yes,Yes,Yes
+214-Arwal [33-Arwal],239,"Utkramit Madhya Vidyalay, Kubari ( East Part)",Main,1,851,"N 025'07'52""","E 084'36'45""",Yes,Yes,Yes
+214-Arwal [33-Arwal],240,"Madhya Vidyalay, Keyal ( North Part)",Main,1,558,"N 025'06'55""","E 084'37'54""",Yes,Yes,Yes
+214-Arwal [33-Arwal],240,"Madhya Vidyalay, Keyal ( North Middle Part)",Auxiliary,559,1160,"N 025'06'55""","E 084'37'54""",Yes,Yes,Yes
+214-Arwal [33-Arwal],241,"Madhya Vidyalay, Keyal (South Part)",Main,1,690,"N 025'06'55""","E 084'37'54""",Yes,Yes,Yes
+214-Arwal [33-Arwal],241,"Madhya Vidyalay, Keyal ( South Middle Part)",Auxiliary,691,1379,"N 025'06'55""","E 084'37'54""",Yes,Yes,Yes
+214-Arwal [33-Arwal],242,"Utkramit Madhya Vidyalay, Andhrachak, South Part",Main,1,846,"N 025'06'39""","E 084'38'36""",Yes,Yes,Yes
+214-Arwal [33-Arwal],243,"Utkramit Madhya Vidyalay, Andhrachak, Middle Part",Main,1,899,"N 025'06'39""","E 084'38'36""",Yes,Yes,Yes
+214-Arwal [33-Arwal],244,"Prathamik Vidyalay ,Bansatad ( North Part)",Main,1,769,"N 025'06'22""","E 084'37'52""",Yes,Yes,Yes
+214-Arwal [33-Arwal],245,"Prathamik Vidyalay ,Bansatad ( South Part)",Main,1,927,"N 025'06'22""","E 084'37'52""",Yes,Yes,Yes
+214-Arwal [33-Arwal],246,"Utkramit Madhya Vidyalay, Asadhi",Main,1,496,"N 025'06'13""","E 084'37'27""",Yes,Yes,Yes
+214-Arwal [33-Arwal],247,"Prathmik Vidyalay, Pirho, North Part",Main,1,552,"N 025'06'13""","E 084'37'27""",Yes,NO,Yes
+214-Arwal [33-Arwal],247,"Prathmik Vidyalay, Pirho, South Part",Auxiliary,553,1102,"N 025'06'13""","E 084'37'27""",Yes,NO,Yes
+214-Arwal [33-Arwal],248,"Madhya Vidyalay, Rampur Chay, East Middle Part",Main,1,666,"N 025'05'53""","E 084'36'49""",Yes,Yes,Yes
+214-Arwal [33-Arwal],248,"Madhya Vidyalay, Rampur Chay, East Part",Auxiliary,667,1338,"N 025'05'53""","E 084'36'49""",Yes,Yes,Yes
+214-Arwal [33-Arwal],249,"Madhya Vidyalay, Rampur Chay ( North Part)",Main,1,681,"N 025'05'53""","E 084'36'49""",Yes,Yes,Yes
+214-Arwal [33-Arwal],249,"Madhya Vidyalay, Rampur Chay (North Middle Part)",Auxiliary,682,1326,"N 025'05'53""","E 084'36'49""",Yes,Yes,Yes
+214-Arwal [33-Arwal],250,"Madhya Vidyalay, Rampur Chay Purana Bhawan ( West Part)",Main,1,629,"N 025'05'53""","E 084'36'49""",Yes,Yes,Yes
+214-Arwal [33-Arwal],250,"Madhya Vidyalay, Rampur Chay Purana Bhawan,West Middle Part",Auxiliary,630,1253,"N 025'05'53""","E 084'36'49""",Yes,Yes,Yes
+214-Arwal [33-Arwal],251,"Madhya Vidyalay Rampur Chay, Dakshin Bhag",Main,1,650,"N 025'05'53""","E 084'36'49""",Yes,Yes,Yes
+214-Arwal [33-Arwal],251,"Madhya Vidyalay Rampur Chay, Dakshin Madhya Bhag",Auxiliary,651,1279,"N 025'05'53""","E 084'36'49""",Yes,Yes,Yes
+214-Arwal [33-Arwal],203,Uchcha Vidyalay Kaler Dakshin Bhag ,Auxiliary,701,1404,N-25º 07’28’’,E-84º 29’01’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],001,"Utkramit Madhya Vidyalay,Paraha Baya Bhag",Main,1,579,N-240 6’11’’,E-840 01’50’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],001,"Utkramit Madhya Vidyalay,Paraha Daya Bhag",Auxiliary,580,,N-240 6’11’’,E-840 01’50’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],002,"Prathamik Vidyalay, Lodipur Paraha",Main,1,,N-240 6’11’’,E-840 01’50’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],003,Prathamik Vidyalay Masudpur Bara,Main,1,,N-240 6’11’’,E-840 01’50’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],004,Prathamik Vidyalay Purainiya Urdu Baya Bhag,Main,1,523,N-240 6’11’’,E-840 03’35’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],004,Prathamik Vidyalay Purainiya Urdu Daya Bhag,Auxiliary,524,,N-240 12’26’’,E-840 03’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],005,"Utkramit Madhya Vidyalay, Purainiya Hindi Baya Bhag",Main,1,687,N-240 12’26’’,E-840 03’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],005,"Utkramit Madhya Vidyalay, Purainiya Hindi Daya Bhag",Auxiliary,688,,N-240 12’26’’,E-840 03’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],006,Uchcha Vidyalay Jhunathi,Main,1,,N-240 12’27’’,E-840 03’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],007,Uchcha Vidhalay Jhunathi (Middle Part),Main,1,,N-240 12’27’’,E-840 03’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],008,"Prathamik Vidyalay, Nagwan Naya Bhawan",Main,1,,N-24013’32’’,E-840 03’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],009,Prathamik Vidyalay Husaini Bigha,Main,1,,N-24013’32’’,E-840 03’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],010,"Utkramit Madhya Vidyalay,Tekari Baya Bhag",Main,1,562,N-24013’32’’,E-840 03’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],010,"Utkramit Madhya Vidyalay,Tekari Daya Bhag",Auxiliary,563,,N-24013’32’’,E-840 03’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],011,"Utkramit Madhya Vidyalay, Hajipur Baya Bhag",Main,1,659,N-24013’32’’,E-840 03’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],011,"Utkramit Madhya Vidyalay, Hajipur Daya Bhag",Auxiliary,660,,N-24013’32’’,E-840 03’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],012,"Prathamik Vidyalay, Salemapur Baya Bhag",Main,1,562,N-240 12’32’’,E-840 04’30’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],012,"Prathamik Vidyalay, Salemapur Daya Bhag",Auxiliary,563,,N-240 12’32’’,E-840 04’30’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],013,"Prathamik Vidyalay,Gulav Sinh English (Uttar Bhag)",Main,1,,N-240 09’73’’,E-840 12’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],014,Prathmik Vidhalay Gulab Singh Ke English (Dakshin Bhag),Main,1,,N-240 09’73’’,E-840 12’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],015,"Madhya Vidyalay , Shiv Nagar Purana Bhawan Baya Bhag",Main,1,561,N-240 09’36’’,E-840 12’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],015,"Madhya Vidyalay , Shiv Nagar Purana Bhawan Daya Bhag",Auxiliary,562,,N-240 09’36’’,E-840 12’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],016,"Madhya Vidyalay , Shivnagar Naya Bhawan",Main,1,,N-240 09’36’’,E-840 12’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],017,"Utkramit Madhya Vidyalay, Ramnagar Baya Bhag",Main,1,,N-240 09’36’’,E-840 12’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],018,"Utkramit Madhya Vidyalay, Ramnagar (Daya Bhag)",Main,1,,N-240 09’36’’,E-840 12’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],019,"Prathamik Vidyalay, Rampur",Main,1,,N-240 11’53’’,E-840 11’29’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],020,Prathamik Vidyalay Satawan Baya Bhag,Main,1,555,N-240 11’53’’,E-840 11’29’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],020,Prathamik Vidyalay Satavan Daya Bhag,Auxiliary,556,,N-240 11’53’’,E-840 11’29’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],021,"Uchcha Vidyalay,Aiyara",Main,1,,N-240 11’53’’,E-840 11’29’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],022,Madhya Vidyalay Aiyara,Main,1,,N-240 11’53’’,E-840 11’29’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],023,Utkramit Madhya Vidyalay Mubarakpur Chand,Main,1,,N-240 11’53’’,E-840 14’08’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],024,Samudayik Bhawan Khalilpura,Main,1,,N-240 12’63’’,E-840 14’08’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],025,"Prathamik Vidyalay, Bajitapur Hindi Baya Bhag",Main,1,538,N-240 12’63’’,E-840 14’08’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],025,"Prathamik Vidyalay, Bajitapur Hindi Daya Bhag",Auxiliary,539,,N-240 12’63’’,E-840 14’08’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],026,Utkramit Madhya Vidyalay Rohai Baya Bhag,Main,1,584,N-240 12’63’’,E-840 15’23’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],026,Utkramit Madhya Vidyalay Rohai Daya Bhag,Auxiliary,585,,N-240 12’63’’,E-840 15’23’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],027,Uchcha Vidyalay Bakhtari Baya Bhag,Main,1,739,N-240 12’63’’,E-840 15’23’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],027,Uchcha Vidyalay Bakhtari Daya Bhag,Auxiliary,740,,N-240 12’63’’,E-840 15’23’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],028,Navsrijit Prathamik Vidyalay Mahapur Vara,Main,1,,N-240 13’45’’,E-840 15’23’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],029,"Prathamik Vidyalay, Manjhopur",Main,1,,N-240 13’45’’,E-840 15’23’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],030,Uchcha Vidyalay Rohai Baya Bhag,Main,1,562,N-240 13’45’’,E-840 16’43’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],030,Uchcha Vidyalay Rohai Daya Bhag,Auxiliary,563,,N-240 13’45’’,E-840 16’43’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],031,Prathamik Vidyalay Karava Hankar,Main,1,,N-240 15’22’’,E-840 17’33’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],032,Prathamik Vidyalay Gajipur,Main,1,,N-240 15’22’’,E-840 17’33’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],033,Utkramit Madhya Vidyalay Lodipur Baya Bhag,Main,1,523,N-240 15’22’’,E-840 17’33’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],033,Utkramit Madhya Vidyalay Lodipur Daya Bhag,Auxiliary,524,,N-240 15’22’’,E-840 17’33’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],034,Prathamik Vidyalay Saramastpur Baya Bhag,Main,1,712,N-240 15’22’’,E-84020’16’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],034,Prathamik Vidyalay Saramastpur Daya Bhag,Auxiliary,713,,N-240 15’22’’,E-84020’16’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],035,Prathamik Vidyalay Panchakeshar,Main,1,,N-240 14’03’’,E-840 21’46’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],036,Prathmik Vidhalay Pachkesar (Madhya Bhag),Main,1,,N-240 14’03’’,E-840 21’46’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],037,Samudayik Bhavan Ramapur Sthit Khajuri,Main,1,,N-240 14’03’’,E-840 22’36’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],038,Utkramit Madhya Vidyalay Khajuri Baya Bhag,Main,1,729,N-240 14’03’’,E-840 22’36’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],038,Utkramit Madhya Vidyalay Khajuri Daya Bhag,Auxiliary,730,,N-240 14’03’’,E-840 22’36’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],039,Utkramit Madhya Vidyalay Makabulpur Purbi Bhag,Main,1,,N-240 14’03’’,E-840 22’36’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],040,Prathamik Vidyalay Angari Baya Bhag,Main,1,641,N-240 11’53’’,E-840 22’36’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],040,Prathamik Vidyalay Angari Daya Bhag,Auxiliary,642,,N-240 11’53’’,E-840 22’36’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],041,Samudayik Bhawan Bhuapur,Main,1,709,N-240 13’53’’,E-840 23’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],041,Samudayik Bhawan Bhuapur Parisar Me Chalant Matadan Kendra,Auxiliary,710,,N-240 13’53’’,E-840 23’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],042,Prathamik Vidyalay Kansara,Main,1,,N-240 14’35’’,E-840 23’35’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],043,"Madhya Vidyalay, Kochahasa (Uttar Bhag)",Main,1,,N-24013’33’’,E-840 23’35’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],044,Madhya Vidyalay Kochahasa (Dakshin Bhag),Main,1,,N-24013’33’’,E-840 23’35’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],045,"Prathamik Vidyalay, Vajitapur Urdu Baya Bhag",Main,1,577,N-24013’33’’,E-840 24’33’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],045,"Prathamik Vidyalay, Vajitapur Urdu Daya Bhag",Auxiliary,578,,N-24013’33’’,E-840 24’33’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],046,Prathamik Vidyalay Chirari Bigha,Main,1,,N-24013’33’’,E-840 24’33’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],047,Utkramit Madhya Vidyalay Mahatpura,Main,1,,N-24013’33’’,E-840 24’33’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],048,Buniyadi Madhya Vidyalay Shantipuram (Purbi Bhag),Main,1,558,N-240 12’16’’,E-840 25’45’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],048,Buniyadi Madhya Vidyalay Shantipuram (Purbi Daya Bhag),Auxiliary,559,,N-240 12’16’’,E-840 25’45’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],049,"Buniyadi Madhya Vidyalay,Shantupuram (Purbi Bhag)",Main,1,671,N-240 12’16’’,E-840 25’45’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],049,"Buniyadi Madhya Vidyalay,Shantupuram (Purbi Daya Bhag)",Auxiliary,672,,N-240 12’16’’,E-840 25’45’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],050,"Kanya Prathamik Vidyalay, Majidpur",Main,1,,N-240 12’16’’,E-840 25’45’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],051,Prathamik Vidyalay Ganiyari,Main,1,,N-240 14’33’’,E-840 25’45’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],052,"Utkramit Madhya Vidyalay, Pariyaridih (Baya Bhag)",Main,1,,N-240 15’03’’,E-840 25’45’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],053,Utkramit Madhya Vidyalay Pariyari Dih (Daya Bhag),Main,1,,N-240 15’03’’,E-840 25’45’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],054,Uchhcha Vidyalay Mirjapur,Main,1,,N-240 15’03’’,E-840 26’17’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],055,"Prathamik Vidyalay, Mahariya Baya Bhag",Main,1,694,N-240 15’03’’,E-840 26’17’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],055,"Prathamik Vidyalay, Mahariya Daya Bhag",Auxiliary,695,,N-240 15’03’’,E-840 26’17’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],056,"Prathamik Vidyalay, Kanhaiyachak",Main,1,,N-240 15’03’’,E-840 26’17’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],057,Madhya Vidyalay Kinjar,Main,1,,N-240 15’03’’,E-840 26’17’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],058,Madhya Vidhalay Kinjar (Madhya Bhag),Main,1,,N-240 15’03’’,E-840 26’17’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],059,Panchayat Bhawan Kinjar,Main,1,,N-240 15’03’’,E-840 26’17’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],060,Panchyat Bhawan Kinjar (Madhya Bhag),Main,1,,N-240 15’03’’,E-840 26’17’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],061,Samudayik Bhavan Chanaura,Main,1,,N-240 16’07’’,E-840 26’17’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],062,"Uchcha Vidyalay, Kinjar (Purbi Bhag)",Main,1,,N-240 16’07’’,E-840 27’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],063,Uchcha Vidhalay Kinjar (Pachhimi Bhag),Main,1,,N-240 16’07’’,E-840 27’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],064,Utkramit Madhya Vidyalay Karahari Baya Bhag,Main,1,603,N-240 10’07’’,E-840 27’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],064,Utkramit Madhya Vidyalay Karahari Daya Bhag,Auxiliary,604,,N-240 10’07’’,E-840 27’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],065,"Prathamik Vidyalay, Nagala Purana Bhawan Baya Bhag",Main,1,580,N-240 10’07’’,E-840 27’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],065,"Prathamik Vidyalay, Nagala Purana Bhawan Daya Bhag",Auxiliary,581,,N-240 10’07’’,E-840 27’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],066,"Prathamik Vidyalay, Nagala Naya Bhawan Baya Bhag",Main,1,552,N-240 10’07’’,E-840 27’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],066,"Prathamik Vidyalay, Nagala Naya Bhawan Daya Bhag",Auxiliary,553,,N-240 10’07’’,E-840 27’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],067,"Utkramit Madhya Vidyalay, Samanpur Vado Baya Bhag",Main,1,699,N-24011’25’’,E-840 11’53’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],067,"Utkramit Madhya Vidyalay, Samanpur Vado Daya Bhag",Auxiliary,700,,N-24011’25’’,E-840 11’53’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],068,"Prathamik Vidyalay, Bara",Main,1,,N-240 12’47”,E-840 11’53’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],069,Samudayik Bhavan Jhikatiya,Main,1,501,N-240 12’47”,E-840 11’53’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],069,Samudayik Bhawan Jhikatiya Parisar me Chalanat Matadan Kendra,Auxiliary,502,,N-240 12’47”,E-840 11’53’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],070,"Utkramit Madhya Vidyalay, Murari (Dakshin Bhag)",Main,1,660,N-240 09’33’’,E-840 11’53’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],070,"Utkramit Madhya Vidyalay, Murari ( Dakshin Daya Bhag)",Auxiliary,661,,N-240 09’33’’,E-840 11’53’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],071,"Utkramit Madhya Vidyalay, Murari (Uttar Bhag)",Main,1,678,N-240 09’33’’,E-840 11’53’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],071,"Utkramit Madhya Vidyalay, Murari (Uttar Daya Bhag)",Auxiliary,679,,N-240 09’33’’,E-840 11’53’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],072,"Utkramit Madhya Vidyalay, Selarpur Uttar Bhag",Main,1,,N-240 09’33’’,E-84012’29’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],073,Utkrmit Madhya Vidhalay Selarpur Dakshin Bhag,Main,1,,N-240 09’33’’,E-84012’29’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],074,Prathamik Vidyalay Belkhari Baya Bhag,Main,1,570,N-240 11’34’’,E-84012’29’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],074,Prathamik Vidyalay Belkhari Daya Bhag,Auxiliary,571,,N-240 11’34’’,E-84012’29’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],075,"Sardar Patel Uchcha Vidyalay, Nadi Khurd Baya Bhag",Main,1,530,N-240 11’34’’,E-84013’43’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],075,"Sardar Patel Uchcha Vidyalay, Nadi Khurd Daya Bhag",Auxiliary,531,,N-240 11’34’’,E-84013’43’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],076,"Utkramit Madhya Vidyalay, Narga (Uttar Bhag)",Main,1,,N-240 11’34’’,E-84014’43’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],077,Utkrmit Madhya Vidhalay Narga (Madhya Bhag),Main,1,,N-240 11’34’’,E-84014’43’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],078,"Utkramit Madhya Vidyalay, Narga (Dakshin Bhag)",Main,1,,N-240 11’34’’,E-84014’43’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],079,Utkramit Madhya Vidyalay Kusare (Uttar Bhag),Main,1,727,N-240 12’51’’,E-840 15’36’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],079,Utkramit Madhya Vidyalay Kusare (Uttar Daya Bhag),Auxiliary,728,,N-240 12’51’’,E-840 15’36’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],080,"Utkramit Madhya Vidyalay, Kusare (Dakshin Bhag)",Main,1,,N-240 12’51’’,E-840 15’36’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],081,Prathamik Vidyalay Jayamangal Bigha Baya Bhag,Main,1,570,N-240 10’15’’,E-84013’36’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],081,Prathamik Vidyalay Jayamangal Bigha Daya Bhag,Auxiliary,571,,N-240 10’15’’,E-84013’36’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],082,Prakhand Karyalay Karpi,Main,1,,N-240 10’15’’,E-84013’36’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],083,"Prakhand Karyalay, Karpi (Madhya Bhag)",Main,1,,N-240 10’15’’,E-84013’36’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],084,Uchcha Vidyalay Karpi (Uttar Bhag),Main,1,709,N-240 10’15’’,E-84013’36’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],084,Uchcha Vidyalay Karapi (Uttar Daya Bhag),Auxiliary,710,,N-240 10’15’’,E-84013’36’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],085,"Uchcha Vidyalay, Karpi (Dakshin Bhag)",Main,1,,N-240 10’15’’,E-84013’36’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],086,Uchcha Vidhalay Karpi (Madhya Bhag),Main,1,,N-240 10’15’’,E-84013’36’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],087,Prathamik Vidyalay Bair Bigha,Main,1,,N-240 09’25’’,E-84013’36’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],088,Prathamik Vidyalay Pathak Bigha Baya Bhag,Main,1,502,N-240 10’15’’,E-840 10’15’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],088,Prathamik Vidyalay Pathak Bigha Daya Bhag,Auxiliary,503,,N-240 10’15’’,E-840 10’15’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],089,Prathamik Vidyalay Puravari Mathiya,Main,1,,N-240 10’15’’,E-840 10’15’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],090,Utkramit Madhya Vidyalay Mahpurbara Baya Bhag,Main,1,510,N-240 10’15’’,E-84011’24’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],090,Utkramit Madhya Vidyalay Mahpurbara Daya Bhag,Auxiliary,511,,N-240 10’15’’,E-84011’24’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],091,"Utkramit Madhya Vidyalay, Rasalpur Titra (Uttar Bhag)",Main,1,,N-240 10’15’’,E-84011’24’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],092,Utkramit Madhya Vidhalay Rasalpur Titra (Madhya Bhag),Main,1,,N-240 10’15’’,E-84011’24’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],093,Utkramit Madhya Vidyalay Dorra ( Uttar Bhag),Main,1,,N-240 10’15’’,E-84011’24’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],094,Utkramit Madhya Vidhalay Dorra ( Dakshin Bhag),Main,1,,N-240 10’15’’,E-84011’24’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],095,Madhya Vidyalay Kutubpur Terra (Uttar Bhag ),Main,1,689,N-240 10’15’’,E-84012’27’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],095,Madhya Vidyalay Kutubpur Terra (Uttar Daya Bhag),Auxiliary,690,,N-240 10’15’’,E-84012’27’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],096,Madhya Vidyalay Kutubpur Terra (Dakshin Bhag),Main,1,,N-240 10’15’’,E-84012’27’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],097,Prathamik Vidyalay Bandopur,Main,1,,N-240 10’15’’,E-84012’27’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],098,Utkramit Madhya Vidyalay Katesar (Uttar Bhag),Main,1,,N-240 10’15’’,E-84012’27’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],099,Utkramit vidhalay kateshar (madhya bhag),Main,1,,N-240 10’15’’,E-84012’27’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],100,"Utkramit Madhya Vidyalay, Katesar (Dakshin Bhag))",Main,1,623,N-240 10’15’’,E-84012’27’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],100,"Utkramit Madhya Vidyalay, Katesar (Dakshin Daya Bhag)",Auxiliary,624,,N-240 10’15’’,E-84012’27’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],101,Uchcha Vidyalay Jonaha,Main,1,,N-240 08’18’’,E-84011’23’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],102,"Prathamik Vidyalay, Baghara Baya Bhag",Main,1,525,N-240 08’18’’,E-84011’23’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],102,"Prathamik Vidyalay, Baghara Daya Bhag",Auxiliary,526,,N-240 08’18’’,E-84011’23’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],103,"Madhya Vidyalay, Puran Baya Bhag",Main,1,680,N-240 09’22’’,E-84012’25’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],103,"Madhya Vidyalay, Puran Daya Bhag",Auxiliary,681,,N-240 09’22’’,E-84012’25’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],104,"Prathamik Vidyalay, Oranipar",Main,1,,N-240 09’22’’,E-84012’25’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],105,"Dharanidhar Uchcha Vidyalay, Puran",Main,1,,N-240 13’07’’,E-84012’25’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],106,"Utkramit Madhya Vidyalay, Kudrasi (uttari bhag)",Main,1,522,N-240 13’07’’,E-84012’25’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],106,"Utkramit Madhya Vidyalay, Kudrasi (uttari Daya bhag)",Auxiliary,523,,N-240 13’07’’,E-84012’25’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],107,Utkramit madhya vidhalay kudrashi (dakshni bhag),Main,1,,N-240 13’07’’,E-84012’25’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],108,"Prathamik Vidyalay, Chauhar Baya Bhag",Main,1,690,N-240 14’10’’,E-84012’25’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],108,"Prathamik Vidyalay, Chauhar Daya Bhag",Auxiliary,691,,N-240 14’10’’,E-84012’25’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],109,"Madhya Vidyalay, Anandapur",Main,1,,N-240 14’10’’,E-84018’20’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],110,"Utkramit Madhya Vidyalay, Pakari",Main,1,,N-240 14’10’’,E-84018’20’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],111,"Prathamik Vidyalay, Chauhar Chak",Main,1,,N-240 14’10’’,E-84018’20’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],112,"Navsarjit Prathamik Vidyalay,Vajitapur",Main,1,,N-240 14’10’’,E-84018’20’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],113,"Utkramit Madhya Vidyalay, Makhmilpur",Main,1,,"25° 9' 28.8""N","84° 44' 34.08""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],114,"Utkramit Madhya Vidyalay, Karwan Balram",Main,1,,"25° 8' 43.08""N","84° 43' 49.8""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],115,"Utkarmit Madhya Vidyalay, Sarawali Baya Bhag",Main,1,760,"25° 8' 29.04""N","84° 42' 27.72""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],115,"Utkarmit Madhya Vidyalay, Sarawali Daya Bhag",Auxiliary,761,,"25° 8' 29.04""N","84° 42' 27.72""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],116,"Urdu Prathamik Vidyalay, Sherpur",Main,1,,"25° 8' 21.12""N","84° 42' 39.24""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],117,"Utkramit Madhya Vidyalay, Sherpur Baya Bhag",Main,1,585,"25° 8' 21.12""N","84° 42' 39.24""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],117,"Utkramit Madhya Vidyalay, Sherpur Daya Bhag",Auxiliary,586,,"25° 8' 21.12""N","84° 42' 39.24""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],118,Samudayik Bhawan Gangapur,Main,1,,"25° 7' 49.51""N","84° 43' 30""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],119,"Utkramit Madhya Vidyalay, Anuaa (Uttar Bhag)",Main,1,615,"25° 7' 49.51""N","84° 45' 24.12""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],119,"Utkramit Madhya Vidyalay, Anuaa (Uttar Daya Bhag)",Auxiliary,616,,"25° 7' 49.51""N","84° 45' 24.12""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],120,"Utkramit Madhya Vidyalay, Anuaa (Dakshin Bhag)",Main,1,,"25° 7' 49.51""N","84° 45' 24.12""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],121,"Utkarmit Madhya Vidyalay, Bhagawatipur Baya Bhag",Main,1,623,"25° 8' 8.88""N","84° 4' 28.6""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],121,"Utkarmit Madhya Vidyalay, Bhagawatipur Daya Bhag",Auxiliary,624,,"25° 8' 8.88""N","84° 4' 28.6""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],122,"Utkarmit Madhya Vidyalay, Dharanai Baya Bhag",Main,1,781,"25° 7' 32.52""N","84° 44' 0.96""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],122,"Utkarmit Madhya Vidyalay, Dharanai Daya Bhag",Auxiliary,782,,"25° 7' 32.52""N","84° 44' 0.96""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],123,"Prathamik Vidyalay, Rainath",Main,1,,"25° 7' 49.51""N","84° 43' 30""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],124,"Utkarmit Madhya Vidyalay, Daniyala Baya Bhag",Main,1,694,"25° 7' 13.08""N","84° 44' 25.33""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],124,"Utkarmit Madhya Vidyalay, Daniyala Daya Bhag",Auxiliary,695,,"25° 7' 13.08""N","84° 44' 25.33""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],125,"Utkarmit Madhya Vidyalay, Chamandi (Purbi Bhag)",Main,1,,"25° 7' 9.12""N","84° 45' 46.08""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],126,Utkarmit Madhya Vidhalay Chamandi (Pachhimi Bhag),Main,1,,"25° 7' 9.12""N","84° 45' 46.08""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],127,Pustakalay Bhawan Dharmapur,Main,1,723,"25° 6' 49.32""N","84° 44' 42""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],127,Pustakalay Bhawan Dharmapur Parisar Me Chalant Matadan Kendra,Auxiliary,724,,"25° 6' 49.32""N","84° 44' 42""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],128,"Madhya Vidyalay, Pondil (uttari bhag)",Main,1,708,"25° 6' 9.72""N","84° 45' 40.32""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],128,"Madhya Vidyalay, Pondil (uttari Daya bhag)",Auxiliary,709,,"25° 6' 9.72""N","84° 45' 40.32""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],129,"Prathamik Vidyalay, Badahiya,",Main,1,,"25° 59' 42""N","84° 46' 28.56""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],130,"Madhay Vidyalay, Pondil (Dakshni bhag)",Main,1,708,"25° 6' 9.72""N","84° 45' 40.32""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],130,"Madhay Vidyalay, Pondil (Dakshni Daya bhag)",Auxiliary,709,,"25° 6' 9.72""N","84° 45' 40.32""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],131,"Utkramit Madhya Vidyalay, Bithra",Main,1,,"25° 5' 6.36""N",84° 47' 10.68''E,Yes,Yes,Yes
+215-Kurtha [33-Arwal],132,Harijan Samudayik Bhawan Bithra,Main,1,,"25° 5' 6.36""N","84° 47' 11.4""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],133,"Madhya Vidyalay, Sonbhadra (Purbi Bhag)",Main,1,667,"25° 7' 36.12""N","84° 43' 19.92""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],133,"Madhya Vidyalay, Sonbhadra (Purbi Daya Bhag)",Auxiliary,668,,"25° 7' 36.12""N","84° 43' 19.92""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],134,Samudayik Bhawan Sonbhadra (Purbi Bhag),Main,1,527,"25° 7' 26.76""N",84° 43' 26.04''E,Yes,Yes,Yes
+215-Kurtha [33-Arwal],134,Samudayik Bhawan Sonbhadra (Paschhimi Bhag),Auxiliary,528,,"25° 7' 26.76""N",84° 43' 26.04''E,Yes,Yes,Yes
+215-Kurtha [33-Arwal],135,Navsrijit Prathmik Vidhalay Sonbhadra Mathiya,Main,1,,"25° 7' 36.48""N","84° 45' 23.4""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],136,"Utkramit Madhya Vidyalay, shadipur (Purbi Bhag)",Main,1,664,"25° 6' 29.52""N","84° 44' 56.76""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],136,"Utkramit Madhya Vidyalay, shadipur (Paschhimi Bhag)",Auxiliary,665,,"25° 6' 29.52""N","84° 44' 56.76""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],137,"Madhya Vidyalay, Banshi Kalyanpur Baya Bhag",Main,1,656,"25° 6' 50.04""N","84° 43' 19.92""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],137,"Madhya Vidyalay, Banshi Kalyanpur Daya Bhag",Auxiliary,657,,"25° 6' 50.04""N","84° 43' 19.92""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],138,"Uchcha Vidyalay, Banshi Kalyanpur Baya Bhag",Main,1,594,"25° 6' 50.04""N","84° 43' 19.92""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],138,"Uchcha Vidyalay, Banshi Kalyanpur Daya Bhag",Auxiliary,595,,"25° 6' 50.04""N","84° 43' 19.92""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],139,"Utkramit Madhya Vidyalay, Moglapur",Main,1,,"25° 6' 47.52""N","84° 43' 30""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],140,"Utkramit Madhya Vidyalay, Odd Bigha",Main,1,,"25° 5' 38.4""N","84° 44' 43.44""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],141,"Uchcha Vidyalay, Manga Bigha Baya Bhag",Main,1,576,"25° 25' 37.92""N","84° 43' 34.32""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],141,"Uchcha Vidyalay, Manga Bigha Daya Bhag",Auxiliary,577,,"25° 25' 37.92""N","84° 43' 34.32""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],142,"Utkramit Madhya Vidyalay, Batan Bigha Baya Bhag",Main,1,543,"25° 8' 0.96""N","84° 41' 55.68""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],142,"Utkramit Madhya Vidyalay, Batan Bigha Daya Bhag",Auxiliary,544,,"25° 8' 0.96""N","84° 41' 55.68""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],143,"Prathamik Vidyalay, Ramgadh Baya Bhag",Main,1,538,"25° 8' 0.96""N","84° 40' 43.68""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],143,"Prathamik Vidyalay, Ramgadh Daya Bhag",Auxiliary,539,,"25° 8' 0.96""N","84° 40' 43.68""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],144,"Madhya Vidyalay, Mali Purvi Bhag",Main,1,655,"25° 7' 34.68""N","84° 41' 32.28""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],144,"Madhya Vidyalay, Mali Paschami Bhag",Auxiliary,656,,"25° 7' 34.68""N","84° 41' 32.28""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],145,"Madhya Vidyalay, Mali Baya Bhag",Main,1,692,"25° 7' 34.68""N","84° 41' 32.28""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],145,"Madhya Vidyalay, Mali Daya Bhag",Auxiliary,693,,"25° 7' 34.68""N","84° 41' 32.28""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],146,"Madhya Vidyalay, Turka Telapa",Main,1,,"25° 6' 20.52""N","84° 42' 2.52""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],147,Madhya Vidhalay Turk Telpa (Madhya Bhag),Main,1,,"25° 6' 20.52""N","84° 42' 2.52""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],148,"Utkramit Madhya Vidyalay, Jindapur Baya Bhag",Main,1,563,"25° 9' 12.96""N","84° 43' 34.32""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],148,"Utkramit Madhya Vidyalay, Jindapur Daya Bhag",Auxiliary,564,,"25° 9' 12.96""N","84° 43' 34.32""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],149,Utkramit Madhya Vidhalay Jindapur (Madhya Bhag),Main,1,,"25° 9' 12.96""N","84° 43' 34.32""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],150,Panchayat Bhawan Khadasin Tola Motichak Baya Bhag,Main,1,602,"25° 6' 11.52""N","84° 45' 11.52""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],150,Panchayat Bhawan Khadasin Tola Motichak Daya Bhag,Auxiliary,603,,"25° 6' 11.52""N","84° 45' 11.52""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],151,"Madhya Vidyalay, Khadasin (Dakshin Bhag)",Main,1,695,"25° 6' 47.88""N","84° 50' 47.76""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],151,"Madhya Vidyalay, Khadasin (Dakshin Daya Bhag)",Auxiliary,696,,"25° 6' 47.88""N","84° 50' 47.76""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],152,"Madhya Vidyalay, Khadasin (Uttar Bhag)",Main,1,,"25° 6' 47.88""N","84° 50' 47.76""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],153,"Prathamik Vidyalay, Paharpur Baya Bhag",Main,1,691,"25° 6' 11.88""N","84° 45' 39.24""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],153,"Prathamik Vidyalay, Paharpur Daya Bhag",Auxiliary,692,,"25° 6' 11.88""N","84° 45' 39.24""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],154,"Utkramit Madhya Vidyalay, Ekraunja Baya Bhag",Main,1,550,"25° 6' 6.12""N","84° 41' 13.56""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],154,"Utkramit Madhya Vidyalay, Ekraunja Daya Bhag",Auxiliary,551,,"25° 6' 6.12""N","84° 41' 13.56""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],155,"Utkramit Madhya Vidyalay, Balaura (Purbi Bhag)",Main,1,626,"25° 5' 40.2""N","84° 4' 10.92""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],155,"Utkramit Madhya Vidyalay, Balaura (Purbi Daya Bhag)",Auxiliary,627,,"25° 5' 40.2""N","84° 4' 10.92""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],156,Utkramit Madhya Vidhalay Balaura (Paschhimi Bhag),Main,1,,"25° 5' 40.2""N","84° 4' 10.92""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],157,"Prathamik Vidyalay, koni (Purbi Bhag)",Main,1,695,"25° 5' 42""N","84° 43' 3.36""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],157,"Prathamik Vidyalay, koni (Paschhimi Bhag)",Auxiliary,696,,"25° 5' 42""N","84° 43' 3.36""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],158,"Utkramit Madhya Vidyalay, Senari",Main,1,,25° 4' 56.28N,"84° 43' 28.56""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],159,Samudayik Bhawan munnaganj,Main,1,,"25° 4' 23.52""N","84° 43' 28.56""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],160,"Prathamik Vidyalay, Kuramawa Baya Bhag",Main,1,585,"25° 4' 23.52""N","84° 43' 30.72""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],160,"Prathamik Vidyalay, Kuramawa Daya Bhag",Auxiliary,586,,"25° 4' 23.52""N","84° 43' 30.72""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],161,"Prathamik Vidyalay, Manjhiyanwa (Purbi Bhag)",Main,1,509,"25° 6' 11.52""N","84° 45' 54.72""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],161,"Prathamik Vidyalay, Manjhiyanwa (Purbi Daya Bhag)",Auxiliary,510,,"25° 6' 11.52""N","84° 45' 54.72""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],162,Prathmik vidhalay manjhiyava (Paschhimi Bhag),Main,1,,"25° 6' 11.52""N","84° 45' 54.72""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],163,"Madhya Vidyalay, Gonpur",Main,1,,"25° 4' 53.04""N","84° 43' 54.72""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],164,"Prathamik Vidyalay, Repura",Main,1,,"25° 6' 6.12""N","84° 41' 3.12""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],165,"Prathamik Vidyalay, Mobarakpur",Main,1,,"25° 6' 40.68""N","84° 41' 13.2""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],166,"Prathamik Vidyalay, Chandokhar",Main,1,,"25° 6' 11.16""N","84° 43' 33.6""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],167,"Madhya Vidyalay, Khatangi (Paschhimi Bhag )",Main,1,,"25° 3' 33.48""N","84° 45' 7.2""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],168,"Madhya Vidyalay, Khatangi (Purbi Bhag)",Main,1,661,"25° 3' 33.48""N","84° 45' 7.2""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],168,"Madhya Vidyalay, Khatangi (Purbi Daya Bhag)",Auxiliary,662,,"25° 3' 33.48""N","84° 45' 7.2""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],169,"Uchcha Vidyalay, Khatangi Baya Bhag",Main,1,588,"25° 6' 19.08""N","84° 46' 58.8""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],169,"Uchcha Vidyalay, Khatangi Daya Bhag",Auxiliary,589,,"25° 6' 19.08""N","84° 46' 58.8""E",Yes,Yes,Yes
+215-Kurtha [33-Arwal],170,"Utkramit Madhya Vidyalay, Khaira Bajar Baya Bhag",Main,1,701,N-250 8’32’’,E-840 46’50’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],170,"Utkramit Madhya Vidyalay, Khaira Bajar Daya Bhag",Auxiliary,702,,N-250 8’32’’,E-840 46’50’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],171,"Utkramit Madhya Vidyalay, Khairadih",Main,1,,N-250 8’30’’,E-840 46’48’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],172,"Prathamik Vidyalay, Helalapur Baya Bhag",Main,1,813,N-250 11’22’’,E-840 48’36’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],172,"Prathamik Vidyalay, Helalapur Daya Bhag",Auxiliary,814,,N-250 11’22’’,E-840 48’36’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],173,"Prathamik Vidyalay, Ibrahimpur Dih (Purbi Bhag)",Main,1,524,N-250 10’32’’,E-840 48’50’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],173,"Prathamik Vidyalay, Ibrahimpur Dih (Purbi Daya Bhag)",Auxiliary,525,,N-250 10’32’’,E-840 48’50’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],174,"Prathamik Vidyalay, Ibrahimpur Dih (Paschhimi Bhag)",Main,1,549,N-250 10’32’’,E-840 48’50’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],174,"Prathamik Vidyalay, Ibrahimpur Dih (Paschhimi Daya Bhag)",Auxiliary,550,,N-250 10’32’’,E-840 48’50’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],175,"Prathamik Vidyalay, Kamariya",Main,1,,N-250 10’34’’,E-840 47’49’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],176,"Prathamik Vidyalay, Dakra",Main,1,,N-250 9’32’’,E-840 46’52’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],177,Panchayat Bhavan Dhamaul Baya Bhag,Main,1,660,N-250 10’29’’,E-840 48’32’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],177,Panchayat Bhavan Dhamaul Daya Bhag,Auxiliary,661,,N-250 10’29’’,E-840 48’32’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],178,"Utkramit Madhya Vidyalay, Dhamaul (Pachhim Bhag)",Main,1,604,N-250 16’59’’,E-840 48’33’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],178,"Utkramit Madhya Vidyalay, Dhamaul (Pachhim Daya Bhag)",Auxiliary,605,,N-250 16’59’’,E-840 48’33’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],179,"Utkramit Madhya Vidyalay, Dhamaul (Purbi Bhag)",Main,1,615,N-250 10’32’’,E-840 48’33’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],179,"Utkramit Madhya Vidyalay, Dhamaul (Purbi Daya Bhag)",Auxiliary,616,,N-250 10’32’’,E-840 48’33’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],180,"Prathamik Vidyalay, Shahaganj",Main,1,,N-250 16’34’’,E-840 59’42’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],181,"Urdu Utkramit Madhya Vidyalay,Gauhara Baya Bhag",Main,1,716,N-250 16’77’’,E-840 40’52’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],181,"Urdu Utkramit Madhya Vidyalay,Gauhara Daya Bhag",Auxiliary,717,,N-250 16’77’’,E-840 40’52’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],182,"Utkramit Madhya Vidyalay, Gaharpur",Main,1,,N-250 10’32’’,E-840 48’50’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],183,"Utkramit Madhya Vidyalay, Manikpur Kothiya",Main,1,,N-250 17’26’’,E-840 58’39’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],184,"Samudayik Bhawan, Manikpur",Main,1,,N-250 10’36’’,E-840 49’36’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],185,"Urdu Prathamik Vidyalay, Sahjivan Dargah Baya Bhag",Main,1,509,N-250 10’17’’,E-840 48’24’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],185,"Urdu Prathamik Vidyalay, Sahjivan Dargah Daya Bhag",Auxiliary,510,,N-250 10’17’’,E-840 48’24’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],186,"Prathamik Vidyalay, Sablak Sarai Baya Bhag",Main,1,738,N-250 9’56’’,E-840 48’28’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],186,"Prathamik Vidyalay, Sablak Sarai Daya Bhag",Auxiliary,739,,N-250 9’56’’,E-840 48’28’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],187,"Millat Uchcha Vidyalay, Pinjarawan Baya Bhag",Main,1,702,N-250 16’56’’,E-840 58’01’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],187,"Millat Uchcha Vidyalay, Pinjarawan Daya Bhag",Auxiliary,703,,N-250 16’56’’,E-840 58’01’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],188,"Prathamik Vidyalay, Chulhan Bigha",Main,1,,N-250 16’58’’,E-840 58’10’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],189,"Madhya Vidyalay, Pinjarawan Baya Bhag",Main,1,608,N-250 17’65’’,E-840 41’06’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],189,"Madhya Vidyalay, Pinjarawan Daya Bhag",Auxiliary,609,,N-250 17’65’’,E-840 41’06’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],190,"Utkramit Madhya Vidyalay, Gangeya",Main,1,,N-250 8’32’’,E-840 7’32’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],191,"Utkramit Madhya Vidyalay, Kodamarai Baya Bhag",Main,1,765,N-250 10’19’’,E-840 27’20’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],191,"Utkramit Madhya Vidyalay, Kodamarai Daya Bhag",Auxiliary,766,,N-250 10’19’’,E-840 27’20’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],192,"Prathamik Vidyalay, Seva Bigha",Main,1,,N-250 9’17’’,E-840 26’22’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],193,"Prathamik Vidyalay, Alavalapur",Main,1,,N-250 8’15’’,E-840 16’18’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],194,"Prathamik Vidyalay, Dhondhara (Uttri bhag)",Main,1,,N-250 14’47’’,E-840 58’53’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],195,Prathmik vidhalay dhondhara (dakshini bhag),Main,1,,N-250 14’47’’,E-840 58’53’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],196,"Prathamik Vidyalay, Shaidpur Baya Bhag",Main,1,534,N-250 15’15’’,E-840 58’46’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],196,"Prathamik Vidyalay, Shaidpur Daya Bhag",Auxiliary,535,,N-250 15’15’’,E-840 58’46’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],197,"Utkramit Madhya Vidyalay, Musadhi",Main,1,,N-250 10’34’’,E-840 49’11’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],198,"Uchcha Vidyalay, Takeya",Main,1,,N-250 10’21’’,E-840 18’30’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],199,"Urdu Utkramit Madhya Vidyalay, Painathi Baya Bhag",Main,1,747,N-250 9’13’’,E-840 48’18’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],199,"Urdu Utkramit Madhya Vidyalay, Painathi Daya Bhag",Auxiliary,748,,N-250 9’13’’,E-840 48’18’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],200,Shahid Jagadev Samarak College Mathurapur Kurtha Baya Bhag,Main,1,496,N-250 8’36’’,E-840 48’13’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],200,Shahid Jagadev Samarak College Mathurapur Kurtha Daya Bhag,Auxiliary,497,,N-250 8’36’’,E-840 48’13’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],201,"Utkramit Madhya Vidyalay, Benipur Baya Bhag",Main,1,682,N-250 8’0’’,E-840 47’48’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],201,"Utkramit Madhya Vidyalay, Benipur Daya Bhag",Auxiliary,683,,N-250 8’0’’,E-840 47’48’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],202,"Utkramit Madhya Vidyalay, Bara (uttri bhag)",Main,1,508,N-250 7’14’’,E-840 47’39’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],202,"Utkramit Madhya Vidyalay, Bara (uttri daya bhag)",Auxiliary,509,,N-250 7’14’’,E-840 47’39’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],203,Utkramit madhya vidhalay bara (dakshini bhag),Main,1,,N-250 7’14’’,E-840 47’39’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],204,"Madhya Vidyalay, Narahi Baya Bhag",Main,1,601,N-250 10’41’’,E-840 49’49’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],204,"Madhya Vidyalay, Narahi Daya Bhag",Auxiliary,602,,N-250 10’41’’,E-840 49’49’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],205,"Prathamik Vidyalay, Makhadumapur",Main,1,,N-250 6’52’’,E-840 48’40’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],206,"Prathamik Vidyalay, Sura",Main,1,,N-250 5’46’’,E-840 48’40’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],207,"Prathamik Vidyalay, Nayansukh Bigha Baya Bhag",Main,1,617,N-250 7’53’’,E-840 48’58’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],207,"Prathamik Vidyalay, Nayansukh Bigha Daya Bhag",Auxiliary,618,,N-250 7’53’’,E-840 48’58’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],208,Prakhand Karyalay Kurtha (Purbi Bhag),Main,1,701,N-250 7’33’’,E-840 48’37’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],208,Samudayik Bhawan Prakhand Karyalay Kurtha,Auxiliary,702,,N-250 7’33’’,E-840 48’37’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],209,Prakhand Karyalay Kurtha (Paschhimi Bhag),Main,1,528,N-250 7’32’’,E-840 48’31’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],209,Manarega Bhavan Prakhand Karyalay Kurtha,Auxiliary,529,,N-250 7’32’’,E-840 48’31’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],210,Prakhand karyalay kurtha (Madhya Bhag),Main,1,,N-250 7’32’’,E-840 48’31’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],211,"Utkramit Madhya Vidyalay, Mubarakpur Baya Bhag",Main,1,598,N-250 8’29’’,E-840 48’13’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],211,"Utkramit Madhya Vidyalay, Mubarakpur Daya Bhag",Auxiliary,599,,N-250 8’29’’,E-840 48’13’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],212,"Utkrisht Madhya Vidyalay,Kurtha Baya Bhag",Main,1,574,N-250 7’4’’,E-840 48’42’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],212,"Utkrisht Madhya Vidyalay,Kurtha Daya Bhag",Auxiliary,575,,N-250 7’4’’,E-840 48’42’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],213,"Uchcha Vidyalay, Kurthadih (Uttar Bhag)",Main,1,,N-250 7’31’’,E-840 48’30’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],214,Uchcha Vidhalay Kurthadih (Dakshin Bhag ),Main,1,,N-250 7’31’’,E-840 48’30’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],215,"Urdu Prathamik Vidyalay, Gangapur (Purbi Bhag)",Main,1,,N-250 8’32’’,E-840 48’39’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],216,Urdu Prathmik Vidhalay Gangapur (Paschhimi Bhag),Main,1,,N-250 8’32’’,E-840 48’39’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],217,"Prathamik Vidyalay,Visuni Bigha",Main,1,,N-250 13’64’’,E-840 81’70’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],218,Lohiya Samudayik Bhawan Molanachak,Main,1,,N-250 7’22’’,E-840 49’51’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],219,"Utkramit Madhya Vidyalay, Pratappur",Main,1,,N-250 7’37’’,E-840 49’12’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],220,"Prathamik Vidyalay, Fulsathar Baya Bhag",Main,1,543,N-250 7’27’’,E-840 49’43’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],220,"Prathamik Vidyalay, Fulsathar Daya Bhag",Auxiliary,544,,N-250 7’27’’,E-840 49’43’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],221,"Utkramit Madhya Vidyalay, Nijamapur Baya Bhag",Main,1,518,N-250 13’48’’,E-840 43’45’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],221,"Utkramit Madhya Vidyalay, Nijamapur Daya Bhag",Auxiliary,519,,N-250 13’48’’,E-840 43’45’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],222,Lohiya Samudayik Bhavan Sikariya,Main,1,,N-250 12’34’’,E-840 41’37’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],223,"Prathamik Vidyalay, Sachai Baya Bhag",Main,1,625,N-250 13’36’’,E-840 9’12’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],223,"Prathamik Vidyalay, Sachai Daya Bhag",Auxiliary,626,,N-250 13’36’’,E-840 9’12’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],224,"$2 Ramratan Uchhcha Vidyalay,Sachai Baya Bhag",Main,1,553,N-250 7’7’’,E-840 48’56’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],224,"$2 Ramratan Uchhcha Vidyalay,Sachai Daya Bhag",Auxiliary,554,,N-250 7’7’’,E-840 48’56’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],225,"Utkramit Madhya Vidyalay, Bahabalpur",Main,1,,N-250 7’8’’,E-840 50’32’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],226,"Utkramit Madhya Vidyalay, Tali",Main,1,,N-250 7’7’’,E-840 50’31’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],227,samudayik bhawan gokhulpur,Main,1,,N-250 7’9’’,E-840 49’33’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],228,"Utkramit madhya Vidyalay, Medinipur Badahiya (Purbi Bhag)",Main,1,,N-250 5’49’’,E-840 48’47’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],229,"Utkramit madhya Vidyalay, Medinipur Badahiya(Paschhimi Bhag)",Main,1,,N-250 5’49’’,E-840 48’47’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],230,"Prathamik Vidyalay, Daraheta",Main,1,,N-250 6’45’’,E-840 49’46’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],231,"Prathamik Vidyalay,Nadaura",Main,1,,N-250 5’29’’,E-840 47’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],232,Prathmik vidhalay Nadaura (Madhya Bhag),Main,1,,N-250 5’29’’,E-840 47’55’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],233,"Utkramit Madhya Vidyalay, Simuara Baya Bhag",Main,1,694,N-250 5’47”,E-840 49’27’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],233,"Utkramit Madhya Vidyalay, Simuara Daya Bhag",Auxiliary,695,,N-250 5’47”,E-840 49’27’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],234,"Utkramit Madhya Vidyalay, Pirahi",Main,1,,N-250 7’42’’,E-840 48’23’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],235,"Prathamik Vidyalay, Kemdarchak Baya Bhag",Main,1,510,N-250 5’35’’,E-840 48’31’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],235,"Prathamik Vidyalay, Kemdarchak Daya Bhag",Auxiliary,511,,N-250 5’35’’,E-840 48’31’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],236,Utkramit Madhya Vidyalay Rajepur,Main,1,,N-250 4’24’’,E-840 47’10’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],237,Utkramit Madhya Vidhalay Rajepur (Madhya Bhag),Main,1,,N-250 4’24’’,E-840 47’10’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],238,"Prathamik Vidyalay, Pulendarpur",Main,1,,N-250 4’12’’,E-840 47’11’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],239,"Prathamik Vidyalay, Koni",Main,1,,N-250 4’29’’,E-840 48’29’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],240,"Madhya Vidyalay, Manikpur (Uttar Bhag)",Main,1,676,N-250 4’32’’,E-840 48’37’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],240,"Madhya Vidyalay, Manikpur (Uttar Daya Bhag)",Auxiliary,677,,N-250 4’32’’,E-840 48’37’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],241,"Madhya Vidyalay, Manikpur (Dakshin Bhag)",Main,1,669,N-250 4’40’’,E-840 48’40’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],241,"Madhya Vidyalay, Manikpur (Dakshin Daya Bhag)",Auxiliary,670,,N-250 4’40’’,E-840 48’40’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],242,"Utkramit Madhya Vidyalay, Chhatoi Baya Bhag",Main,1,671,N-250 5’44’’,E-840 46’42’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],242,"Utkramit Madhya Vidyalay, Chhatoi Daya Bhag",Auxiliary,672,,N-250 5’44’’,E-840 46’42’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],243,"Utkramit Madhya Vidyalay, Kaitha Lodipur",Main,1,,N-250 5’3’’,E-840 50’58’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],244,Utkramit Madhya Vidhalay Kaitha Lodipur (Madhya Bhag),Main,1,,N-250 5’3’’,E-840 50’58’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],245,Panchayat Bhavan Nidhwan (uttri bhag),Main,1,,N-250 7’54’’,E-840 42’39’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],246,Madhya Vidyalay Nidhwan Block -B Baya Bhag,Main,1,508,N-250 5’27’’,E-840 49’20’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],246,Madhya Vidyalay Nidhwan Block -B Daya Bhag,Auxiliary,509,,N-250 5’27’’,E-840 49’20’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],247,"Madhya Vidyalay, Nidhwan Baya Bhag",Main,1,683,N-250 8’17’’,E-840 48’39’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],247,"Madhya Vidyalay, Nidhwan Daya Bhag",Auxiliary,684,,N-250 8’17’’,E-840 48’39’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],248,Utkramit Madhya Vidyalay Nasirana Baya Bhag,Main,1,552,N-250 7’32’’,E-840 13’83’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],248,Utkramit Madhya Vidyalay Nasirana Daya Bhag,Auxiliary,553,,N-250 7’32’’,E-840 13’83’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],249,"Samudayik Bhawan, Lalachak",Main,1,,N-250 6’18’’,E-840 48’40’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],250,Samudayik Bhawan Salepur,Main,1,,N-250 5’32’’,E-840 51’31’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],251,"Uchhcha Vidyalay, Lari",Main,1,,N-250 7’14’’,E-840 47’39’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],252,"Samudayik Bhawan, Jagdishpur",Main,1,,N-250 4’113’’,E-840 5’13’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],253,"Madhya Vidyalay, Lari",Main,1,,N-250 5’27’’,E-840 51’11’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],254,"Utkramit Madhya Vidyalay, Ahamadpur Harana",Main,1,,N-250 4’13’’,E-840 51’12’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],255,"Utkramit Madhya Vidyalay, Vasatpur",Main,1,,N-250 4’19’’,E-840 50’47’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],256,"Utkramit Madhya Vidyalay,Uttarawa",Main,1,,N-250 4’12’’,E-840 49’53’’,Yes,Yes,Yes
+215-Kurtha [33-Arwal],257,Panchayat Bhawan Sahopur,Main,1,,N-250 8’22’’,E-840 85’29’’,Yes,Yes,Yes

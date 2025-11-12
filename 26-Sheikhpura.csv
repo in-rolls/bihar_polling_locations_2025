@@ -1,0 +1,695 @@
+Polling Station (Main and Auxiliary) Details,,,,,,,,,,
+AC No. & Name,Polling Station No.,Polling Station Name,Main/Auxiliary Polling Station (M/A),Elector Serial No. From,Elector Serial No. To,Latitude of Polling Station Building,Longitude of Polling Station Building,Electricity facility at PS (Yes/No),Toilet Facility at PS (Yes/No),Ramp Facility at PS (Yes/No)
+1,2,3,4,5,6,7,8,9,10,11
+169-Sheikhpura [26-Sheikhpura],1,"Utkramit Middle School, Oraiya, Right Wing",Main,1,521,25.231667,85.847222,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],1A,"Utkramit Middle School, Oraiya, Left Wing",Auxiliary,522,1041,25.231667,85.847222,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],2,"Primary School, Faridpur",Main,1,645,25.219839,85.840836,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],3,"Middle School Mafo, East Wing",Main,1,680,25.21921563,85.84809225,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],3A,"Jawahar Library, Mafo",Main,681,1330,25.21921563,85.84809225,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],4,"Middle School Mafo, West Wing",Main,1,582,25.21921563,85.84809225,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],4A,"Middle School Mafo, Middle Wing",Auxiliary,583,1166,25.21931563,85.84808225,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],5,"Panchayat Bulding, Mafo",Main,1,587,25.219577,85.84751,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],6,Primary School Laxmipur,Main,1,681,25.15,85.83,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],7,"Middle School, Batora",Main,1,874,25.241988,85.926215,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],8,"Primary School, Sahara",Main,1,897,25.213625,85.861508,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],9,"Utkramit Middle School, Belouni, Right Wing",Main,1,533,25.216275,85.891782,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],9A,"Utkramit Middle School, Belouni, Left Wing",Auxiliary,534,1053,25.216275,85.891782,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],10,"Middle School Gagour, Left Wing",Main,1,639,25.20506358,85.87901149,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],10A,"Middle School Gagour, Left Wing, East",Auxiliary,640,1237,25.20506358,85.87901149,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],11,"Middle School Gagour, Middle Wing",Main,1,559,25.20506358,85.87901149,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],11A,"Middle School, Gagaur,Middle Wing East",Auxiliary,560,1114,25.20506358,85.87901149,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],12,"Middle School Gagour, Right Wing",Main,1,629,25.20506358,85.87901149,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],12A,"Middle School,Gagaur, Right Wing East",Auxiliary,630,1246,25.20506358,85.87901149,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],13,"Middle School, Korma",Main,1,883,25.19209761,85.88168884,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],14,"Samudayik Bulding, Jagdishpur",Main,1,485,25.193461,85.880754,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],15,"Middle School Dihkhusumbha, East Wing",Main,1,868,25.17983684,85.92482184,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],16,"Middle School Dihkhusumbha, Middle Wing",Main,1,868,25.17983684,85.92482184,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],17,"Middle School Dihkhusumbha, West Wing",Main,1,623,25.17983684,85.92482184,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],17A,"Middle School Dihkhusumbha, West Wing Left",Auxiliary,624,1236,25.17983684,85.92482184,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],18,"Lalit Narayan High School, Ghatkusumbha East Wing",Main,1,720,25.21194444,85.935,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],18A,"Lalit Narayan High School, Ghatkusumbha West Wing",Auxiliary,721,1412,25.21194444,85.935,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],19,"Middle School Ghatkusumbha, Right Wing",Main,1,719,25.21194444,85.935,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],19A,"Middle School Ghatkusumbha, Left Wing",Auxiliary,720,1418,25.21194444,85.935,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],20,"Utkramit Middle School, Sujawalpur",Main,1,837,25.21194444,85.935,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],21,"Utkramit Middle School, Koyla",Main,1,974,25.19988412,85.95250674,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],22,"Panchayat Sarkar Building,Bhadausi, Right Wing",Main,1,603,25.18548057,85.94209923,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],22A,"Panchayat Sarkar Building,Bhadausi, Left Wing",Auxiliary,604,1203,25.18548057,85.94209923,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],23,"Utkramit Middle School, Baughat, Right Wing",Main,1,532,25.19364181,85.96536082,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],23A,"Utkramit Middle School, Baughat, Left Wing",Auxiliary,533,1064,25.19364181,85.96536082,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],24,"Utkramit Middle School, Dariyapur, Right Wing",Main,1,519,25.15910349,85.93589285,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],24A,"Utkramit Middle School, Dariyapur, Left Wing",Auxiliary,520,1033,25.15910349,85.93589285,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],25,"Middle School, Bhadous, Right Wing",Main,1,841,25.16310563,85.93084876,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],26,"Middle School, Bhadous, Left Wing",Main,1,652,25.16310563,85.93084876,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],27,"Primary School Bhadauns, Yadav Tola, Right Wing",Main,1,716,25.184771,85.940958,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],27A,"Primary School Bhadauns, Yadav Tola, Left Wing",Auxiliary,717,1440,25.184771,85.940958,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],28,"Primary School, Mohammadpur,Right Wing",Main,1,554,25.199369,85.990183,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],28A,"Primary School, Mohammadpur, Left Wing",Auxiliary,555,1107,25.199369,85.990183,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],29,"Primary School, Aalapur, Right Wing",Main,1,542,25.213499,86.014415,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],29A,"Primary School, Aalapur, Left Wing",Auxiliary,543,1041,25.213499,86.014415,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],30,"Uchcha Madhmik School, Panapur, Right Wing",Main,1,840,25.191995,85.988562,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],31,"Uchcha Madhmik School, Panapur, Left Wing",Main,1,707,25.191995,85.988562,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],32,"Middle School Chandey, East Wing",Main,1,514,25.16730151,85.87191229,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],32A,"Middle School Chandey, East Left Wing",Auxiliary,515,1028,25.16730151,85.87191229,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],33,"Middle School Chandey, West Wing",Main,1,645,25.16730151,85.87191229,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],33A,"Middle School Chandey, West Right Wing",Auxiliary,646,1289,25.16730151,85.87191229,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],34,"Middle School Abgil, North Wing",Main,1,857,25.1682125,85.87243258,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],35,"Middle School Abgil, South Wing",Main,1,863,25.1682125,85.87243258,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],36,"Middle School Puraina, East Wing",Main,1,567,25.180007,85.89940948,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],36A,"Middle School Puraina, East Left Wing",Auxiliary,568,1144,25.180007,85.89940948,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],37,"Middle School Puraina, West Wing",Main,1,553,25.180007,85.89940948,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],37A,"Middle School Puraina, West Right Wing",Auxiliary,554,1141,25.180007,85.89940948,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],38,"Utkramit Middle School, Kamasi, East Wing",Main,1,927,25.14161714,85.84861711,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],39,"Utkramit Middle School, Kamasi, West Wing",Main,1,840,25.14161714,85.84861711,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],40,"Primary School, Hasanganj,Right Wing",Main,1,663,25.12461912,85.82561903,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],40A,"Primary School, Hasanganj, Left Wing",Auxiliary,664,1305,25.12461912,85.82561903,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],41,"Primary School Kanya Makatab Sakunat,Left Wing",Main,1,591,25.14547,85.8385181,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],41A,"Primary School Kanya Makatab Sakunat, Right Wing",Auxiliary,592,1185,25.14547,85.8385181,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],42,"Urdu Library Bulding, Yahiyapur",Main,1,931,25.14547003,85.8385181,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],43,"Marwari Marriage Hall, Sheikhpura,Right Wing",Main,1,549,25.134178,85.864649,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],43A,"Marwari Marriage Hall, Sheikhpura, Left Wing",Auxiliary,550,1107,25.134178,85.864649,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],44,"Registry Office, Sheikhpura, North Wing",Main,1,954,25.13929896,85.89629831,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],45,"Registry Office, Sheikhpura, South Wing",Main,1,952,25.13929896,85.89629831,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],46,"Old Sub-Division Office, Sheikhpura, North Wing",Main,1,508,25.13929896,85.89629831,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],46A,"New Sub-Division,Sheikhpura",Auxiliary,509,1018,25.13929896,85.89629831,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],47,"Old Sub-Division Office, Sheikhpura, South Wing",Main,1,575,25.13929896,85.89629831,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],48,"Samudayik Buliding Khandpar,Sheikhpura East Wing",Main,1,641,25.12967001,85.82638962,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],48A,"Samudayik Building Khandpar, West Wing.",Auxiliary,642,1292,25.12967001,85.82638962,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],49,"New Samudayik Buliding Mahuatar Khandpar, East Wing",Main,1,622,25.12967001,85.82638962,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],49A,"New Samudayik Building Mahuatal Khandpar, West Wing",Auxiliary,623,1255,25.12967001,85.82638962,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],50,"Utkramit Middle School, Jamalpur, East Wing",Main,1,663,25.13567274,85.83639863,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],50A,"Utkramit Middle School, Jamalpur, West Wing",Auxiliary,664,1318,25.13567274,85.83639863,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],51,Samudayik Building Laxmi Asthan Jamalpur,Main,1,658,25.13567274,85.83639863,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],51A,"Samudayik Building Laxmi Scthaan Jamalpur, New Building",Auxiliary,659,1286,25.13567274,85.83639863,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],52,"Navsrijit Primary School Bighapar Jamalpur, Right Wing",Main,1,599,25.13578275,85.85632457,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],52A,"Navsrijit Primary School Bighapar Jamalpur, Left Wing",Auxiliary,600,1218,25.13578275,85.85632457,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],53,"Joint Agriculture Building, Sheikhpura, North Wing",Main,1,841,25.12970751,85.83609436,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],54,"Joint Agriculture Building, Sheikhpura, South Wing",Main,1,762,25.12970751,85.83609436,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],55,"Primary School Madpasauna, Left Wing",Main,1,710,25.1682125,85.87243258,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],55A,"Primary School Madpasauna, Right Wing",Auxiliary,711,1423,25.1682125,85.87243258,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],56,"Primary School, Badi Sangat, Pool Par, Right Wing",Main,1,568,25.14131819,85.83841712,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],56A,"Primary School, Badi Sangat, Pool Par, Left Wing",Auxiliary,569,1127,25.14131819,85.83841712,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],57,"D.M. High School, Sheikhpura, West Wing",Main,1,517,25.13363615,85.85416741,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],57A,"D.M. High School, Sheikhpura, East Wing",Auxiliary,518,1062,25.13363615,85.85416741,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],58,"Primary School Mahadev Nagar, Right Wing",Main,1,624,25.12302216,85.83582428,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],58A,"PrimarySchool, Mahadevnagar, Left Wing",Auxiliary,625,1246,25.12302216,85.83582428,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],59,"Harijan Samudayik Bulding, Mahadevnagar , New Building",Main,1,636,25.12302216,85.83582428,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],59A,"Harijan Samudayik Bulding, Mahadevnagar",Auxiliary,637,1275,25.12302216,85.83582428,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],60,"Primary School, Urdu Chadhiyari",Main,1,961,25.13343514,85.83342415,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],61,"Basanti Kanya Middle School, Sheikhpura, Left Wing",Main,1,979,25.14172108,85.8764235,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],62,"Basanti Kanya Middle School, Sheikhpura, Right Wing",Main,1,902,25.13161772,85.85633245,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],63,"Samudayik Building, Chakdiwan, Left Wing",Main,1,561,25.13161836,85.84861872,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],63A,Aaganbadi Kendra No.31 Ambedkar Nagar Budhauli,Auxiliary,562,1121,25.13161836,85.84861872,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],64,"Murarka Kanya High School, Sheikhpura Left wing",Main,1,641,25.14172108,85.87642354,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],64A,"Murarka Kanya High School, Sheikhpura Left North Wing",Auxiliary,642,1284,25.14172108,85.87642354,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],65,"Murarka Kanya High School, Sheikhpura, right wing",Main,1,642,25.14172108,85.87642354,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],65A,"Murarka Kanya High School, Sheikhpura, Right South wing",Auxiliary,643,1274,25.14172108,85.87642354,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],66,Primary School Madpasouna North Left Wing,Main,1,629,25.13161836,85.84861872,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],66A,"Primary School Madpasauna, North Right Wing",Auxiliary,630,1253,25.13161836,85.84861872,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],67,"Primary School Balak Maktab Sakunat, South Wing",Main,1,733,25.13481298,85.86809441,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],67A,"Primary School Balak Maktab Sakunat, North Wing",Auxiliary,734,1466,25.13481298,85.86809441,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],68,"Primary School, Makhdumpur, East Wing",Main,1,573,25.11855696,85.87614909,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],69,"Abhyaas Middle School, Sheikhpura, Left Wing",Main,1,656,25.11855696,85.87614909,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],69A,"Abhyaas Middle School, Sheikhpura, Right Wing",Auxiliary,657,1321,25.11855696,85.87614909,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],70,"Utkramit Middle School, Tarcha, Left Wing",Main,1,919,25.13172449,85.8486737,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],71,"Utkramit Middle School, Tarcha, Righ Wing",Main,1,890,25.13172449,85.84866737,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],72,"Utkramit Middle School, Jamuara Pathraita, Left Wing",Main,1,524,25.14445592,85.87324068,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],72A,"Utkramit Middle School, Jamuara Pathraita, Right Wing",Auxiliary,525,1043,25.14445592,85.87324068,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],73,"Primary School, Urdu Katnikol",Main,1,623,25.13172347,85.87324231,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],74,"Madarsa Habibiya Primary School, Jamuara",Main,1,636,25.12162237,85.8560535,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],75,"Primary School, Indai, Right Wing",Main,1,892,25.13363697,85.85413386,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],76,"Primary School, Indai, Left Wing",Main,1,699,25.13363697,85.85413386,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],77,"Samudayik Building Indai, Left Wing
+ (Khata No.-169, Khasara-103, Thana 190",Main,1,601,25.13363697,85.85413386,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],77A,"Samudayik Building Indai, Right Wing
+ (Khata No.-169, Khasara-103, Thana 190",Auxiliary,602,1215,25.13363697,85.85413386,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],78,"Inspection Building, Sheikhpura, Left Wing East",Main,1,530,25.13465673,85.87348498,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],78A,"Inspection Building, Sheikhpura, Left Wing West",Auxiliary,531,1045,25.13465673,85.87348498,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],79,"Inspection Building, Sheikhpura, Right Wing North",Main,1,510,25.13465673,85.87348498,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],79A,"Inspection Building, Sheikhpura, Right Wing South",Auxiliary,511,1012,25.13465673,85.87348498,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],80,"First Class Animal Hospital, Sheikhpura, North Wing",Main,1,656,25.13501199,85.86681963,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],80A,"First Class Animal Hospital, Sheikhpura, South Wing",Auxiliary,657,1303,25.13501199,85.86681963,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],81,"Utkramit Middle School, Girihinda, South wing",Main,1,596,25.13501199,85.86681963,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],81A,"Utkramit Middle School, Girihinda, North wing",Auxiliary,597,1192,25.13501199,85.86681963,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],82,"Utkramit Middle School, Girihinda, New Building, Left Wing",Main,1,575,25.13501199,85.86681963,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],82A,"Utkramit Middle School, Girihinda, New Building, Rigth Wing",Auxiliary,576,1150,25.13501199,85.86681963,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],83,"Utkramit Middle School, Eaksari Bigha,Left Wing",Main,1,704,25.12906216,85.84361745,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],83A,"Utkramit Middle School, Eaksari Bigha, Right Wing",Auxiliary,705,1407,25.12906216,85.84361745,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],84,"Utkramit Middle School, Eaksari, Left wing",Main,1,812,25.14172108,85.87662354,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],85,"Utkramit Middle School, Eaksari, Right wing",Main,1,826,25.14172108,85.87662354,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],86,"Utkramit Middle School, Khorampur",Main,1,536,25.13929896,85.89629983,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],87,Primary School Kunda,Main,1,580,25.16192186,85.88863988,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],88,"Utkramit Middle School, Barui, Right Wing",Main,1,866,25.15205009,85.90398691,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],89,"Utkramit Middle School, Barui, Left Wing",Main,1,774,25.15205009,85.90398691,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],90,"High School, Pachna, Right Wing",Main,1,506,25.12916667,85.93444444,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],90A,"High School, Pachna, Middle Wing",Auxiliary,507,1020,25.12916667,85.93444444,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],91,"High School, Pachna Left Wing",Main,1,837,25.12916667,85.93444444,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],92,"Middle School, Pachna,Left Wing",Main,1,755,25.1502697,85.91199399,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],92A,"Middle School, Pachna, Right Wing",Auxiliary,756,1426,25.1502697,85.91199399,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],93,"Primary School, Nirpur",Main,1,484,25.1427939,85.89585398,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],94,"Utkramit Middle School, Madari, South Wing",Main,1,514,25.13501199,85.86681963,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],94A,"Utkramit Middle School, Madari, East Wing",Auxiliary,515,1020,25.13501199,85.86681963,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],95,"Primary School, Othma",Main,1,623,25.14838741,85.95427796,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],96,"Utkramit Middle School, Mahsar, Right Wing",Main,1,825,25.14817753,85.95428083,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],97,"Utkramit Middle School, Mahsar, Left Wing",Main,1,779,25.14817753,85.95428083,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],98,"Primary School, Jaimangla, Right Wing",Main,1,700,25.14729451,85.95499776,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],98A,"Primary School, Jaimangla, Left Wing",Auxiliary,701,1422,25.14729451,85.95499776,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],99,"High School, Sirari, Left Wing",Main,1,635,25.1372465,85.95961337,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],99A,"High School, Sirari, Right Wing",Auxiliary,636,1277,25.1372465,85.95961337,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],100,"Middle School, Kaithawan, East Wing",Main,1,518,25.12921844,85.93454399,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],100A,"High School, Kaithwan",Auxiliary,519,1023,25.12921844,85.93454399,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],101,"Middle School, Kaithawan, west Wing",Main,1,861,25.12921844,85.93454399,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],102,"Primary School, Bhatchak",Main,1,373,25.12925972,85.94317561,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],103,"Utkramit Middle School, Paigamberpur, Left Wing",Main,1,556,25.1303554,85.91020366,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],103A,"Utkramit Middle School, Paigamberpur, Right Wing",Auxiliary,557,1006,25.1303554,85.91020366,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],104,"Kishan Buliding Manianda, Right Wing",Main,1,870,25.14769394,85.9676723,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],105,"Kishan Buliding Manianda, Left Wing",Main,1,812,25.14769394,85.9676723,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],106,"Utkramit Middle School, Manpur",Main,1,940,25.13427778,85.92094444,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],107,"Middle School, Varma, Right Wing",Main,1,646,25.12423863,85.92854723,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],108,"Middle School, Varma, Left Wing",Main,1,837,25.12423863,85.92854723,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],109,"Utkramit Middle School, Urdu Pind,Left Wing",Main,1,624,25.10926693,85.91425702,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],109A,"Utkramit Middle School, Urdu Pind, Right Wing",Auxiliary,625,1234,25.10926693,85.91425702,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],110,"Primary School, Gunhesha",Main,1,698,25.11183073,85.92854723,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],111,"Primary School, Akouna",Main,1,453,25.0999429,85.92611496,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],112,"Primary School, Rudasi",Main,1,760,25.10395256,85.92130536,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],113,"High School, Gagri, East Wing",Main,1,834,25.13406235,85.94334234,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],114,"High School, Gagri, West Wing",Main,1,772,25.13406235,85.94334234,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],115,"Utkramit Middle School, Hasaodi",Main,1,945,25.11624354,85.94525309,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],116,"Utkramit MiddleSchool, Sultanpur",Main,1,861,25.11057054,85.9453541,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],117,"Utkramit Middle School, Dhankoul, South Wing",Main,1,745,25.0982953,85.79136993,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],117A,"Utkramit Middle School, Dhankoul, North Wing",Auxiliary,746,1450,25.0982953,85.79136993,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],118,"Primary School, Teldih",Main,1,526,25.07939853,85.80509469,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],119,"High School, Aifani, South Wing",Main,1,836,25.07493621,85.77578271,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],120,"High School, Aifani, North Wing",Main,1,825,25.07493621,85.77578271,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],121,"Primary School, Baibigha",Main,1,479,25.10906639,85.80440255,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],122,Primary School Maiamarpur,Main,1,691,25.1502697,85.86882819,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],123,"Utkramit Middle School, Kamal Bigha",Main,1,525,25.0616,85.7798,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],123A,"Angan Bari Centre, Kamal Bigha",Auxiliary,526,1054,25.0616,85.7798,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],124,"Utkramit Middle School, Manipur",Main,1,746,25.05965029,85.76911095,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],125,"Utkramit Middle School, Latkana, South Wing",Main,1,529,25.07535571,85.77877871,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],125A,"Utkramit Middle School, Latkana, North Wing",Auxiliary,530,1053,25.07535571,85.77877871,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],126,"Utkramit Middle School, Mankoul, West Wing",Main,1,531,25.10820573,85.82608483,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],126A,"Utkramit Middle School, Mankoul, East Wing",Auxiliary,532,1066,25.10820573,85.82608483,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],127,"Primary School, Jakhour",Main,1,467,25.01022839,85.7609106,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],128,"Utkramit Middle School, Bhojdih, East Wing",Main,1,641,25.0746872,85.82717406,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],128A,"Utkramit Middle School, Bhojdih, West Wing",Auxiliary,642,1281,25.0746872,85.82717406,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],129,"Primary School, Sahnoura",Main,1,474,25.11180367,85.80219018,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],130,"Utkramit Middle School, Sanaiya, West Wing",Main,1,727,25.11481544,85.80245259,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],130A,"Utkramit Middle School,Sanaiya, East Wing",Auxiliary,728,1459,25.11481544,85.80245259,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],131,"Plus 2 High School, Belchi, East Wing",Main,1,688,25.096,85.838,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],131A,"Plus 2 High School, Belchi, West Wing",Auxiliary,689,1384,25.096,85.838,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],132,"Schedule Caste Samudayik Building, Sanaiya",Main,1,664,25.1,85.8,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],132A,"Angan Bari Kendra, Sanaiya",Auxiliary,665,1335,25.1,85.8,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],133,"Primary School, Belchi, Harijan Tola, New building",Main,1,918,25.10343181,85.83956629,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],134,"Primary School, Pandhar",Main,1,508,25.11386129,85.84682889,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],135,"Utkramit Middle School, Chandi, North Wing",Main,1,849,25.13481298,85.86809441,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],136,"Utkramit Middle School, Chandi, South Wing",Main,1,838,25.13481298,85.86809441,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],137,"Samudayik Bulding, Usri",Main,1,697,25.0783,85.8307,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],138,"Primary School, Ranka",Main,1,712,25.07523615,85.82480611,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],139,"Primary School, Raundi",Main,1,593,25.13465672,85.8734845,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],140,"Primary School, Brindawan, East Wing",Main,1,796,25.06584905,85.81223422,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],141,"Primary School, Brindawan, West Wing",Main,1,780,25.06584905,85.81223422,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],142,"Harijan Samudayik Building, Hajratpur Madro",Main,1,559,25.0629,85.8047,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],143,"Utkramit Middle School, Karki",Main,1,639,25.07827015,85.84298965,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],144,Primary School Moulanagar,Main,1,877,25.06908088,85.86882819,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],145,"Middle School, Hussainabad, West Wing",Main,1,650,25.10361899,85.85673433,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],145A,"Middle School, Hussainabad, East Wing",Auxiliary,651,1300,25.10361899,85.85673433,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],146,"Revenue tahashil katchari, Hussainabad",Main,1,624,25.1042,85.8563,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],146A,"Panchayat Building, Hussainabad",Auxiliary,625,1250,25.1042,85.8563,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],147,"Public Libarary Building, Hussainabad, Left Wing",Main,1,738,25.0987,85.856,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],148,"Public Libarary Building, Hussainabad, Righ Wing",Main,1,756,25.0987,85.856,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],149,"Middle School, Nabinagar Kakrar, East Building",Main,1,549,25.09655011,85.85557553,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],149A,"Middle School, Nabinagar Kakrar, South Wing",Auxiliary,550,1105,25.09655011,85.85557553,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],150,"Middle School, Nabinagar Kakrar, West Building",Main,1,683,25.09655011,85.85557553,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],151,"Middle School, Nabinagar Kakrar North Building",Main,1,942,25.09655011,85.85557553,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],152,"Middle School, Diha, South Wing",Main,1,622,25.0701,85.8593,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],152A,"Middle School, Diha, South Wing",Auxiliary,623,1242,25.0701,85.8593,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],153,"Primary School, Diha, Right Wing",Main,1,974,25.072,85.8531,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],154,"Primary School, Diha, Left Wing",Main,1,990,25.072,85.8531,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],155,"Block Office Building, Ariyari, Left Wing",Main,1,781,25.05218825,85.86757457,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],156,"Block Office Building, Ariyari, Righ Wing",Main,1,748,25.05218825,85.86757457,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],157,"Utkramit Middle School, Baikatpur",Main,1,843,25.0494917,85.87649044,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],158,"Utkramit Middle School, Ithara, North Wing",Main,1,720,25.05124096,85.88359512,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],158A,"Utkramit Middle School, Ithara, South Wing",Auxiliary,721,1438,25.05124096,85.88359512,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],159,"Utkramit Middle School, Ekrai, North Wing",Main,1,587,25.05280177,85.82956457,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],159A,"Utkramit Middle School, Ekrai, South Wing",Auxiliary,588,1135,25.05280177,85.82956457,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],160,"Middle School, Viman, Right Wing",Main,1,887,25.06800365,85.84783787,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],161,"Middle School, Viman, Left Wing",Main,1,854,25.06800365,85.84783787,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],162,"Utkramit Middle School, Rampur (Hindi)",Main,1,786,25.068004,85.847838,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],163,"Utkramit Middle School, Rampur Urdu",Main,1,854,25.068004,85.847838,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],164,"Primary School, Dalhar, South Wing",Main,1,577,25.03825774,85.84233449,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],164A,"Primary School, Dalhar, North Wing",Auxiliary,578,1160,25.03825774,85.84233449,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],165,"Utkramit Middle School, Kamalpur",Main,1,859,25.0259,85.8287,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],166,"Middle School, Reuta",Main,1,638,25.04513316,85.85679527,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],167,"Utkramit Middle School, Ariyari, South Wing",Main,1,548,25.04513316,85.85679527,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],167A,"Utkramit Middle School, Ariyari, East Wing",Auxiliary,549,1095,25.04513316,85.85679527,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],168,Primary School Gagaura,Main,1,442,25.02962777,85.79584773,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],169,Primary School Aruara,Main,1,565,25.04665401,85.80365845,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],170,"Utkramit Middle School, Belhari",Main,1,815,25.04523781,85.80190466,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],171,"Middle School. Sasbahna, West Wing",Main,1,821,25.04728622,85.80158914,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],172,"Middle School. Sasbahna, East Wing",Main,1,783,25.04728622,85.80158914,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],173,"Middle School, Ghuskuri, East Wing",Main,1,718,25.04728622,85.80158914,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],174,"Middle School, Ghuskuri, West Wing",Main,1,881,25.0735,85.7794,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],175,"Primary School, Ishapur",Main,1,531,25.0140175,85.80094206,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],176,"Middle School, Kasar, North Wing",Main,1,534,25.046654,85.803658,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],176A,"Middle School, Kasar, Middle Wing",Auxiliary,535,1066,25.046654,85.803658,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],177,"Middle School, Kasar, South Wing",Main,1,543,25.046654,85.803658,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],177A,"Middle School, Kasar, East Wing",Auxiliary,544,1114,25.046654,85.803658,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],178,"Kanya High School, Kasar, New building, North wing",Main,1,926,24.99241586,85.83744075,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],179,"Kanya High School, Kasar, New Building, South wing",Main,1,641,25.0498,85.8047,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],180,"Middle School, Barsa, North Wing",Main,1,732,25.00950414,85.76333297,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],180A,"Middle School, Barsa, South Wing",Auxiliary,733,1424,25.00950414,85.76333297,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],181,"Utkramit Middle School, Sumka",Main,1,973,24.99453191,85.75324082,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],182,"Utkramit Middle School, Jangli Bigha, West Wing",Main,1,600,25.00841657,85.76180367,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],182A,"Utkramit Middle School, Jangli Bigha, East Wing",Auxiliary,601,1202,25.00841657,85.76180367,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],183,"Utkramit Middle School, Chorwar, Right Wing",Main,1,804,24.99699799,85.78870498,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],184,"Utkramit Middle School, Chorwar, Left Wing",Main,1,775,24.99699799,85.78870498,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],185,"Kisan Building, Chorwar",Main,1,910,24.995,85.7887,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],186,"Utkramit Middle School, Baruni",Main,1,858,24.99272947,85.80279606,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],187,"Utkramit Middle School, Masodha, Right Wing",Main,1,868,25.01924696,85.84077693,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],188,"Utkramit Middle School, Masodha, Left Wing",Main,1,854,25.01924696,85.84077693,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],189,"Utkramit Middle School, Raghunathpur, East Wing",Main,1,501,25.01802904,85.82055532,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],189A,"Utkramit Middle School, Raghunathpur, West Wing",Auxiliary,502,1006,25.01802904,85.82055532,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],190,"Utkramit Middle School, Chakawgil",Main,1,876,25.00821283,85.84060549,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],191,"Primary School, Daudpur Itawa",Main,1,674,25.0493,85.8051,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],192,"Middle School, Afardih",Main,1,795,24.99460436,85.84060141,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],193,"Utkramit Middle School, Baruna, East wing",Main,1,534,25.00325255,85.82061179,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],193A,"Utkramit Middle School, Baruna, East Building South Wing",Auxiliary,535,1073,25.00325255,85.82061179,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],194,"Utkramit Middle School, Baruna, West wing",Main,1,507,25.03234282,85.85586998,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],194A,"Utkramit Middle School, Baruna, West Building North Wing",Auxiliary,508,1019,25.03234282,85.85586998,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],195,"Utkramit Middle School, Gohda, Right Wing",Main,1,773,25.0084,85.8405,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],196,"Utkramit Middle School, Gohda, Left Wing",Main,1,829,25.0084,85.8405,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],197,"Panchayat Building, Chodhdargh",Main,1,659,25.0083,85.8408,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],197A,"Rajeev Gandhi Seva Kendra, Chodhdargh",Auxiliary,660,1327,25.0083,85.8408,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],198,"Primary School, Chodhdargah DPEP III",Main,1,811,25.03263333,85.80551706,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],199,"Utkramit Middle School, Chodhdargah, East Wing",Main,1,621,25.0760202,85.92990966,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],199A,"Utkramit Middle School, Chodhdargah, West Wing",Auxiliary,622,1403,25.0760202,85.92990966,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],200,"Utkramit Middle School, Mahuli",Main,1,883,25.02647417,85.85718251,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],201,"Middle School, Sohdi, Right Wing",Main,1,729,25.00844592,85.84392096,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],202,"Middle School, Sohdi, Left Wing",Main,1,795,25.00844592,85.84392096,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],203,"Samudayik Building, Yadav Tola Pulpar, Fulchodh, East Wing",Main,1,518,25.11293611,85.88283468,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],203A,"Samudayik Building Yadav Tola Pulpar Fulchodh, West Wing",Auxiliary,519,1052,25.11293611,85.88283468,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],204,"Utkramit Middle school, Fulchodh, South Wing",Main,1,906,25.11293611,85.88283468,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],205,"Utkramit Middle School, Mane",Main,1,635,25.11753756,85.89637273,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],206,"Primary School, Kamalgadh",Main,1,450,25.09083333,85.87861111,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],207,"Primary School, Kushokhar",Main,1,981,25.09693821,85.88848094,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],208,"Primary School, Barari, Right Wing",Main,1,825,25.1009,85.8939,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],209,"Primary School, Barari, Left Wing",Main,1,852,25.1009,85.8939,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],210,"Panchayat Building, Chakandra",Main,1,798,25.09919242,85.89529816,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],211,"Middle School, Chakandra, Right Wing",Main,1,802,25.09529934,85.91327677,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],212,"Middle School, Chakandra, Left Wing",Main,1,812,25.09529934,85.91327677,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],213,"Primary School, Basant",Main,1,768,25.083822,85.90572623,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],214,"Middle School, Andauli, Left Wing",Main,1,657,25.0760202,85.92990966,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],214A,"Middle School, Andauli, Right Wing",Auxiliary,658,1296,25.0760202,85.92990966,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],215,"Sanskritak Building Chewara, Left Wing",Main,1,572,25.07241054,85.90059769,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],215A,"Sanskritak Building Chewara, Right Wing",Auxiliary,573,1079,25.07241054,85.90059769,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],216,"Middle School, Chewara,South Wing",Main,1,611,25.09060943,85.92801545,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],216A,"Middle School, Chewara, North Wing",Auxiliary,612,1228,25.09060943,85.92801545,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],217,"Primary School, Rakar",Main,1,748,25.0745,85.93,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],218,"High School, Chewara, East wing",Main,1,811,25.0745,85.93,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],218A,"High School, Chewara, North wing",Auxiliary,812,1492,25.0745,85.93,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],219,"High School, Chewara, West wing",Main,1,633,25.0768,85.9296,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],220,"Panchayat Bhawan, Chewara",Main,1,711,25.07853538,85.93987518,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],220A,"Middle School, Chewara, Hall South Wing",Auxiliary,712,1443,25.07853538,85.93987518,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],221,"Utkramit Middle School, Bahuara, West Wing",Main,1,508,25.07324215,85.88440165,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],221A,"Utkramit Middle School, Bahuara, West Right Wing",Auxiliary,509,1074,25.07324215,85.88440165,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],222,"Utkramit Middle School, Bahuara, East Wing",Main,1,929,25.07324215,85.88440165,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],223,"Utkramit Middle School, Belkhundi, Left Wing",Main,1,645,25.06591409,85.87936659,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],223A,"Utkramit Middle School, Belkhundi, Right Wing",Auxiliary,646,1256,25.06591409,85.87936659,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],224,"Utkramit Middle School, Kemra, North Wing",Main,1,710,25.06956785,85.88747702,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],224A,"Utkramit Middle School, Kemra, South Wing",Auxiliary,711,1382,25.06956785,85.88747702,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],225,"Primary School, Rajoura",Main,1,773,25.08131667,85.89256716,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],226,"Utkramit Middle School, Gadua,East Wing",Main,1,582,25.04665401,85.80365845,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],226A,"Utkramit Middle School, Gadua,West Wing",Auxiliary,583,1135,25.04665401,85.80365845,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],227,"Utkramit Middle School, Ekrama , East Wing",Main,1,817,25.07241054,85.90059769,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],228,"Model High School, Ekrama, Right Wing",Main,1,648,25.06131759,85.91064389,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],228A,"Model High School, Ekrama, Left Wing",Auxiliary,649,1292,25.06131759,85.91064389,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],229,"Primary School, Angpur",Main,1,406,25.01947676,85.87608965,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],230,"Middle School, Lohan, North Wing",Main,1,981,25.01947676,85.87608965,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],231,"Middle School, Lohan, South Wing",Main,1,1000,25.01877449,85.87261032,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],232,"Middle School, Lohan, Middle Wing",Main,1,960,25.01877449,85.87261032,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],233,"Utkramit Middle School, Bhalua,Right Wing",Main,1,547,25.01174434,85.85620319,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],233A,"Utkramit Middle School, Bhalua, Left Wing",Auxiliary,548,1098,25.01174434,85.85620319,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],234,"Primary School, Fatehpur",Main,1,419,25.01650381,85.87548863,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],235,"Middle School, Ekadha, South Wing",Main,1,617,25.0468,85.8901,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],235A,"Middle School, Ekadha, North Wing",Auxiliary,618,1159,25.0468,85.8901,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],236,"High School, Ekadha, Right Wing",Main,1,829,25.05621388,85.93662378,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],237,"High School, Ekadha, Left Wing",Main,1,741,25.05621388,85.93662378,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],238,"Utkramit Middle School, Sijhaudi",Main,1,635,25.05105434,85.93300536,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],238A,"Utkramit Middle School, Sijhaudi,New Building",Auxiliary,636,1245,25.05105434,85.93300536,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],239,"Utkramit Middle School, Mahespur",Main,1,713,25.03241863,85.90546893,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],240,"Utkramit Middle School, Chatiyara, North Wing",Main,1,987,25.03241863,85.90546893,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],241,"Utkramit Middle School, Chatiyara, South Wing",Main,1,612,25.03193806,85.92192281,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],241A,"Utkramit Middle School, Chatiyara, East Wing",Auxiliary,613,1170,25.03193806,85.92192281,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],242,"Middle School, Kapasi, South Wing",Main,1,708,25.04482781,85.91549701,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],242A,"Middle School, Kapasi, North Wing",Auxiliary,709,1389,25.04482781,85.91549701,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],243,"Primary School, Kewali",Main,1,756,25.012,85.8968,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],244,"Panchayat Building, Lutaut",Main,1,522,25.01277778,85.89472222,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],244A,Anganbadi Kendra No.57 Lutaut,Auxiliary,523,1077,25.01277778,85.89472222,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],245,"Primary School, Masadhi",Main,1,309,25.00987789,85.909371,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],246,"Middle School, Lutaut",Main,1,992,25.08627951,85.95546484,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],247,"Primary School, Tiyay,South Wing",Main,1,668,25.05431404,85.95971331,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],247A,"Primary School, Tiyay, North Wing",Auxiliary,669,1338,25.05431404,85.95971331,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],248,"Primary School, Bengucha",Main,1,982,25.05113023,85.95936659,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],249,"Utkramit Middle School, Urdu Asthawan North Wing",Main,1,857,25.05113023,85.95936659,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],250,"Utkramit Middle School, Urdu Asthawan South Wing",Main,1,712,25.05274871,85.96092229,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],251,"Utkramit Middle School, Ghari, Right Wing",Main,1,722,25.05448745,85.95879427,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],252,"Utkramit Middle School, Ghari, Left Wing",Main,1,807,25.05448745,85.95879427,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],253,"Primary School, Hansapur",Main,1,665,25.0382,85.9622,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],254,"Model High School, Lahna, Right Wing",Main,1,492,25.02531438,85.93712709,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],254A,"Model High School, Lahna, Left Wing",Auxiliary,493,1008,25.02531438,85.93712709,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],255,"Utkramit Middle School, Lahna, Left Wing",Main,1,759,25.02531438,85.93712709,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],256,"Middle School, Karandey, Right Wing",Main,1,971,24.99583333,85.94944444,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],257,"Middle School, Karandey, Left Wing",Main,1,522,24.99583333,85.94944444,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],257A,"Middle School, Karandey, West Wing",Auxiliary,523,1018,24.99583333,85.94944444,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],258,"Utkramit Middle School, Kurmuri, Right Wing",Main,1,841,25.01600158,85.96361641,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],259,"Utkramit Middle School, Kurmuri, Left Wing",Main,1,913,25.01600158,85.96361641,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],260,"Middle School, Belchi, West Wing",Main,1,717,25.01478742,85.96436032,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],260A,"Middle School, Belchi, East Wing",Auxiliary,718,1414,25.01478742,85.96436032,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],261,"Utkramit Middle School, Uksi",Main,1,943,25.02102547,85.98211602,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],262,"Utkramit Middle School, Siyani, North wing",Main,1,513,25.02102547,85.98211602,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],262A,"Utkramit Middle School, Siyani, East wing",Auxiliary,514,1163,25.02102547,85.98211602,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],263,"Utkramit Middle School, Siyani, South wing",Main,1,603,25.02102547,85.98211602,Yes,Yes,Yes
+169-Sheikhpura [26-Sheikhpura],263A,"Utkramit Middle School, Siyani, West wing",Auxiliary,604,1180,25.02102547,85.98211602,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],1,"Utkramit Middle School, Kashibigha, North Wing",Main,1,558,25.2645111,85.70875269,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],1A,"Utkramit Middle School, Kashibigha, South Wing",Auxiliary,559,1092,25.2645111,85.70875269,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],2,Primary School kalyanpur,Main,1,559,25.1942,85.71554397,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],3,"Middle School, Teus, North wing",Main,1,715,25.22823573,85.70521165,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],3A,"Middle School, Teus, East wing",Auxiliary,716,1394,25.22823573,85.70521165,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],4,"Middle School, Teus, South wing",Main,1,597,25.22823573,85.70521165,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],4A,"Middle School, Teus, South Middle wing",Auxiliary,598,1167,25.22823573,85.70521165,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],5,"Middle School, Teus, Balak, North Wing",Main,1,630,25.22734728,85.70520786,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],5A,"Middle School Teus, Balak South Wing",Auxiliary,631,1326,25.22734728,85.70520786,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],6,"Utkramit Middle School, Narsinghpur , East Wing",Main,1,534,25.24871212,85.71554397,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],6A,"Utkramit Middle School, Narsinghpur , South East Wing",Auxiliary,535,1034,25.24871212,85.71554397,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],7,"Utkramit Middle School, Narsinghpur , West Wing",Main,1,526,25.24871212,85.71554397,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],7A,"Utkramit Middle School, Narsinghpur , South West Wing",Auxiliary,527,1027,25.24871212,85.71554397,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],8,"Utkramit Middle School, Subhanpur",Main,1,502,25.25055177,85.73178989,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],9,Primary School Kabirpur,Main,1,865,25.13201819,85.78460948,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],10,"Primary School, Kanhauli",Main,1,494,25.26037954,85.72091195,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],11,"Samudayik Building, Bhanpura",Main,1,519,25.2664,85.7198,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],12,"Utkramit Middle School, Jagdishpur, North Wing",Main,1,871,25.24968391,85.73020901,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],13,"Utkramit Middle School, Jagdishpur, South Wing",Main,1,829,25.24968391,85.73020901,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],14,"Utkramit Middle School, Ukhdi, West Wing",Main,1,665,25.24324799,85.72558046,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],15,"Utkramit Middle School, Ukhdi, East Wing",Main,1,814,25.24324799,85.72558046,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],16,"Utkramit Middle School, Saraiya",Main,1,983,25.23311517,85.74303775,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],17,"Primary school Harizan Tola, Toy, North Wing",Main,1,524,25.2476,85.7393,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],17A,"Primary school Harizan Tola, Toy, South Wing",Auxiliary,525,1076,25.2476,85.7393,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],18,"Middle School, Toy East Wing",Main,1,532,25.24276239,85.74066045,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],18A,"Middle School, Toy West Wing",Auxiliary,533,1050,25.24276239,85.74066045,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],19,"Middle School, Pank West Wing",Main,1,720,25.24658943,85.75100527,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],19A,"Middle School, Pank East Wing",Auxiliary,721,1418,25.24658943,85.75100527,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],20,"Utkramit Middle School, Musapur",Main,1,688,25.25632669,85.76603814,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],21,"Samudayik Building, Chainpur",Main,1,439,25.2556,85.7531,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],22,"Utkramit Middle School, Makanpur Dih",Main,1,797,25.2349,85.7561,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],23,"Utkramit Middle School, Kazifattuchak East Wing",Main,1,585,25.24770813,85.76524034,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],23A,"Utkramit Middle School, Kazifattuchak West Wing",Auxiliary,586,1146,25.24770813,85.76524034,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],24,"Utkramit Middle School, Puneshra",Main,1,972,25.22934199,85.74478839,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],25,"Primary School, Milkichak East Wing",Main,1,626,25.23754324,85.76907129,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],25A,"Primary School, Milkichak West Wing",Auxiliary,627,1224,25.23754324,85.76907129,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],26,"Samudayik Building, Baijnathpur",Main,1,572,25.2483,85.7663,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],27,"Utkramit Middle School, Dihnizamat, West Wing",Main,1,782,25.23336717,85.76095376,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],28,"Utkramit Middle School, Dihnizamat, East Wing",Main,1,775,25.23336717,85.76095376,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],29,"Middle School, Kewati, East Wing",Main,1,676,25.23534476,85.7691464,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],29A,"Middle School, Kewati, South East Wing",Auxiliary,677,1317,25.23534476,85.7691464,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],30,"Middle School, Kewati, West Wing",Main,1,522,25.23534476,85.7691464,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],30A,"Middle School, Kewati, North West Wing",Auxiliary,523,1018,25.23534476,85.7691464,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],31,"Utkramit Middle School, Goddih",Main,1,814,25.21048938,85.78101859,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],32,"Utkramit Middle School, Dharseni North Wing",Main,1,539,25.21960546,85.78411584,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],32A,"Utkramit Middle School, Dharseni South Wing",Auxiliary,540,1040,25.21960546,85.78411584,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],33,Primary School Sheikhpurwa,Main,1,582,25.23534476,85.78054628,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],34,"Middle School, Kutaut, West Wing",Main,1,541,25.21298508,85.78054628,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],34A,"Middle School, Kutaut, North Wing",Auxiliary,542,1036,25.21298508,85.78054628,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],35,"Middle School, Kutaut, East Wing",Main,1,839,25.21298508,85.78054628,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],36,"Utkramit Middle School, Yahiyapur, West Wing",Main,1,750,25.20685103,85.77799237,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],37,"Utkramit Middle School, Yahiyapur, East Wing",Main,1,761,25.20685103,85.77799237,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],38,"Middle School, Kusherhi West Wing",Main,1,531,25.21097208,85.80365383,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],38A,"Middle School, Kusherhi East Wing",Auxiliary,532,1069,25.21097208,85.80365383,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],39,Primary School Mahmada,Main,1,379,25.14607811,85.73593781,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],40,"Utkramit Middle School, Bhadarthi",Main,1,784,25.22151132,85.81781202,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],41,"Utkramit Middle School, Dumri",Main,1,547,25.22169513,85.80738379,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],42,"Rajo Singh High School, Pinjri, East Wing",Main,1,793,25.1936,85.7945,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],43,"Rajo Singh High School, Pinjri, West Wing",Main,1,780,25.1936,85.7945,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],44,"Utkramit Middle School, Pinjri",Main,1,822,25.1942,85.7936,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],45,"Gaushala, Barbigha West Wing",Main,1,647,25.2249,85.7279,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],45A,"Gaushala, Barbigha Middle Wing",Auxiliary,648,1269,25.2249,85.7279,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],46,"Gaushala, Barbigha East Wing",Main,1,371,25.2248,85.7252,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],47,Primary School Badhanpura,Main,1,508,25.11361111,85.70416667,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],48,"Primary School, Samachak North Wing",Main,1,624,25.22008938,85.73246768,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],48A,"Primary School, Samachak South Wing",Auxiliary,625,1242,25.22008938,85.73246768,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],49,"Middle School, D.A.V. Chandukuan, (Barbigha) North Wing",Main,1,985,25.21666667,85.74611111,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],50,"Middle School, D.A.V. Chandukuan, (Barbigha) South Wing",Main,1,925,25.21666667,85.74611111,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],51,"Middle School, Sherpar, Left Wing",Main,1,796,25.21674231,85.74673634,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],52,"Middle School, Sherpar, Right Wing",Main,1,817,25.2228,85.7307,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],53,"Primary School, Parsobigha, North Wing",Main,1,835,25.21677015,85.7462909,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],54,"Primary School, Parsobigha, South Wing",Main,1,712,25.21677015,85.7462909,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],55,"Circle Office, Barbigha, East Wing",Main,1,887,25.2171,85.7402,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],56,"Circle Office, Barbigha, West Wing",Main,1,922,25.2171,85.7402,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],57,"Adarsh Kanya Middle School, Barbigha, East Wing",Main,1,682,25.21291342,85.72962361,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],57A,"Adarsh Kanya Middle School, Barbigha, South Wing",Auxiliary,683,1384,25.21291342,85.72962361,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],58,"Tailik Balika High School, Barbigha,West Wing",Main,1,802,25.21444895,85.7260107,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],58A,"Tailik Balika High School, Barbigha, East Wing",Auxiliary,803,1591,25.21444895,85.7260107,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],59,"Adarsh Town Middle School, Nasibchak, Barbigha, East Wing",Main,1,914,25.2141,85.726,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],60,"Adarsh Town Middle School, Nasibchak, Barbigha, West Wing",Main,1,900,25.2141,85.726,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],61,"Middle School, Barbigha Telkar, North Wing",Main,1,987,25.21635712,85.73219877,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],62,"Middle School, Barbigha Telkar, South Wing",Main,1,997,25.21635712,85.73219877,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],63,"Utkramit Middle School, Sinday West Wing",Main,1,750,25.20361111,85.72944444,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],63A,"Utkramit Middle School, Sinday East Wing",Auxiliary,751,1447,25.20361111,85.72944444,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],64,"Samudayik Building Muslim Tola (ward 17) Faizabad, East Wing",Main,1,657,25.2153,85.7349,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],64A,"Samudayik Building Muslim Tola (ward 17) Faizabad, West Wing",Auxiliary,658,1274,25.2153,85.7349,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],65,"Navsrijit Primary School, Faizullahpur North Wing",Main,1,537,25.2159,85.7346,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],65A,"Navsrijit Primary School, Faizullahpur South Wing",Auxiliary,538,1059,25.2159,85.7346,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],66,"High School, Barbigha, North Wing.",Main,1,865,25.21088266,85.73895065,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],67,"High School, Barbigha, East Wing",Main,1,574,25.21088266,85.73895065,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],67A,"High School, Barbigha, South East Wing",Auxiliary,575,1134,25.21088266,85.73895065,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],68,"High School, Barbigha, South Wing.",Main,1,896,25.21088266,85.73895065,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],69,"Primary School, Narayanpur West Wing",Main,1,660,25.21946477,85.76094163,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],69A,"Primary School, Narayanpur East Wing",Auxiliary,661,1281,25.21946477,85.76094163,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],70,"Utkramit Middle School, Gangti, North Wing",Main,1,669,25.22118246,85.76350816,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],70A,"Utkramit Middle School, Gangti, East Wing",Auxiliary,670,1360,25.22118246,85.76350816,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],71,"Utkramit Middle School, Gangti, South Wing",Main,1,881,25.22118246,85.76350816,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],72,"Utkramit Middle School, Koyaribigha South Wing",Main,1,690,25.2165,85.7464,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],72A,"Utkramit Middle School, Koyaribigha North Wing",Auxiliary,691,1379,25.2165,85.7464,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],73,"Samudayik Building, Maur",Main,1,995,25.2074,85.7502,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],74,"Middle School, Maur West Wing",Main,1,666,25.20748558,85.75324946,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],74A,"Middle School, Maur East Wing",Auxiliary,667,1333,25.20748558,85.75324946,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],75,"Utkramit Middle School, Nasratpur, New Building North Wing",Main,1,712,25.20560534,85.77008857,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],75A,"Utkramit Middle School, Nasratpur, New Building South Wing",Auxiliary,713,1410,25.20560534,85.77008857,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],76,"Utkramit Middle School, Khozagachhi, East Wing",Main,1,829,25.19196442,85.73319786,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],77,"Utkramit Middle School, Khozagachhi, West Wing",Main,1,801,25.19196442,85.73319786,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],78,"Mahatma Gandhi High School, Babhanbigha, East Wing",Main,1,602,25.16053922,85.75787861,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],78A,"Mahatma Gandhi High School, Babhanbigha, South East Wing",Auxiliary,603,1149,25.16053922,85.75787861,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],79,"Mahatma Gandhi High School, Babhanbigha, West Wing",Main,1,943,25.1943,85.741,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],80,"Utkramit Middle School, Kolaharabigha",Main,1,572,25.18708723,85.74392415,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],81,"Primary School, Samaskhurd South Wing",Main,1,537,25.17987611,85.71644153,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],81A,"Primary School, Samaskhurd North Wing",Auxiliary,538,1056,25.17987611,85.71644153,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],82,"Primary School, Dariyachak",Main,1,878,25.17936314,85.72768221,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],83,"Utkramit Middle School, Khalilchak",Main,1,693,25.17259195,85.7373602,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],84,"Panchayat Building, Samasbujurg,",Main,1,869,25.1783,85.7153,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],85,"Middle School, Samasbujurg, South Wing",Main,1,534,25.1784,85.7153,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],85A,"Middle School, Samasbujurg, North Wing",Auxiliary,535,1026,25.1784,85.7153,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],86,"Utkramit Middle School, Urdu Ramzanpur, North Wing",Main,1,950,25.177,85.7004,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],87,"Utkramit Middle School, Urdu Ramzanpur, East Wing",Main,1,881,25.177,85.7004,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],88,"Utkramit Middle School, Urdu Ramzanpur, South Wing",Main,1,951,25.179,85.7004,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],89,"Utkramit Middle School, Kutubchak, West Wing",Main,1,868,25.1688,85.7161,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],90,"Utkramit Middle School, Kutubchak, East Wing",Main,1,887,25.1688,85.7161,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],91,"Utkramit Middle School, Rajaura East Wing",Main,1,524,25.18610089,85.74320609,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],91A,"Utkramit Middle School, RajauraWest Wing",Auxiliary,525,1043,25.18610089,85.74320609,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],92,"Primary School Mirzapur, North Wing",Main,1,682,25.1979,85.762,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],92A,"Primary School Mirzapur, South Wing",Auxiliary,683,1336,25.1979,85.762,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],93,"Utkramit Middle School, Kanya Sarwa West Wing",Main,1,527,25.18959705,85.75848456,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],93A,"Utkramit Middle School, Kanya Sarwa East Wing",Auxiliary,528,1067,25.18959705,85.75848456,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],94,"Primary School, Jamalpur",Main,1,712,25.18959705,85.75848456,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],95,"Harizan Samudayik Building, Sarwa, North Wing",Main,1,838,25.1853,85.7637,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],96,Aanganbadi Kendra Sankhiya-156 Sarwa,Main,1,775,25.1853,85.7637,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],97,"High School, Maldah, West Wing",Main,1,509,25.2063436,85.77739599,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],97A,"High School, Maldah, North Wing",Auxiliary,510,1018,25.2063436,85.77739599,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],98,"High School, Maldah, East Wing",Main,1,657,25.2063436,85.77739599,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],99,"Primary School, Malikchak, East Wing",Main,1,767,25.17336026,85.76252037,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],100,"Primary School, Malikchak, West Wing",Main,1,769,25.17336026,85.76252037,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],101,"Middle School, Maldah North Wing",Main,1,675,25.17315295,85.75677587,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],101A,"Middle School, Maldah South Wing",Auxiliary,676,1335,25.17315295,85.75677587,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],102,"Utkramit Middle School, Nagdih, East Wing",Main,1,897,25.2074,85.7502,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],103,"Utkramit Middle School, Nagdih, West Wing",Main,1,827,25.2074,85.7502,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],104,"Utkramit Middle School, Ismailpur, North Wing",Main,1,823,25.15942979,85.76681552,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],105,"Utkramit Middle School, Ismailpur, South Wing",Main,1,778,25.15942979,85.76681552,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],106,"Middle School, Onama, North Wing",Main,1,539,25.15946254,85.72283389,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],106A,"Middle School, Onama, Middle Wing",Auxiliary,540,1082,25.15946254,85.72283389,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],107,"Middle School, Onama, South Wing",Main,1,932,25.15946254,85.72283389,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],108,"Utkramit Middle School, Dowadih, North Wing",Main,1,648,25.15869857,85.72201522,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],108A,"Utkramit Middle School, Dowadih, South Wing",Auxiliary,649,1300,25.15869857,85.72201522,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],109,"Utkramit Middle School, Asthana, North Wing",Main,1,989,25.15624173,85.6990518,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],110,"Utkramit Middle School, Asthana, South Wing",Main,1,662,25.15624173,85.6990518,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],111,"Primary School, Belao, South Wing",Main,1,978,25.14607811,85.73593781,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],112,"Primary School, Belao, North Wing",Main,1,698,25.13962171,85.69677617,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],113,"High School, Belao, West Wing",Main,1,781,25.1415,85.7419,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],114,"High School, Belao, South Wing",Main,1,769,25.1415,85.7419,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],115,"Utkramit Middle School, Kisanpur North Wing",Main,1,567,25.14465566,85.74465664,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],115A,"Utkramit Middle School, Kisanpur South Wing",Auxiliary,568,1134,25.14465566,85.74465664,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],116,"Primary School, Chhabilathika",Main,1,856,25.14552503,85.75545596,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],117,"Utkramit Middle School, Haiderchak",Main,1,648,25.13769631,85.75190713,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],118,"Utkramit Middle School, Madhepur South Wing",Main,1,524,25.1644,85.7421,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],118A,"Utkramit Middle School, Madhepur North Wing",Auxiliary,525,1070,25.1644,85.7421,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],119,"Utkramit Middle School, Virpur, East Wing.",Main,1,645,25.1609,85.7336,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],119A,"Utkramit Middle School, Virpur, North Wing.",Auxiliary,646,1366,25.1609,85.7336,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],120,"Utkramit Middle School, Virpur, West Wing.",Main,1,724,25.16,85.7335,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],121,"Middle School, Ambari, South Wing",Main,1,619,25.13962171,85.69677617,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],121A,"Middle School , Ambari, North Wing",Auxiliary,620,1261,25.13962171,85.69677617,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],122,"High School, Ambari Left Wing",Main,1,662,25.13962171,85.69677617,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],122A,"High School , Ambari, Left East Wing",Auxiliary,663,1315,25.13962171,85.69677617,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],123,"High School, Ambari Right Wing",Main,1,750,25.13962171,85.69677617,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],123A,"High School,Ambari, Right West Wing",Auxiliary,751,1483,25.13962171,85.69677617,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],124,"Middle School, Chhema, East Wing",Main,1,655,25.1335,85.7206,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],124A,"Middle School, Chhema, South Wing",Auxiliary,656,1313,25.1335,85.7206,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],125,"Utkramit Middle School, Ahmadpur Chhema",Main,1,520,25.136,85.7243,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],126,"Middle School, Sadikpur South Wing",Main,1,526,25.12507655,85.72215467,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],126A,"Middle School, Sadikpur East Wing",Auxiliary,527,1055,25.12507655,85.72215467,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],127,"Utkramit Middle School, Yodhanbigha West Wing",Main,1,608,25.1265,85.7081,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],127A,"Utkramit Middle School, Yodhanbigha South Wing",Auxiliary,609,1201,25.1265,85.7081,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],128,"Library Building, Charuawan, Right Wing",Main,1,923,25.1337,85.6802,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],129,"Library Building, Charuawan, Left Wing",Main,1,803,25.1337,85.6802,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],130,"Middle School, Charuawan, East Wing",Main,1,522,25.12519437,85.68398353,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],130A,"Middle School, Charuawan, North Wing",Auxiliary,523,1039,25.12519437,85.68398353,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],131,"Middle School, Charuawan, West Wing",Main,1,639,25.12519437,85.68398353,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],131A,"Middle School, Charuawan, South Wing",Auxiliary,640,1298,25.12519437,85.68398353,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],132,"Middle School, Shekhopur Bazar, Left Wing",Main,1,538,25.1218,85.68398353,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],132A,"Middle School, Sheikhopur Bazar, Right Wing",Auxiliary,539,1099,25.1218,85.68398353,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],133,"Utkramit Middle School, Shekhopurdih, West Wing",Main,1,769,25.1218,85.68398353,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],134,"Utkramit Middle School, Shekhopurdih, Middle Wing",Main,1,802,25.1218,85.68398353,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],135,"Utkramit Middle School, Sugiya South Wing",Main,1,621,25.13151403,85.69058444,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],135A,"Utkramit Middle School, Sugiya North Wing",Auxiliary,622,1256,25.13151403,85.69058444,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],136,"Utkramit Middle School, Rahincha",Main,1,865,25.13472222,85.68666667,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],137,"Utkramit Middle School, Kabirpur, East Wing",Main,1,802,25.13472222,85.68722222,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],138,"Utkramit Middle School, Kabirpur, West Wing",Main,1,856,25.13472222,85.68722222,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],139,"Middle School, Panchi, East Wing",Main,1,989,25.1134557,85.6340631,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],140,"Middle School, Panchi, Middle Wing",Main,1,858,25.1134557,85.6340631,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],141,"High School, Panchi, North Wing",Main,1,604,25.1134557,85.6340631,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],141A,"High School, Panchi,South Wing",Auxiliary,605,1202,25.1134557,85.6340631,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],142,"Utkramit Middle School, Mahanandpur East Wing",Main,1,526,25.11269529,85.63149232,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],142A,"Utkramit Middle School, Mahanandpur West Wing",Auxiliary,527,1060,25.11269529,85.63149232,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],143,"Panchayat Building, Panchi",Main,1,903,25.11,85.63,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],144,"Middle School, Mohabbatpur, East Wing",Main,1,554,25.11556854,85.64629616,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],144A,"Middle School, Mohabbatpur, South Wing",Auxiliary,555,1113,25.11556854,85.64629616,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],145,"Middle School, Mohabbatpur, West Wing",Main,1,635,25.11556854,85.64629616,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],145A,"Middle School, Mohabbatpur, North Wing",Auxiliary,636,1286,25.11556854,85.64629616,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],146,"Middle School, Mosimpur",Main,1,800,25.1163,85.6535,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],147,"Utkramit Middle School, Khuriya",Main,1,427,25.11903549,85.65426257,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],148,"Middle School, Panhesa West Wing",Main,1,645,25.1155026,85.66929257,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],148A,"Middle School, Panhesa South Wing",Auxiliary,646,1273,25.1155026,85.66929257,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],149,"Nav Srijit Primary School, Anusuchit Jati Tola, Nimi, North Wing",Main,1,659,25.11361111,85.70416667,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],149A,"Nav Srijit Primary School, Anusuchit Jati Tola, Nim,South",Auxiliary,660,1404,25.11361111,85.70416667,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],150,"Middle School, Nimi, North Wing",Main,1,746,25.11361111,85.70416667,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],151,"Middle School, Nimi, Middle Wing",Main,1,726,25.11361111,85.70416667,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],152,"High School, Nimi, New Building, East Wing",Main,1,638,25.11361111,85.70416667,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],152A,"High School, Nimi, New Building, West Wing",Auxiliary,639,1310,25.11361111,85.70416667,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],153,"High School, Nimi, East Wing",Main,1,572,25.1853,85.7502,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],153A,"High School, Nimi, West Wing",Auxiliary,573,1178,25.1853,85.7502,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],154,"Utkaramit Middle School, Pahariaya Balak, East Wing",Main,1,434,25.1066,85.705,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],155,"Utkaramit Middle School, Pahariaya Balak, West Wing",Main,1,620,25.1076,85.705,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],156,"Utkramit Middle School, Miyanbigha",Main,1,857,25.10260268,85.70658408,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],157,Samudayik Building Barebigha,Main,1,672,25.1011,85.7093,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],158,"Utkramit Middle School, Gaway West Wing",Main,1,639,25.18851442,85.82685488,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],158A,Utkramit Middle School Gaway South Wing,Auxiliary,640,1275,25.18851442,85.82685488,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],159,"Utkarmit Middle School, Gaway Right Wing East Wing",Main,1,643,25.20720898,85.84526472,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],159A,"Utkarmit Middle School, Gaway Right Wing North Wing",Auxiliary,644,1278,25.20720898,85.84526472,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],160,"Lohia Building, Sarika Left Wing",Main,1,640,25.16402832,85.84607414,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],160A,"Lohia Building, Sarika Right Wing",Auxiliary,641,1278,25.16402832,85.84607414,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],161,"Middle School, Lodipur, Right Wing",Main,1,875,25.19775779,85.80126803,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],162,"Middle School, Lodipur, Left Wing",Main,1,811,25.19775779,85.80126803,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],163,"Utkramit Middle School, Maniauri Left Wing",Main,1,694,25.20134165,85.82695698,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],163A,"Utkramit Middle School, Maniauri Right Wing",Auxiliary,695,1233,25.20134165,85.82695698,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],164,Primary School Makatab Nawada,Main,1,744,25.19480518,85.82676159,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],165,"Utkramit Middle School, Sarmaidan",Main,1,672,25.18404079,85.81027149,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],166,Primary School khalaspur,Main,1,583,25.17155166,85.83484753,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],167,"High School, Mehus, Left Wing",Main,1,634,25.20750342,85.83280955,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],167A,"High School Mehus, Right Wing",Auxiliary,635,1281,25.20750342,85.83280955,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],168,"Middle School, Mehus, West Wing,",Main,1,657,25.20750342,85.83280955,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],168A,"Middle School, Mehus, East Wing,",Auxiliary,658,1306,25.20750342,85.83280955,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],169,"Middle School, Mehus, Middle Wing,",Main,1,502,25.20750342,85.83280955,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],170,"Middle School, Ramnubigha Left Wing",Main,1,794,25.19493383,85.85922297,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],170A,"Middle School, Ramnubigha Right Wing",Auxiliary,795,1550,25.19493383,85.85922297,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],171,"Utkramit Middle School, Kurauni",Main,1,864,25.19503628,85.85881788,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],172,"Library Building, Chitaura",Main,1,558,25.181936,85.834036,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],173,"Middle School, Aijhi, East Wing",Main,1,849,25.17505519,85.84546475,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],174,"Middle School, Aijhi, West Wing",Main,1,816,25.17505519,85.84546475,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],175,"Primary School, Mubarakpur",Main,1,949,25.17214583,85.84698097,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],176,"Library Building, Murarpur",Main,1,686,25.180554,85.846511,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],176A,Samudhayik Building Pashchim Tola Murarpur,Auxiliary,687,1384,25.180554,85.846511,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],177,"High School, Katari, Right Wing",Main,1,774,25.18122506,85.85671756,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],178,"High School, Katari, Left Wing",Main,1,812,25.18122506,85.85671756,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],179,"High School Murarpur, East Wing",Main,1,595,25.16808,85.847843,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],179A,"High School Murarpur, West Wing",Auxiliary,596,1192,25.16808,85.847843,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],180,"Middle School, Katari",Main,1,942,25.18120088,85.85690281,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],181,"Utkramit Middle School, Gosaimarhi North Wing",Main,1,637,25.18095148,85.79029514,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],181A,"Utkramit Middle School, Gosaimarhi South Wing",Auxiliary,638,1268,25.18095148,85.79029514,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],182,"Middle School, Badshahpur, Right Wing",Main,1,899,25.1758824,85.79974551,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],183,"Middle School, Badshahpur, Left Wing",Main,1,704,25.1758824,85.79974551,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],184,"Middle School, Audhey",Main,1,658,25.18085294,85.79196149,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],185,"Primary School, Faridpur",Main,1,992,25.18084395,85.82461316,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],186,"Middle School, Dullapur, Left Wing",Main,1,539,25.14734237,85.82111326,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],186A,"Middle School, Dullapur Right Wing",Auxiliary,540,1056,25.14734237,85.82111326,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],187,"Primary School, Mandna",Main,1,826,25.14769394,85.7676723,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],188,"Utkramit Middle School, Bihta Left Wing",Main,1,575,25.16405589,85.79708242,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],188A,"Utkramit Middle School, Bihta Right Wing",Auxiliary,575,1163,25.16405589,85.79708242,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],189,"Middle School, Kamta East Wing",Main,1,532,25.16131984,85.78708427,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],189A,"Middle School, Kamta West Wing",Auxiliary,533,1074,25.16131984,85.78708427,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],190,"Utkramit Middle School, Rasalpur",Main,1,819,25.18132104,85.82813203,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],191,"Middle School, Hathiawan Left Wing",Main,1,603,25.17158207,85.82105031,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],191A,"Middle School, Hathiawan Right Wing",Auxiliary,604,1196,25.17158207,85.82105031,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],192,"High School, Hathiawan Left Wing",Main,1,576,25.17168023,85.81451619,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],192A,"High School, Hathiawan Right Wing",Auxiliary,577,1144,25.17168023,85.81451619,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],193,"Middle School, Purankama, Right Wing",Main,1,881,25.17245495,85.81434036,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],194,"Middle School, Purankama, Left Wing",Main,1,601,25.17245495,85.81434036,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],195,"Utkramit Middle School, Dharampur Left Wing",Main,1,515,25.15679482,85.82585884,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],195A,"Utkramit Middle School, Dharampur Right Wing",Auxiliary,516,1014,25.15679482,85.82585884,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],196,"Utkramit Middle School, Ramraipur",Main,1,690,25.17112821,85.81218517,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],197,"Primary School, Dihri Left Wing",Main,1,562,25.15135965,85.78357015,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],197A,"Primary School, Dihri RightWing",Auxiliary,563,1168,25.15135965,85.78357015,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],198,"Middle School, Pain, Middle Wing",Main,1,788,25.15333997,85.78068387,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],199,"Middle School, Pain, East Wing",Main,1,890,25.15333997,85.78068387,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],200,"Middle School, Pain, West Wing",Main,1,824,25.15333997,85.78068387,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],201,"Primary School, Nemdarganj",Main,1,911,25.15323292,85.78049652,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],202,"Samudayik Building, Dewle",Main,1,927,25.15633028,85.764324,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],203,"Primary School SC South Tola, Dewle",Main,1,822,25.15633028,85.764324,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],204,"Primary School, Dhewsabigha",Main,1,747,25.13084531,85.76425,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],205,"Utkramit Middle School, Dhewsadih Right Wing",Main,1,552,25.13101517,85.76620828,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],205A,"Utkramit Middle School, Dhewsadih Left Wing",Auxiliary,553,1099,25.13101517,85.76620828,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],206,"Middle School, Lodipur, East Wing",Main,1,846,25.19775779,85.80126803,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],207,"Middle School, Lodipur, West Wing",Main,1,521,25.19775779,85.80126803,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],207A,"Middle School, Lodipur, West, Right Wing",Auxiliary,522,1024,25.19775779,85.80126803,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],208,"Utkramit Middle School, Devra",Main,1,661,25.195,85.85888889,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],209,"Primary School, Pathraita",Main,1,347,25.12226236,85.78386088,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],210,"Utkramit Middle School, khakhra",Main,1,868,25.13121617,85.76630838,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],211,Primary School Prabhubigha,Main,1,639,25.13588754,85.79930935,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],212,"Samudayik Building, Kosra",Main,1,821,25.110185,85.729051,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],213,"Middle School, Kosra",Main,1,820,25.110185,85.729051,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],214,"Primary School, Gangti",Main,1,586,25.11063244,85.74261353,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],215,"Utkramit Middle School, Jiyanbigha, Left Wing",Main,1,506,25.10843,85.938846,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],215A,"Utkramit Middle School, Jiyanbigha, Left Middle Wing",Auxiliary,507,1015,25.10843,85.938846,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],216,"Utkramit Middle School, Jiyanbigha, Right Wing",Main,1,557,25.10843,85.938846,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],216A,"Utkarmit Middle School, Jiyanbigha, Right North Wing",Auxiliary,558,1120,25.10843,85.938846,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],217,"Primary School, Gopichak",Main,1,686,25.10458725,85.7211136,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],218,"Primary School, Bhadeli",Main,1,636,25.10643135,85.73117334,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],219,"Utkramit Middle School Bankarpur Bank, North Wing",Main,1,595,25.11621448,85.72161287,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],219A,"Utkramit Middle School Bankarpur Bank, South Wing",Auxiliary,596,1164,25.11621448,85.72161287,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],220,"Primary School, Baraiyabigha, Left Wing",Main,1,641,25.11641486,85.74260384,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],220A,"Primary School, Baraiyabigha, Right Wing",Auxiliary,642,1425,25.11641486,85.74260384,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],221,"Panchayat Building, Kusumbha",Main,1,846,25.11642599,85.73282463,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],222,"Primary School, Beldari, North Wing",Main,1,672,25.10406609,85.77351068,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],222A,"Primary School, Beldari, South Wing",Auxiliary,673,1334,25.10406609,85.77351068,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],223,"Utkramit Middle School, Amanatpur",Main,1,703,25.08585121,85.77552767,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],224,"Utkramit Middle School, Matokhar, Left Wing",Main,1,540,25.2074,85.7502,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],224A,"Utkramit Middle School, Matokhar, Left East Wing",Auxiliary,541,1077,25.2074,85.7502,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],225,"Utkramit Middle School, Matokhar, Right Wing",Main,1,971,25.13588754,85.79930935,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],226,"Middle School, Kare, North Wing",Main,1,788,25.15025004,85.80579036,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],227,"Middle School, Kare, East Wing",Main,1,829,25.15025004,85.80579036,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],228,"Middle School, Kare, South Wing",Main,1,598,25.15025004,85.80579036,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],228A,"Middle School, Kare, Middle Wing",Auxiliary,599,1168,25.15025004,85.80579036,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],229,"Nav Srijit Primary School, Mochi Tola, Kare, South Wing",Main,1,664,25.15025004,85.80579036,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],229A,Navsrijit Primary School Mochi Tola Kare North Wing,Auxiliary,665,1235,25.15025004,85.80579036,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],230,"Utkramit Middle School, Urdu Wajidpur, Right wing",Main,1,518,25.14345082,85.80628427,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],230A,"Utkramit Middle School, Urdu Wajidpur, Right East wing",Auxiliary,519,1008,25.14345082,85.80628427,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],231,"Utkramit Middle School, Urdu Wajidpur, Left wing",Main,1,970,25.14345082,85.80628427,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],232,"Utkramit Middle School, Surdaspur",Main,1,731,25.14168783,85.81993465,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],233,"Primary School, Kariho Left Wing",Main,1,523,25.13668163,85.80634302,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],233A,"Primary School, Kariho Right Wing",Auxiliary,524,1032,25.13668163,85.80634302,Yes,Yes,Yes
+170-Barbigha [26-Sheikhpura],234,"Primary School, Lakshna",Main,1,452,25.12312979,85.81516013,Yes,Yes,Yes

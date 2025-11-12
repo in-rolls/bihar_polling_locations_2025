@@ -1,0 +1,1405 @@
+Polling Station (Main and Auxiliary) Details,,,,,,,,,,
+AC No. & Name,Polling Station No.,Polling Station Name,Main/Auxiliary Polling Station (M/A),Elector Serial No. From,Elector Serial No. To,Latitude of Polling Station Building,Longitude of Polling Station Building,Electricity facility at PS (Yes/No),Toilet Facility at PS (Yes/No),Ramp Facility at PS (Yes/No)
+1,2,3,4,5,6,7,8,9,10,11
+164-Tarapur [24-Munger],001,Urdu Prathmik Vidyalay Gorho (East Part),Main,1,618,25.19039,86.62638,Yes,Yes,Yes
+164-Tarapur [24-Munger],001,Urdu Prathmik Vidyalay Gorho (West Part),Auxiliary,619,,25.19039,86.62638,Yes,Yes,Yes
+164-Tarapur [24-Munger],002,Madhya Vidyalay Chakhand ,Main,1,,25.18425432,86.62956669,Yes,Yes,Yes
+164-Tarapur [24-Munger],003,Madhya Vidyalay Amaiya (North Part),Main,1,,25.1964,86.6238,Yes,Yes,Yes
+164-Tarapur [24-Munger],004,Madhya Vidyalay Amaiya (South Part),Main,1,,25.1964,86.6238,Yes,Yes,Yes
+164-Tarapur [24-Munger],005,Madhya Vidyalay Baijalpur (East Part),Main,1,677,25.19136,86.63837,Yes,Yes,Yes
+164-Tarapur [24-Munger],005,Madhya Vidyalay Baijalpur (West Part),Auxiliary,678,,25.19136,86.63837,Yes,Yes,Yes
+164-Tarapur [24-Munger],006,Madhya Vidyalay Sangrampur,Main,1,,25.19227,86.63106,Yes,Yes,Yes
+164-Tarapur [24-Munger],007,Madhaya Vidyalay Dulher (North Part),Main,1,684,25.17638889,86.63694444,Yes,Yes,Yes
+164-Tarapur [24-Munger],007,Madhaya Vidyalay Dulher (South Part),Auxiliary,685,,25.17638889,86.63694444,Yes,Yes,Yes
+164-Tarapur [24-Munger],008,Prathmik Vidyalay Mangrappa (Badi),Main,1,,25.18008362,86.63058982,Yes,Yes,Yes
+164-Tarapur [24-Munger],009,Urdu Prathmik Vidyalay Bhateri (North Part),Main,1,652,25.16785708,86.63752778,Yes,Yes,Yes
+164-Tarapur [24-Munger],009,Urdu Prathmik Vidyalay Bhateri (South Part),Auxiliary,653,,25.16785708,86.63752778,Yes,Yes,Yes
+164-Tarapur [24-Munger],010,Madhya Vidyalay Berain,Main,1,,25.1733,86.65713,Yes,Yes,Yes
+164-Tarapur [24-Munger],011,Madhya Vidyalay Badrakha,Main,1,,25.16089,86.66486,Yes,Yes,Yes
+164-Tarapur [24-Munger],012,Madhya Vidyalay Mirjapur,Main,1,,25.15694444,86.65666667,Yes,Yes,Yes
+164-Tarapur [24-Munger],013,Urdu Prathmik Vidyalay Madarpur,Main,1,,25.15485587,86.64818968,Yes,Yes,Yes
+164-Tarapur [24-Munger],014,Urdu Madhya Vidyalay Vishanpur (East Part),Main,1,809,25.16416667,86.64916667,Yes,Yes,Yes
+164-Tarapur [24-Munger],014,Urdu Madhya Vidyalay Vishanpur (West Part),Auxiliary,810,,25.16416667,86.64916667,Yes,Yes,Yes
+164-Tarapur [24-Munger],015,Prathmik Vidyalay Aasha Jorari (East Part),Main,1,624,25.15686456,86.64136065,Yes,Yes,Yes
+164-Tarapur [24-Munger],015,Prathmik Vidyalay Aasha Jorari (West Part),Auxiliary,625,,25.15686456,86.64136065,Yes,Yes,Yes
+164-Tarapur [24-Munger],016,Madhya Vidyalay Pansain (North Part),Main,1,870,25.16955,86.67058,Yes,Yes,Yes
+164-Tarapur [24-Munger],016,Madhya Vidyalay Pansain (North Part),Auxiliary,871,,25.16955,86.67058,Yes,Yes,Yes
+164-Tarapur [24-Munger],017,Kanya Madhya Vidyalay Adras,Main,1,,25.16926,86.67702,Yes,Yes,Yes
+164-Tarapur [24-Munger],018,Prathmik Vidyalay Vikrampur (East Part-1),Main,1,853,25.15222886,86.6872929,Yes,Yes,Yes
+164-Tarapur [24-Munger],018,Prathmik Vidyalay Vikrampur (East Part-2),Auxiliary,854,,25.15222886,86.6872929,Yes,Yes,Yes
+164-Tarapur [24-Munger],019,Madhya Vidyalay Dhuria,Main,1,,25.15525,86.67315,Yes,Yes,Yes
+164-Tarapur [24-Munger],020,Prathmik Vidyalay Saroun (East Part),Main,1,632,25.14030772,86.66789739,Yes,Yes,Yes
+164-Tarapur [24-Munger],020,Prathmik Vidyalay Saroun (West Part),Auxiliary,633,,25.14030772,86.66789739,Yes,Yes,Yes
+164-Tarapur [24-Munger],021,Shri Pathik Madhya Vidyalay Makwa(East Part),Main,1,,25.14601,86.66169,Yes,Yes,Yes
+164-Tarapur [24-Munger],022,Shri Pathik Madhya Vidyalay Makwa (West Part),Main,1,,25.14601,86.66169,Yes,Yes,Yes
+164-Tarapur [24-Munger],023,Madhya Vidyalay Milik Jorari,Main,1,,25.13947,86.65459,Yes,Yes,Yes
+164-Tarapur [24-Munger],024,Urdu Prathmik Vidyalay Bangama,Main,1,,25.13788,86.64777,Yes,Yes,Yes
+164-Tarapur [24-Munger],025,Madhya Vidhyalay Dholpahari,Main,1,,25.19861111,86.65333333,Yes,Yes,Yes
+164-Tarapur [24-Munger],026,Madhya Vidyalay Purushottampur (South Part-1),Main,1,807,25.19194444,86.66444444,Yes,Yes,Yes
+164-Tarapur [24-Munger],026,Madhya Vidyalay Purushottampur (South Part-2),Auxiliary,808,,25.19194444,86.66444444,Yes,Yes,Yes
+164-Tarapur [24-Munger],027,Madhya Vidyalay Purushottampur (North Part-1),Main,1,694,25.19194444,86.66664444,Yes,Yes,Yes
+164-Tarapur [24-Munger],027,Madhya Vidyalay Purushottampur (North Part-2),Auxiliary,695,,25.19194444,86.66664444,Yes,Yes,Yes
+164-Tarapur [24-Munger],028,Lal Bahadur Shastri Uchh Vidyalay (East Part),Main,1,,25.18228,86.67313,Yes,Yes,Yes
+164-Tarapur [24-Munger],029,Lal Bahadur Shastri Uchh Vidyalay (West Part),Main,1,,25.18228,86.67313,Yes,Yes,Yes
+164-Tarapur [24-Munger],030,Madhya Vidyalay Lagma,Main,1,,25.18248447,86.66322069,Yes,Yes,Yes
+164-Tarapur [24-Munger],031,Madhya Vidyalay Maachhideeh (North Part),Main,1,612,25.17833333,86.64694444,Yes,Yes,Yes
+164-Tarapur [24-Munger],031,Madhya Vidyalay Maachhideeh (South Part),Auxiliary,613,,25.17833333,86.64694444,Yes,Yes,Yes
+164-Tarapur [24-Munger],032,New Prathmik Vidyalay Anusuchit Sajua,Main,1,,25.17791093,86.68406364,Yes,Yes,Yes
+164-Tarapur [24-Munger],033,Madhya Vidyalay Sajua (East Part),Main,1,,25.18346191,86.68999492,Yes,Yes,Yes
+164-Tarapur [24-Munger],034,Madhya Vidyalay Sajua (West Part),Main,1,,25.18346191,86.68999492,Yes,Yes,Yes
+164-Tarapur [24-Munger],035,Madhya Vidyalay Badi Koriyan (North Part-1),Main,1,696,25.17704147,86.70092882,Yes,Yes,Yes
+164-Tarapur [24-Munger],035,Madhya Vidyalay Badi Koriyan (North Part-2),Auxiliary,697,,25.17704147,86.70092882,Yes,Yes,Yes
+164-Tarapur [24-Munger],036,Madhya Vidyalay Badi Koriyan (South Part-1),Main,1,668,25.17704147,86.70092882,Yes,Yes,Yes
+164-Tarapur [24-Munger],036,Madhya Vidyalay Badi Koriyan (South Part-2),Auxiliary,669,,25.17704147,86.70092882,Yes,Yes,Yes
+164-Tarapur [24-Munger],037,Prathmik Vidyalay Masumganj (North Part),Main,1,685,25.17772,86.70572,Yes,Yes,Yes
+164-Tarapur [24-Munger],037,Prathmik Vidyalay Masumganj (South Part),Auxiliary,686,,25.17772,86.70572,Yes,Yes,Yes
+164-Tarapur [24-Munger],038,Madhya Vidyalay Sajua Satisthan,Main,1,,25.16561,86.69555,Yes,Yes,Yes
+164-Tarapur [24-Munger],039,Prathmik Vidyalay Kamrayan (North Part),Main,1,,25.18249429,86.70810491,Yes,Yes,Yes
+164-Tarapur [24-Munger],040,Prathmik Vidyalay Kamrayan (South Part),Main,1,,25.18249429,86.70810491,Yes,Yes,Yes
+164-Tarapur [24-Munger],041,Prathmik Vidyalay Madhopur,Main,1,,25.18444444,86.72166667,Yes,Yes,Yes
+164-Tarapur [24-Munger],042,Madhya Vidyalay Sadpur (North Part),Main,1,744,25.17961153,86.7177787,Yes,Yes,Yes
+164-Tarapur [24-Munger],042,Madhya Vidyalay Sadpur (South Part),Auxiliary,745,,25.17961153,86.7177787,Yes,Yes,Yes
+164-Tarapur [24-Munger],043,Madhya Vidyalay Chafa (East Part),Main,1,793,25.16731,86.70076,Yes,Yes,Yes
+164-Tarapur [24-Munger],043,Madhya Vidyalay Chafa (West Part),Auxiliary,794,,25.16731,86.70076,Yes,Yes,Yes
+164-Tarapur [24-Munger],044,"R,N.P. Uchh Vidyalay Jalalabad (East Part)",Main,1,,25.15000081,86.69107937,Yes,Yes,Yes
+164-Tarapur [24-Munger],045,"R,N.P. Uchh Vidyalay Jalalabad (West Part)",Main,1,,25.15000081,86.69107937,Yes,Yes,Yes
+164-Tarapur [24-Munger],046,Madhya Vidyalay Dhaangola (North Part),Main,1,689,25.14638889,86.69194444,Yes,Yes,Yes
+164-Tarapur [24-Munger],046,Madhya Vidyalay Dhaangola (South Part),Auxiliary,690,,25.14638889,86.69194444,Yes,Yes,Yes
+164-Tarapur [24-Munger],047,Madhya Vidyalay Hathinaath (East Part),Main,1,622,25.1475,86.68638888,Yes,Yes,Yes
+164-Tarapur [24-Munger],047,Madhya Vidyalay Hathinaath (West Part),Auxiliary,623,,25.1475,86.68638888,Yes,Yes,Yes
+164-Tarapur [24-Munger],048,Kanya Madhya Vidyalay Hathinaath (East Part),Main,1,638,25.14695251,86.68532343,Yes,Yes,Yes
+164-Tarapur [24-Munger],048,Kanya Madhya Vidyalay Hathinaath (West Part),Auxiliary,639,,25.14695251,86.68532343,Yes,Yes,Yes
+164-Tarapur [24-Munger],049,Prathmik Vidyalay Asarganj No.2 (East Part),Main,1,,25.1477561,86.68479323,Yes,Yes,Yes
+164-Tarapur [24-Munger],050,Prathmik Vidyalay Asarganj  (West Part),Main,1,,25.1477561,86.68479323,Yes,Yes,Yes
+164-Tarapur [24-Munger],051,Prathmik Vidyalay Asarganj (East Part),Main,1,,25.1477561,86.68479323,Yes,Yes,Yes
+164-Tarapur [24-Munger],052,Madhay Vidyalay Jalalabad East Part,Main,1,,25.14122617,86.68334305,Yes,Yes,Yes
+164-Tarapur [24-Munger],053,Madhay Vidyalay Jalalabad (West Part),Main,1,,25.14122617,86.68334305,Yes,Yes,Yes
+164-Tarapur [24-Munger],054,Madhya Vidyalay Mushkipur (North Part),Main,1,686,25.1257325,86.63238762,Yes,Yes,Yes
+164-Tarapur [24-Munger],054,Madhya Vidyalay Mushkipur (South Part),Auxiliary,687,,25.1257325,86.63238762,Yes,Yes,Yes
+164-Tarapur [24-Munger],055,Prathmik Vidyalay Sanrhi(North Part),Main,1,591,25.14229,86.6292,Yes,Yes,Yes
+164-Tarapur [24-Munger],055,Prathmik Vidyalay Sanrhi(South Part),Auxiliary,592,,25.14229,86.6292,Yes,Yes,Yes
+164-Tarapur [24-Munger],056,Madhya Vidyalay Khaira Dorain (North Part),Main,1,,25.12343865,86.60999658,Yes,Yes,Yes
+164-Tarapur [24-Munger],057,Madhya Vidyalay Khaira Dorain (South Part),Main,1,,25.12343865,86.60999658,Yes,Yes,Yes
+164-Tarapur [24-Munger],058,Madhya Vidyalay Devgaon ,Main,1,,25.14229,86.6292,Yes,Yes,Yes
+164-Tarapur [24-Munger],059,M.M.Jha Madhya Vidyalay Bhagalpura ,Main,1,,25.12843,86.61523,Yes,Yes,Yes
+164-Tarapur [24-Munger],060,Pustakalay Mahmadpur (East Part),Main,1,556,25.12364,86.63349,Yes,Yes,Yes
+164-Tarapur [24-Munger],060,Pustakalay Mahmadpur (West Part),Auxiliary,557,,25.12364,86.63349,Yes,Yes,Yes
+164-Tarapur [24-Munger],061,Madhya Vidyalay Rampur (North Part),Main,1,687,25.1362,86.64967,Yes,Yes,Yes
+164-Tarapur [24-Munger],061,Madhya Vidyalay Rampur (South Part),Auxiliary,688,,25.1362,86.64967,Yes,Yes,Yes
+164-Tarapur [24-Munger],062,Madhya Vidyalay Bisay N0.2,Main,1,,25.12328,86.65263,Yes,Yes,Yes
+164-Tarapur [24-Munger],063,Madhya Vidyalay Bisay N0.1 (North Part),Main,1,,25.11722,86.65066,Yes,Yes,Yes
+164-Tarapur [24-Munger],064,Madhya Vidyalay Bisay No.1 (South Part),Main,1,,25.11722,86.65066,Yes,Yes,Yes
+164-Tarapur [24-Munger],065,Panchayat Bhawan Lakhanpur (North Part),Main,1,,25.13237,86.68043,Yes,Yes,Yes
+164-Tarapur [24-Munger],066,Panchayat Bhawan Lakhanpur (South Part),Main,1,728,25.13232,86.67938,Yes,Yes,Yes
+164-Tarapur [24-Munger],066,Urdu Madhaya Vidyalay Lakhanpur (Middle Part),Auxiliary,729,,25.13232,86.67938,Yes,Yes,Yes
+164-Tarapur [24-Munger],067,Madhya Vidyalay Narayanpur,Main,1,,25.14464,86.67938,Yes,Yes,Yes
+164-Tarapur [24-Munger],068,Madhya Vidyalaly Manikpur Kasba (East Part),Main,1,,25.11912463,86.66228401,Yes,Yes,Yes
+164-Tarapur [24-Munger],069,Madhya Vidyalaly Manikpur Kasba (West Part),Main,1,,25.11912463,86.66228401,Yes,Yes,Yes
+164-Tarapur [24-Munger],070,Prathmik Vidyalay Lakhanpur (North Part),Main,1,753,25.1328,86.67706,Yes,Yes,Yes
+164-Tarapur [24-Munger],070,Prathmik Vidyalay Lakhanpur (South Part),Auxiliary,754,,25.1329,86.67708,Yes,Yes,Yes
+164-Tarapur [24-Munger],071,Madhya VIdyalay Lakhanpur Urdu (North Part),Main,1,,25.13336849,86.68047721,Yes,Yes,Yes
+164-Tarapur [24-Munger],072,Madhya VIdyalay Lakhanpur Urdu (South Part),Main,1,,25.13336849,86.68047721,Yes,Yes,Yes
+164-Tarapur [24-Munger],073,Prathmik Vidyalay Kamargama (East Part),Main,1,,25.13392,86.6649,Yes,Yes,Yes
+164-Tarapur [24-Munger],074,Prathmik Vidyalay Kamargama (West Part),Main,1,,25.13392,86.6649,Yes,Yes,Yes
+164-Tarapur [24-Munger],075,Madhya Vidyalay Gazipur (North Part),Main,1,,25.10154095,86.6693275,Yes,Yes,Yes
+164-Tarapur [24-Munger],076,Madhya Vidyalay Gazipur (South Part),Main,1,,25.10154095,86.6693275,Yes,Yes,Yes
+164-Tarapur [24-Munger],077,Madhya Vidylay Banshipur (North Part),Main,1,569,25.10777778,86.66972222,Yes,Yes,Yes
+164-Tarapur [24-Munger],077,Madhya Vidylay Banshipur (South Part),Auxiliary,570,,25.10777778,86.66972222,Yes,Yes,Yes
+164-Tarapur [24-Munger],078,Prathmik Vidyalay Nadiyapar Gazipur,Main,1,576,25.101502,86.66691,Yes,Yes,Yes
+164-Tarapur [24-Munger],078,Prathmik Vidyalay Nadiyapar Gazipur (West Part),Auxiliary,577,,25.101502,86.663304,Yes,Yes,Yes
+164-Tarapur [24-Munger],079,Kanya Prathmik Vidyalay Gazipur (South Part),Main,1,,25.10077,86.66691,Yes,Yes,Yes
+164-Tarapur [24-Munger],080,Prathmik Vidyalay Prakhand Colony Tarapur (North Part),Main,1,,25.0982,86.66765,Yes,Yes,Yes
+164-Tarapur [24-Munger],081,Prathmik Vidyalay Prakhand Colony Tarapur (SouthPart),Main,1,,25.0982,86.66765,Yes,Yes,Yes
+164-Tarapur [24-Munger],082,Madhya Vidyalay Teghra ,Main,1,,25.11810024,86.6826974,Yes,Yes,Yes
+164-Tarapur [24-Munger],083,Madhya Vidyalay Rangaon (North Part),Main,1,680,25.11333333,86.67027778,Yes,Yes,Yes
+164-Tarapur [24-Munger],083,Madhya Vidyalay Rangaon (South Part),Auxiliary,681,,25.11333333,86.67027778,Yes,Yes,Yes
+164-Tarapur [24-Munger],084,Madhya Vidyalay Auranga (North Part),Main,1,648,25.11479,86.67393,Yes,Yes,Yes
+164-Tarapur [24-Munger],084,Madhya Vidyalay Auranga (South Part),Auxiliary,649,,25.11479,86.67393,Yes,Yes,Yes
+164-Tarapur [24-Munger],085,Madhya Vidyalay Dhobai (East Part),Main,1,,25.10218084,86.67992568,Yes,Yes,Yes
+164-Tarapur [24-Munger],086,Madhya Vidyalay Dhobai (West Part),Main,1,,25.10218084,86.67992568,Yes,Yes,Yes
+164-Tarapur [24-Munger],087,Prathmik Vidyalay Chakdhobai (North Part),Main,1,658,25.0942661,86.68320819,Yes,Yes,Yes
+164-Tarapur [24-Munger],087,Prathmik Vidyalay Chakdhobai (South Part),Auxiliary,659,,25.0942661,86.68320819,Yes,Yes,Yes
+164-Tarapur [24-Munger],088,Prathmik Vidyalay Gogachak,Main,1,,25.09223,86.67075,Yes,Yes,Yes
+164-Tarapur [24-Munger],089,Madhya Vidyalay Tarapur (North Part),Main,1,,25.08891459,86.66078703,Yes,Yes,Yes
+164-Tarapur [24-Munger],090,Madhya Vidyalay Tarapur (South Part),Main,1,,25.08891459,86.66078703,Yes,Yes,Yes
+164-Tarapur [24-Munger],091,Prathmik Vidyalay Mohanganj (North Part),Main,1,711,25.08666667,86.66333333,Yes,Yes,Yes
+164-Tarapur [24-Munger],091,Prathmik Vidyalay Mohanganj (North Part),Auxiliary,712,,25.08666667,86.66333333,Yes,Yes,Yes
+164-Tarapur [24-Munger],092,Madhya vidyalay Tarapur-2 (North Part),Main,1,,25.09277778,86.6666666,Yes,Yes,Yes
+164-Tarapur [24-Munger],093,Madhya vidyalay Tarapur-2 (South Part),Main,1,,25.09277778,86.6666666,Yes,Yes,Yes
+164-Tarapur [24-Munger],094,Adarsh Uchh Vidyalay Tarapur (North Part),Main,1,,25.0908751,86.66083653,Yes,Yes,Yes
+164-Tarapur [24-Munger],095,Adarsh Uchh Vidyalay Tarapur (South Part),Main,1,,25.0908751,86.66083653,Yes,Yes,Yes
+164-Tarapur [24-Munger],096,Madhya Vidyalay Dhanpura (North Part),Main,1,671,25.075,86.64416667,Yes,Yes,Yes
+164-Tarapur [24-Munger],096,Madhya Vidyalay Dhanpura (South Part),Auxiliary,672,,25.075,86.64416667,Yes,Yes,Yes
+164-Tarapur [24-Munger],097,Madhya Vidyalay Mahpur,Main,1,,25.09388889,86.64416667,Yes,Yes,Yes
+164-Tarapur [24-Munger],098,Madhya Vidyalay Shishua (North Part),Main,1,650,25.08611111,86.63861111,Yes,Yes,Yes
+164-Tarapur [24-Munger],098,Madhya Vidyalay Shishua (South Part),Auxiliary,651,,25.08611111,86.63861111,Yes,Yes,Yes
+164-Tarapur [24-Munger],099,Panchayat Bhawan Devgaon,Main,1,,25.08,86.65589,Yes,Yes,Yes
+164-Tarapur [24-Munger],100,Prathmik Vidyalay Dhouni (North Part),Main,1,647,25.08777599,86.65924597,Yes,Yes,Yes
+164-Tarapur [24-Munger],100,Prathmik Vidyalay Dhouni (South Part),Auxiliary,648,,25.08777599,86.65924597,Yes,Yes,Yes
+164-Tarapur [24-Munger],101,Madhya Vidyalay Bihma (East Part),Main,1,626,25.07916667,86.65638889,Yes,Yes,Yes
+164-Tarapur [24-Munger],101,Madhya Vidyalay Bihma (West Part),Auxiliary,627,,25.07916667,86.65638889,Yes,Yes,Yes
+164-Tarapur [24-Munger],102,Prathmik Vidyalay Dharmray,Main,1,,25.07222222,86.66138889,Yes,Yes,Yes
+164-Tarapur [24-Munger],103,Madhya Vijdyalay Khanpur (East Part),Main,1,509,25.09378285,86.66221191,Yes,Yes,Yes
+164-Tarapur [24-Munger],103,Madhya Vijdyalay Khanpur (West Part),Auxiliary,510,,25.09378285,86.66221191,Yes,Yes,Yes
+164-Tarapur [24-Munger],104,Prathmik Vidyalay Khanpur Milki,Main,1,,25.10592766,86.66534143,Yes,Yes,Yes
+164-Tarapur [24-Munger],105,Madhya Vidyalay Madhura (East Part),Main,1,819,25.10530889,86.65030339,Yes,Yes,Yes
+164-Tarapur [24-Munger],105,Madhya Vidyalay Madhura (West Part),Auxiliary,820,,25.10530889,86.65030339,Yes,Yes,Yes
+164-Tarapur [24-Munger],106,Madhya Vidyalay Sondiha (East Part),Main,1,,25.09846,86.65682,Yes,Yes,Yes
+164-Tarapur [24-Munger],107,Madhya Vidyalay Sondiha (West Part),Main,1,,25.09846,86.65682,Yes,Yes,Yes
+164-Tarapur [24-Munger],108,Madhya Vidyalaly Maheshpur,Main,1,,25.10680068,86.63160547,Yes,Yes,Yes
+164-Tarapur [24-Munger],109,Prathmik Vidyalay Gorgama,Main,1,,25.09739617,86.64665537,Yes,Yes,Yes
+164-Tarapur [24-Munger],110,Madhya Vidyalay Padhbhara (North Part),Main,1,,25.11331,86.63825,Yes,Yes,Yes
+164-Tarapur [24-Munger],111,Madhya Vidyalay Padhbhara (South Part-1),Main,1,577,25.11332,86.63864,Yes,Yes,Yes
+164-Tarapur [24-Munger],111,Madhya Vidyalay Padhbhara (South Part-2),Auxiliary,578,,25.11332,86.63864,Yes,Yes,Yes
+164-Tarapur [24-Munger],112,Adarsh Basic Pustakalay Louna (North Part),Main,1,735,25.10348,86.61234,Yes,Yes,Yes
+164-Tarapur [24-Munger],112,Adarsh Basic Pustakalay Louna (South Part),Auxiliary,736,,25.10348,86.61234,Yes,Yes,Yes
+164-Tarapur [24-Munger],113,Kanya Madhya Vidyalay Louna (East Part),Main,1,,25.14487,86.61592,Yes,Yes,Yes
+164-Tarapur [24-Munger],114,Kanya Madhya Vidyalay Louna (West Part),Main,1,,25.14487,86.61592,Yes,Yes,Yes
+164-Tarapur [24-Munger],115,Madhya Vidyalay Louna Parsa (East Part),Main,1,598,25.09880556,86.61586333,Yes,Yes,Yes
+164-Tarapur [24-Munger],115,Madhya Vidyalay Louna Parsa (West Part),Auxiliary,599,,25.09880556,86.61586333,Yes,Yes,Yes
+164-Tarapur [24-Munger],116,Madhya Vidyalay Doultaganj (North Part),Main,1,858,25.0819406,86.62820484,Yes,Yes,Yes
+164-Tarapur [24-Munger],116,Madhya Vidyalay Doultaganj (South Part),Auxiliary,859,,25.0819406,86.62820484,Yes,Yes,Yes
+164-Tarapur [24-Munger],117,Madhya Vidyalay Khudia (North Part),Main,1,,25.09554,86.6263,Yes,Yes,Yes
+164-Tarapur [24-Munger],118,Madhya Vidyalay Khudia (South Part),Main,1,,25.09554,86.6263,Yes,Yes,Yes
+164-Tarapur [24-Munger],119,Harijan Prathmik Vidyalay Afjalnagar Khudia (North Part),Main,1,746,25.09220279,86.61845287,Yes,Yes,Yes
+164-Tarapur [24-Munger],119,Harijan Prathmik Vidyalay Afjalnagar Khudia (South Part),Auxiliary,747,,25.09220279,86.61845287,Yes,Yes,Yes
+164-Tarapur [24-Munger],120,Prathmik Vidyalay Madhodih (East Part),Main,1,,25.06384,86.64711,Yes,Yes,Yes
+164-Tarapur [24-Munger],121,Prathmik Vidyalay Madhodih (West Part),Main,1,,25.06384,86.64711,Yes,Yes,Yes
+164-Tarapur [24-Munger],122,Madhya Vidyalay Madhodeeh Ganaili (East Part),Main,1,546,25.06544147,86.62510349,Yes,Yes,Yes
+164-Tarapur [24-Munger],122,Madhya Vidyalay Madhodeeh Ganaili (West Part),Auxiliary,547,,25.06544147,86.62510349,Yes,Yes,Yes
+164-Tarapur [24-Munger],123,Madhya Vidyalay Shahpur,Main,1,,25.07328963,86.62000119,Yes,Yes,Yes
+164-Tarapur [24-Munger],124,Madhya Vidyalay Belbihma (East Part),Main,1,521,25.06863327,86.62757649,Yes,Yes,Yes
+164-Tarapur [24-Munger],124,Madhya Vidyalay Belbihma (West Part),Auxiliary,522,,25.06863327,86.62757649,Yes,Yes,Yes
+164-Tarapur [24-Munger],125,Madhya Vidyalay Harpur,Main,1,,25.06748,86.62225,Yes,Yes,Yes
+164-Tarapur [24-Munger],126,Madhya Vidyalay Ganaili (East Part),Main,1,,25.05666667,86.64361111,Yes,Yes,Yes
+164-Tarapur [24-Munger],127,Madhya Vidyalay Ganaili (West Part),Main,1,,25.05666667,86.64361111,Yes,Yes,Yes
+164-Tarapur [24-Munger],128,Madhya Vidyalay Dharampur (North Part),Main,1,792,25.06253,86.6472,Yes,Yes,Yes
+164-Tarapur [24-Munger],128,Madhya Vidyalay Dharampur (South Part),Auxiliary,793,,25.06253,86.6472,Yes,Yes,Yes
+164-Tarapur [24-Munger],129,Prathmik Vidyalay Marwa,Main,1,,25.05416667,86.6525,Yes,Yes,Yes
+164-Tarapur [24-Munger],130,Madhya Vidyalay Rajarani Talaab,Main,1,,25.10206525,86.59537956,Yes,Yes,Yes
+164-Tarapur [24-Munger],131,Madhya Vidyalay Bangama (North Part-1),Main,1,548,25.08583333,86.59472222,Yes,Yes,Yes
+164-Tarapur [24-Munger],131,Madhya Vidyalay Bangama (North Part-2),Auxiliary,549,,25.08583333,86.59472222,Yes,Yes,Yes
+164-Tarapur [24-Munger],132,Madhya Vidyalay Bangama (South Part-1),Main,1,612,25.08583333,86.59472222,Yes,Yes,Yes
+164-Tarapur [24-Munger],132,Madhya Vidyalay Bangama (South Part-2),Auxiliary,613,,25.08583333,86.59472222,Yes,Yes,Yes
+164-Tarapur [24-Munger],133,Prathmik Vidyalay Lohra (North Part),Main,1,664,25.08523763,86.56663193,Yes,Yes,Yes
+164-Tarapur [24-Munger],133,Prathmik Vidyalay Lohra (South Part),Auxiliary,665,,25.08523763,86.56663193,Yes,Yes,Yes
+164-Tarapur [24-Munger],134,Madhya Vidyalay Tajpur (North Part),Main,1,,25.1039,86.5765,Yes,Yes,Yes
+164-Tarapur [24-Munger],135,Madhya Vidyalay Tajpur (South Part),Main,1,,25.1039,86.5765,Yes,Yes,Yes
+164-Tarapur [24-Munger],136,Madhya Vidyalay Bichhi Chancher (East Part),Main,1,630,25.067,86.5945,Yes,Yes,Yes
+164-Tarapur [24-Munger],136,Madhya Vidyalay Bichhi Chancher (West Part),Auxiliary,631,,25.067,86.5945,Yes,Yes,Yes
+164-Tarapur [24-Munger],137,Prathmik Vidyalay Kathni (East Part),Main,1,558,25.07067774,86.58065692,Yes,Yes,Yes
+164-Tarapur [24-Munger],137,Prathmik Vidyalay Kathni (West Part),Auxiliary,559,,25.07067774,86.58065692,Yes,Yes,Yes
+164-Tarapur [24-Munger],138,Kanya Madhya Vidyalay Tetiya (North Part),Main,1,,25.068,86.5718,Yes,Yes,Yes
+164-Tarapur [24-Munger],139,Kanya Madhya Vidyalay Tetiya (South Part),Main,1,,25.068,86.5718,Yes,Yes,Yes
+164-Tarapur [24-Munger],140,Jagannath Uchh School Tetiya (North Part),Main,1,,25.06586357,86.56577112,Yes,Yes,Yes
+164-Tarapur [24-Munger],141,Jagannath Uchh School Tetiya (South Part),Main,1,,25.06586357,86.56577112,Yes,Yes,Yes
+164-Tarapur [24-Munger],142,Basic School Tetiya Bamber (North Part-1),Main,1,515,25.06666667,86.56666667,Yes,Yes,Yes
+164-Tarapur [24-Munger],142,Basic School Tetiya Bamber (North Part-2),Auxiliary,516,,25.06666667,86.56666667,Yes,Yes,Yes
+164-Tarapur [24-Munger],143,Basic School Tetiya Bamber (South Part),Main,1,,25.06666667,86.56666667,Yes,Yes,Yes
+164-Tarapur [24-Munger],144,Madhya Vidyalay Kharui (East Part),Main,1,,25.0813,86.577575,Yes,Yes,Yes
+164-Tarapur [24-Munger],145,Madhya Vidyalay Khadui (West Part-1),Main,1,551,25.0813,86.577575,Yes,Yes,Yes
+164-Tarapur [24-Munger],145,Madhya  Vidyalay Khadui (West Part-2),Auxiliary,552,,25.0813,86.577575,Yes,Yes,Yes
+164-Tarapur [24-Munger],146,Madhya Vidyalay Parsa ,Main,1,,25.0771,86.5459,Yes,Yes,Yes
+164-Tarapur [24-Munger],147,Madhya Vidyalay Champachak,Main,1,,25.07611111,86.5275,Yes,Yes,Yes
+164-Tarapur [24-Munger],148,Panchayat Bhawan Khagroun (East Part),Main,1,551,25.0613,86.6009,Yes,Yes,Yes
+164-Tarapur [24-Munger],148,Panchayat Bhawan Khagroun (West Part),Auxiliary,552,,25.0613,86.6009,Yes,Yes,Yes
+164-Tarapur [24-Munger],149,Prathmik Vidyalay Gokulchak,Main,1,,25.07025856,86.60299773,Yes,Yes,Yes
+164-Tarapur [24-Munger],150,Madhya VIdyalay Tilkari (North Part),Main,1,,25.04844873,86.58689661,Yes,Yes,Yes
+164-Tarapur [24-Munger],151,Madhya VIdyalay Tilkari (South Part),Main,1,,25.04844873,86.58689661,Yes,Yes,No
+164-Tarapur [24-Munger],152,Madhya Vidyalay Dhouri (East Part),Main,1,605,25.06135868,86.61001819,Yes,Yes,No
+164-Tarapur [24-Munger],152,Madhya Vidyalay Dhouri (West Part),Auxiliary,606,,25.06135868,86.61001819,Yes,Yes,Yes
+164-Tarapur [24-Munger],153,Madhya Vidyalay Shambhuganj ,Main,1,,25.05611799,86.6112406,Yes,Yes,Yes
+164-Tarapur [24-Munger],154,Madhya Vidyalay Manjura (East Part),Main,1,707,25.0393985,86.57778864,Yes,Yes,Yes
+164-Tarapur [24-Munger],154,Madhya Vidyalay Manjura (West Part),Auxiliary,708,,25.0393985,86.57778864,Yes,Yes,Yes
+164-Tarapur [24-Munger],155,Madhya Vidyalay Lagma,Main,1,,25.04495891,86.56879326,Yes,Yes,Yes
+164-Tarapur [24-Munger],156,Madhya Vidyalay Bhuna ,Main,1,,25.03628501,86.57385914,Yes,Yes,Yes
+164-Tarapur [24-Munger],157,Madhya Vidyalay Kalaiy,Main,1,,25.04113202,86.5968832,Yes,Yes,Yes
+164-Tarapur [24-Munger],158,Prathmik Vidyalay Mahuratan,Main,1,,25.03097754,86.60475183,Yes,Yes,Yes
+164-Tarapur [24-Munger],159,Panchayat Bhawan Kalaiy,Main,1,,25.0375,86.5967,No,Yes,Yes
+164-Tarapur [24-Munger],160,Prathmik Vidyalay Jagatpura (North Part),Main,1,585,25.05195018,86.58328387,Yes,Yes,Yes
+164-Tarapur [24-Munger],160,Prathmik Vidyalay Jagatpura (South Part),Auxiliary,586,,25.05195018,86.58328387,Yes,Yes,Yes
+164-Tarapur [24-Munger],161,Prathmik Vidyalay Rajadeeh (East Part),Main,1,695,25.06916667,86.54277778,Yes,Yes,Yes
+164-Tarapur [24-Munger],161,Prathmik Vidyalay Rajadeeh (West Part),Auxiliary,696,,25.06916667,86.54277778,Yes,Yes,Yes
+164-Tarapur [24-Munger],162,Madhya Vidyalay Kharwe,Main,1,,25.06530683,86.5526128,Yes,Yes,Yes
+164-Tarapur [24-Munger],163,Prathmik Vidyalay Barsanda (East Part),Main,1,636,25.064,86.5644,Yes,Yes,Yes
+164-Tarapur [24-Munger],163,Prathmik Vidyalay Barsanda (West Part),Auxiliary,637,,25.064,86.5644,Yes,Yes,Yes
+164-Tarapur [24-Munger],164,Prathmik Vidyalay Kesouli (South Part-1),Main,1,507,25.04865368,86.54592146,Yes,Yes,Yes
+164-Tarapur [24-Munger],164,Prathmik Vidyalay Kesouli (South Part-2),Auxiliary,508,,25.04865368,86.54592146,Yes,Yes,Yes
+164-Tarapur [24-Munger],165,Madhya Vidyalay Kesouli (North Part),Main,1,,25.04865368,86.54592146,Yes,Yes,Yes
+164-Tarapur [24-Munger],166,Basic School Gouravdeeh,Main,1,,25.05018262,86.5572503,Yes,Yes,Yes
+164-Tarapur [24-Munger],167,Madhya Vidyalay Rania,Main,1,,25.0425,86.5585,Yes,Yes,Yes
+164-Tarapur [24-Munger],168,Kanya Pathshala Milki (East Part),Main,1,568,25.0624,86.5141,Yes,Yes,Yes
+164-Tarapur [24-Munger],168,Kanya Pathshala Milki (West Part),Auxiliary,569,,25.0624,86.5141,Yes,Yes,Yes
+164-Tarapur [24-Munger],169,Basic School Milki (East Part),Main,1,596,25.05882105,86.51974752,Yes,Yes,Yes
+164-Tarapur [24-Munger],169,Basic School Milki (West Part),Auxiliary,597,,25.05882105,86.51974752,Yes,Yes,Yes
+164-Tarapur [24-Munger],170,Prathmik Vidyalay Devaria (North Part),Main,1,596,25.048,86.5101,Yes,Yes,Yes
+164-Tarapur [24-Munger],170,Prathmik Vidyalay Devaria (South Part),Auxiliary,597,,25.048,86.5101,Yes,Yes,Yes
+164-Tarapur [24-Munger],171,Prathmik Vidyalay Mahimachak ,Main,1,,25.05249533,86.52354175,Yes,Yes,Yes
+164-Tarapur [24-Munger],172,Samudaik Bhawan Mathura (North Part),Main,1,563,25.0583,86.531,Yes,No,No
+164-Tarapur [24-Munger],172,Samudaik Bhawan Mathura (South Part),Auxiliary,564,,25.0583,86.531,Yes,Yes,No
+164-Tarapur [24-Munger],173,Madhya Vidyalay Banahra (North Part),Main,1,,25.07009899,86.52017992,Yes,Yes,Yes
+164-Tarapur [24-Munger],174,Madhya Vidyalay Banahra (South Part-1),Main,1,538,25.07009899,86.52017992,Yes,Yes,Yes
+164-Tarapur [24-Munger],174,Madhya Vidyalay Banahra (South Part-2),Auxiliary,539,,25.07009899,86.52017992,Yes,Yes,Yes
+164-Tarapur [24-Munger],175,Madhya Vidyalay Bhalguri (East Part),Main,1,,25.02223675,86.58352024,Yes,Yes,Yes
+164-Tarapur [24-Munger],176,Madhya Vidyalay Bhalguri (West Part),Main,1,,25.02223675,86.58352024,Yes,Yes,Yes
+164-Tarapur [24-Munger],177,Panchayat Bhawan Laskara,Main,1,,25.019,86.5666,Yes,No,Yes
+164-Tarapur [24-Munger],178,Prathmik Vidyalay Bhandar (East Part),Main,1,523,25.0130309,86.57737214,Yes,Yes,Yes
+164-Tarapur [24-Munger],178,Prathmik Vidyalay Bhandar (West Part),Auxiliary,524,,25.0130309,86.57737214,Yes,Yes,Yes
+164-Tarapur [24-Munger],179,Uchh Vidyalay Devghara ,Main,1,,25.0205,86.5527,Yes,Yes,Yes
+164-Tarapur [24-Munger],180,Prathmik Vidyalay Shivnagar (North Part),Main,1,618,25.03508975,86.54684467,Yes,Yes,Yes
+164-Tarapur [24-Munger],180,Prathmik Vidyalay Shivnagar (South Part),Auxiliary,619,,25.03508975,86.54684467,Yes,Yes,Yes
+164-Tarapur [24-Munger],181,Prathmik Vidyalay Chhata (North Part),Main,1,563,25.03,86.546,Yes,Yes,Yes
+164-Tarapur [24-Munger],181,Prathmik Vidyalay Chhata (South Part),Auxiliary,564,,25.03,86.546,Yes,Yes,Yes
+164-Tarapur [24-Munger],182,Madhya Vidyalay Madhuban Dariyapur (South Part),Main,1,565,25.14083333,86.54083333,Yes,Yes,Yes
+164-Tarapur [24-Munger],182,Madhya Vidyalay Madhuban Dariyapur (North Part),Auxiliary,566,,25.14083333,86.54083333,Yes,Yes,Yes
+164-Tarapur [24-Munger],183,Madhya Vidyalay Madhuban Hindi (North Part-1),Main,1,574,25.1381,86.5465,Yes,Yes,Yes
+164-Tarapur [24-Munger],183,Madhya Vidyalay Madhuban Hindi (North Part-2),Auxiliary,575,,25.1381,86.5465,Yes,Yes,Yes
+164-Tarapur [24-Munger],184,Madhya Vidyalay Madhuban Dariyapur Hindi (South Part-2),Main,1,,25.138,86.5464,Yes,Yes,Yes
+164-Tarapur [24-Munger],185,Madhya Vidyalay Madhuban Dariyapur Hindi (South Part-3),Main,1,,25.138,86.5464,Yes,Yes,Yes
+164-Tarapur [24-Munger],186,Abhyas Basic School Kharagpur (Middle Part-1),Main,1,624,25.125,86.55305556,Yes,Yes,Yes
+164-Tarapur [24-Munger],186,Abhyas Basic School Kharagpur (Middle Part-2),Auxiliary,625,,25.125,86.55305556,Yes,Yes,Yes
+164-Tarapur [24-Munger],187,Rajkiy Buniyadi Abhyas Shala (North Part),Main,1,,25.125,86.55305556,Yes,Yes,Yes
+164-Tarapur [24-Munger],188,Rajkiy Buniyadi Abhyas Shala (South Part),Main,1,,25.125,86.55305556,Yes,Yes,Yes
+164-Tarapur [24-Munger],189,Rajkiy Buniyadi Abhyas Shala (East Part),Main,1,,25.125,86.55305556,Yes,Yes,Yes
+164-Tarapur [24-Munger],190,Rajkiy Buniyadi Abhyas Shala (West Part),Main,1,,25.125,86.55305556,Yes,Yes,Yes
+164-Tarapur [24-Munger],191,Madhya Vidyalay Rajganj (East Part),Main,1,731,25.13,86.5672,Yes,Yes,Yes
+164-Tarapur [24-Munger],191,Madhya Vidyalay Rajganj (West Part),Auxiliary,732,,25.13,86.5672,Yes,Yes,Yes
+164-Tarapur [24-Munger],192,Prathmik Vidyalay Dularpur (East Part),Main,1,,25.13823336,86.2685459,Yes,Yes,Yes
+164-Tarapur [24-Munger],193,Prathmik Vidyalay Dularpur (West Part),Main,1,,25.13823336,86.2685459,Yes,Yes,Yes
+164-Tarapur [24-Munger],194,Prathmik Vidyalay Khas Bazar Urdu (North Part),Main,1,711,25.1265,86.5576,Yes,Yes,Yes
+164-Tarapur [24-Munger],194,Prathmik Vidyalay Khas Bazar Urdu (South Part),Auxiliary,712,,25.1265,86.5576,Yes,Yes,Yes
+164-Tarapur [24-Munger],195,Prathmik Vidyalay Simpur (North Part-1),Main,1,567,25.1284,86.56,Yes,Yes,Yes
+164-Tarapur [24-Munger],195,Prathmik Vidyalay Simpur (North Part-2),Auxiliary,568,,25.1284,86.56,Yes,Yes,Yes
+164-Tarapur [24-Munger],196,Prathmik Vidyalay Simpur (South Part),Main,1,,25.1284,86.56,Yes,Yes,Yes
+164-Tarapur [24-Munger],197,Rajkiy +2 Uchh Vidyalay Haweli Kharagpur (East Part),Main,1,,25.126778,86.548417,No,No,No
+164-Tarapur [24-Munger],198,Rajkiy +2 Uchh Vidyalay Haweli Kharagpur (West Part),Main,1,,25.126778,86.548417,No,No,No
+164-Tarapur [24-Munger],199,Kanya Madhya Vidyalay Kharagpur ,Main,1,,25.12333333,86.55638889,Yes,Yes,Yes
+164-Tarapur [24-Munger],200,Kanya Uchh Vidyalay Kharagpur (North Part-1),Main,1,614,25.1235,86.5507,Yes,Yes,No
+164-Tarapur [24-Munger],200,Kanya Uchh Vidyalay Kharagpur (North Part-2),Auxiliary,615,,25.1235,86.5507,Yes,Yes,No
+164-Tarapur [24-Munger],201,Kanya Uchh Vidyalay Kharagpur (South Part-1),Main,1,512,25.1235,86.5507,Yes,Yes,No
+164-Tarapur [24-Munger],201,Kanya Uchh Vidyalay Kharagpur (South Part-2),Auxiliary,513,,25.1235,86.5507,Yes,Yes,No
+164-Tarapur [24-Munger],202,Anjuman Prathmik Vidyalay Urdu Haweli Kharagpur (East Part),Main,1,,25.12111111,86.5525,Yes,Yes,Yes
+164-Tarapur [24-Munger],203,Anjuman Prathmik Vidyalay Urdu Haweli Kharagpur (West Part),Main,1,,25.12111111,86.5525,Yes,Yes,Yes
+164-Tarapur [24-Munger],204,Prathmik Vidyalay Muluktanr Kharagpur (North Part-1),Main,1,548,25.11305556,86.55277778,Yes,Yes,Yes
+164-Tarapur [24-Munger],204,Samudayik Bhawan Muluktanr Yadav Tola,Auxiliary,549,,25.656,86.3326,Yes,Yes,Yes
+164-Tarapur [24-Munger],205,Prathmik Vidyalay Muluktanr Kharagpur (South Part-1),Main,1,680,25.11305556,86.55277778,Yes,Yes,Yes
+164-Tarapur [24-Munger],205,Samudayik Bhawan Muluktanr Manjhi Tola,Auxiliary,681,,25.656,86.3326,Yes,Yes,Yes
+164-Tarapur [24-Munger],206,Madhya Vidyalay Situhar (East Part),Main,1,,25.12323348,86.56109126,Yes,Yes,Yes
+164-Tarapur [24-Munger],207,Madhya Vidyalay Situhar (West Part),Main,1,,25.12323348,86.56109126,Yes,Yes,Yes
+164-Tarapur [24-Munger],208,Madhya Vidyalay Samda (East Part),Main,1,670,25.1122,86.5185,Yes,Yes,Yes
+164-Tarapur [24-Munger],208,Madhya Vidyalay Samda (West Part),Auxiliary,671,,25.1122,86.5185,Yes,Yes,Yes
+164-Tarapur [24-Munger],209,Panchayat Bhawan Chhotki Hathiya ,Main,1,,25.115,86.5202,Yes,Yes,Yes
+164-Tarapur [24-Munger],210,Prathmik Vidyalay Gordhowa (North Part),Main,1,,25.1194,86.51402,Yes,Yes,Yes
+164-Tarapur [24-Munger],211,Prathmik Vidyalay Gordhowa (West Part),Main,1,,25.1194,86.51402,Yes,Yes,Yes
+164-Tarapur [24-Munger],212,Prathmik Vidyalay Badki Hathiya (South Part),Main,1,579,25.1107579,86.51138502,Yes,Yes,Yes
+164-Tarapur [24-Munger],212,Prathmik Vidyalay Badki Hathiya (North Part),Auxiliary,580,,25.1107579,86.51138502,Yes,Yes,Yes
+164-Tarapur [24-Munger],213,Prathmik Vidyalay Motiyatari (East Part),Main,1,651,25.12996504,86.5322113,Yes,Yes,Yes
+164-Tarapur [24-Munger],213,Prathmik Vidyalay Motiyatari (West Part),Auxiliary,652,,25.12996504,86.5322113,Yes,Yes,Yes
+164-Tarapur [24-Munger],214,Madhya Vidyalay Banbarsha Hindi (East Part),Main,1,,25.07,86.5202,Yes,Yes,Yes
+164-Tarapur [24-Munger],215,Madhya Vidyalay Banbarsha Hindi (WestPart),Main,1,,25.07,86.5202,Yes,Yes,Yes
+164-Tarapur [24-Munger],216,Madhya Vidyalay Ramankabaad (East Part),Main,1,,25.10777778,86.54416667,Yes,Yes,Yes
+164-Tarapur [24-Munger],217,Madhya Vidyalay Ramankabaad (West Part),Main,1,,25.10777778,86.54416667,Yes,Yes,Yes
+164-Tarapur [24-Munger],218,Panchayat Bhawan Bhaluakol (North Part),Main,1,,25.0998,86.5379,Yes,Yes,Yes
+164-Tarapur [24-Munger],219,Panchayat Bhawan Bhaluakol (South Part),Main,1,,25.0998,86.5379,Yes,Yes,Yes
+164-Tarapur [24-Munger],220,Prathmik Vidyalay Kathotia (North Part),Main,1,643,25.10190999,86.53361516,Yes,Yes,Yes
+164-Tarapur [24-Munger],220,Prathmik Vidyalay Kathotia (South Part),Auxiliary,644,,25.10190999,86.53361516,Yes,Yes,Yes
+164-Tarapur [24-Munger],221,Basic School Khaira (East Part),Main,1,552,25.09763133,86.55539087,Yes,Yes,Yes
+164-Tarapur [24-Munger],221,Basic School Khaira (West Part),Auxiliary,553,,25.09763133,86.55539087,Yes,Yes,Yes
+164-Tarapur [24-Munger],222,Uchh Vidyalay  Khaira (North Part),Main,1,,25.0992,86.5515,Yes,Yes,Yes
+164-Tarapur [24-Munger],223,Uchh Vidyalay  Khaira (South Part),Main,1,,25.0992,86.5515,Yes,Yes,Yes
+164-Tarapur [24-Munger],224,Prathmik Vidyalay Tilwaria (East Part),Main,1,,25.102,86.509,Yes,Yes,Yes
+164-Tarapur [24-Munger],225,Prathmik Vidyalay Tilwaria (West Part),Main,1,,25.102,86.509,Yes,Yes,Yes
+164-Tarapur [24-Munger],226,Panchayat Bhawan Murade ,Main,1,,25.0991,86.5125,Yes,Yes,Yes
+164-Tarapur [24-Munger],227,Madhya Vidyalay Kahalpura ,Main,1,,25.0887,86.5066,Yes,Yes,Yes
+164-Tarapur [24-Munger],228,Prathmik Vidyalaya Tetariya ,Main,1,,25.02718034,86.52851457,Yes,Yes,Yes
+164-Tarapur [24-Munger],229,Madhya Vidyalay Khajechak ,Main,1,,25.09515516,86.52141053,Yes,Yes,Yes
+164-Tarapur [24-Munger],230,Madhya Vidyalay Mohanpur (East Part),Main,1,570,25.08027778,86.52333333,Yes,Yes,Yes
+164-Tarapur [24-Munger],230,Madhya Vidyalay Mohanpur (West Part),Auxiliary,571,,25.08027778,86.52333333,Yes,Yes,Yes
+164-Tarapur [24-Munger],231,Madhya Vidyalay Gangti,Main,1,,25.079,86.4962,Yes,Yes,Yes
+164-Tarapur [24-Munger],232,Panchayat Bhawan Manjhgayen (North Part),Main,1,,25.0756,86.5301,Yes,Yes,Yes
+164-Tarapur [24-Munger],233,Panchayat Bhawan Manjhgayen (South Part),Main,1,,25.0756,86.5301,Yes,Yes,Yes
+164-Tarapur [24-Munger],234,Madhya Vidyalay Najri ,Main,1,,25.08444444,86.53,Yes,Yes,Yes
+164-Tarapur [24-Munger],235,Madhya Vidyalay Kathna (North Part),Main,1,578,25.0848,86.5474,Yes,Yes,Yes
+164-Tarapur [24-Munger],235,Madhya Vidyalay Kathna (South Part),Auxiliary,579,,25.0848,86.5474,Yes,Yes,Yes
+164-Tarapur [24-Munger],236,Madhya Vidyalay chhotki Manjhgayen,Main,1,,25.0853,86.5424,Yes,Yes,Yes
+164-Tarapur [24-Munger],237,Prathmik Vidyalay Poukri,Main,1,,25.0818,86.5655,Yes,Yes,Yes
+164-Tarapur [24-Munger],238,Prathmik Vidyalay Kubra Manjhgain (North Part-1),Main,1,509,25.0746,86.5327,Yes,No,Yes
+164-Tarapur [24-Munger],238,Prathmik Vidyalay Kubra Manjhgain (North Part-2),Auxiliary,510,,25.0746,86.5327,Yes,No,Yes
+164-Tarapur [24-Munger],239,Prathmik Vidyalay Kubda Manjhgayen (South Part),Main,1,,25.0746,86.5327,Yes,No,Yes
+164-Tarapur [24-Munger],240,Prathmik Vidyalay Tetariya (East Part),Main,1,543,25.02718034,86.52851457,Yes,Yes,Yes
+164-Tarapur [24-Munger],240,Prathmik Vidyalay Tetariya (West Part),Auxiliary,544,,25.02718034,86.52851457,Yes,Yes,Yes
+164-Tarapur [24-Munger],241,Madhya Vidyalay Dariyapur (North Part-1),Main,1,634,25.0322,86.5303,Yes,Yes,Yes
+164-Tarapur [24-Munger],241,Madhya Vidyalay Dariyapur (North Part-2),Auxiliary,635,,25.0322,86.5303,Yes,Yes,Yes
+164-Tarapur [24-Munger],242,Madhya Vidyalay Dariyapur-1 (Middle Part),Main,1,,25.0322,86.5303,Yes,Yes,Yes
+164-Tarapur [24-Munger],243,Madhya Vidyalay Dariyapur-1(South Part-1),Main,1,,25.0322,86.5303,Yes,Yes,Yes
+164-Tarapur [24-Munger],244,Madhya Vidyalay Dariyapur-1(South Part-2),Main,1,,25.0322,86.5303,Yes,Yes,Yes
+164-Tarapur [24-Munger],245,Madhya Vidyalay Jamughat (North Part-1),Main,1,627,25.04406299,86.52800188,Yes,Yes,Yes
+164-Tarapur [24-Munger],245,Madhya Vidyalay Jamughat (North Part-2),Auxiliary,628,,25.04406299,86.52800188,Yes,Yes,Yes
+164-Tarapur [24-Munger],246,Madhya Vidyalay Jamghat (South Part),Main,1,,25.04406299,86.52800188,Yes,Yes,Yes
+164-Tarapur [24-Munger],247,Prathmik Vidyalay Mahuli (North Part),Main,1,641,25.05321802,86.55424505,Yes,Yes,Yes
+164-Tarapur [24-Munger],247,Prathmik Vidyalay Mahuli (South Part),Auxiliary,642,,25.05321802,86.55424505,Yes,Yes,Yes
+164-Tarapur [24-Munger],248,Van Vibhag Vishramalay Bhimbhandh (Primary School Gayghat),Main,1,,25.0393,86.4936,Yes,Yes,Yes
+164-Tarapur [24-Munger],249,Prathmik Vidyalay Gayghat (North Part),Main,1,558,25.0393,86.4936,Yes,Yes,Yes
+164-Tarapur [24-Munger],249,Prathmik Vidyalay Gayghat (South Part),Auxiliary,559,,25.0393,86.4936,Yes,Yes,Yes
+164-Tarapur [24-Munger],250,Madhya Vidyalay Lourhia Basmatta (East Part),Main,1,681,25.0322,86.5169,Yes,Yes,Yes
+164-Tarapur [24-Munger],250,Madhya Vidyalay Lourhia Basmatta (West Part),Auxiliary,682,,25.0322,86.5169,Yes,Yes,Yes
+164-Tarapur [24-Munger],251,Madhya Vidyalay Ganta,Main,1,,25.39,86.5018,Yes,Yes,Yes
+164-Tarapur [24-Munger],252,Prathmik Vidyalay Raytola Banahra ,Main,1,,25.07550204,86.51865162,Yes,Yes,Yes
+164-Tarapur [24-Munger],253,Prathmik Vidyalay Basudevpur (North Part),Main,1,507,25.0623,86.4983,Yes,Yes,Yes
+164-Tarapur [24-Munger],253,Prathmik Vidyalay Basudevpur (South Part),Auxiliary,508,,25.0623,86.4983,Yes,Yes,Yes
+164-Tarapur [24-Munger],254,Panchayat Bhawan Basudevpur (South Part),Main,1,,25.0623,86.4983,Yes,Yes,Yes
+164-Tarapur [24-Munger],255,Prathmik Vidyalay Uparchak (North Part),Main,1,669,25.0307,86.504,Yes,Yes,Yes
+164-Tarapur [24-Munger],255,Prathmik Vidyalay Uparchak (South Part),Auxiliary,670,,25.0307,86.504,Yes,Yes,Yes
+164-Tarapur [24-Munger],256,Madhya Vidyalay Durmatta (East Part),Main,1,716,25.05334749,86.6234015,Yes,Yes,Yes
+164-Tarapur [24-Munger],256,Madhya Vidyalay Durmatta (West Part),Auxiliary,717,,25.05334749,86.6234015,Yes,Yes,Yes
+164-Tarapur [24-Munger],257,Madhya Vidyalay Chanduki (South Part),Main,1,,24.9907,86.6314,Yes,Yes,Yes
+164-Tarapur [24-Munger],258,Madhya Vidyalay Chanduki (North Part),Main,1,,24.9907,86.6314,Yes,Yes,Yes
+164-Tarapur [24-Munger],259,Madhya Vidyalay Sarouna (East Part),Main,1,681,25.04507269,86.61797623,Yes,Yes,Yes
+164-Tarapur [24-Munger],259,Madhya Vidyalay Sarouna (West Part),Auxiliary,682,,25.04507269,86.61797623,Yes,Yes,Yes
+164-Tarapur [24-Munger],260,Madhya Vidyalay Batsar,Main,1,,25.03687098,86.6139589,Yes,Yes,Yes
+164-Tarapur [24-Munger],261,Madhya Vidyalay Maalchak (East Part),Main,1,500,25.03831236,86.61272742,Yes,Yes,Yes
+164-Tarapur [24-Munger],261,Madhya Vidyalay Maalchak (West Part),Auxiliary,501,,25.03831236,86.61272742,Yes,Yes,Yes
+164-Tarapur [24-Munger],262,R.K.& L.J. Uchh Vidyalay Barhouna (west part),Main,1,,25.02940405,86.61690457,Yes,Yes,Yes
+164-Tarapur [24-Munger],263,R.K.& L.J. Uchh Vidyalay Barhouna (East part),Main,1,,25.02940405,86.61690457,Yes,Yes,Yes
+164-Tarapur [24-Munger],264,Madhya Vidyalay Barhounia ,Main,1,,25.02510334,86.61480946,Yes,Yes,Yes
+164-Tarapur [24-Munger],265,Panchayat Bhawan Rampur,Main,1,588,25.0359,86.6393,Yes,Yes,Yes
+164-Tarapur [24-Munger],265,T.P.C. Bhawan Rampur,Auxiliary,589,,25.029436,86.635454,Yes,Yes,Yes
+164-Tarapur [24-Munger],266,Prathmik Vidyalay Rampur,Main,1,,25.029436,86.635454,Yes,Yes,Yes
+164-Tarapur [24-Munger],267,Madhya Vidyalay Manjhgayen,Main,1,,25.0353121,86.6226425,Yes,Yes,Yes
+164-Tarapur [24-Munger],268,Uchh Vidyalay Manjhgain (East Part),Main,1,616,25.037,86.643,Yes,Yes,Yes
+164-Tarapur [24-Munger],268,Uchh Vidyalay Manjhgain (West Part),Auxiliary,617,,25.037,86.643,Yes,Yes,Yes
+164-Tarapur [24-Munger],269,Madhya Vidyalay Mania (East Part),Main,1,707,25.02781363,86.65144777,Yes,Yes,Yes
+164-Tarapur [24-Munger],269,Madhya Vidyalay Mania (West Part),Auxiliary,708,,25.02781363,86.65144777,Yes,Yes,Yes
+164-Tarapur [24-Munger],270,Prathmik Vidylaya Ranadih,Main,1,,25.01440617,86.6535724,Yes,Yes,Yes
+164-Tarapur [24-Munger],271,Madhya Vidyalay Koraji (East Part),Main,1,505,24.9907,86.6414,Yes,Yes,Yes
+164-Tarapur [24-Munger],271,Madhya Vidyalay Koraji (West Part),Auxiliary,506,,24.9907,86.6414,Yes,Yes,Yes
+164-Tarapur [24-Munger],272,Madhya Vidyalay Lourhia ,Main,1,,24.9907,86.6414,Yes,Yes,Yes
+164-Tarapur [24-Munger],273,Madhya Vidyalay Kahua (East Part),Main,1,630,25.00957445,86.64664819,Yes,Yes,Yes
+164-Tarapur [24-Munger],273,Madhya Vidyalay Kahua (West Part),Auxiliary,631,,25.00957445,86.64664819,Yes,Yes,Yes
+164-Tarapur [24-Munger],274,Prathmik Vidyalay Sanhouli (East Part),Main,1,545,25.00833333,86.64527778,Yes,Yes,Yes
+164-Tarapur [24-Munger],274,Prathmik Vidyalay Sanhouli (West Part),Auxiliary,546,,25.00833333,86.64527778,Yes,Yes,Yes
+164-Tarapur [24-Munger],275,Madhya Vidyalay Govindpur,Main,1,,24.99676487,86.64216547,Yes,Yes,Yes
+164-Tarapur [24-Munger],276,Madhya Vidylay Sahora (East Part),Main,1,639,24.9907,86.6413,Yes,Yes,Yes
+164-Tarapur [24-Munger],276,Madhya Vidylay Sahora (West Part),Auxiliary,640,,24.9907,86.6413,Yes,Yes,Yes
+164-Tarapur [24-Munger],277,Uchh Vidyalay Kumarsar (West Part),Main,1,,24.97156643,86.62765329,Yes,Yes,Yes
+164-Tarapur [24-Munger],278,Uchh Vidyalay Kumarsar (East  Part),Main,1,,24.97156643,86.62765329,Yes,Yes,Yes
+164-Tarapur [24-Munger],279,Madhya Vidyalay Janakpur (West Part),Main,1,528,24.98802297,86.63440747,Yes,Yes,Yes
+164-Tarapur [24-Munger],279,Madhya Vidyalay Janakpur (Soutjh Part),Auxiliary,529,,24.98802297,86.63440747,Yes,Yes,Yes
+164-Tarapur [24-Munger],280,Madhya Vidyalay Janakpur (East Part),Main,1,,24.98802297,86.63440747,Yes,Yes,Yes
+164-Tarapur [24-Munger],281,Madhya Vidyalay Balia (East Part),Main,1,620,25.0075,86.61388889,Yes,Yes,Yes
+164-Tarapur [24-Munger],281,Madhya Vidyalay Balia (West Part),Auxiliary,621,,25.0075,86.61388889,Yes,Yes,Yes
+164-Tarapur [24-Munger],282,Madhya Vidyalay Pouria (East Part),Main,1,681,25.0146,86.6119,Yes,Yes,Yes
+164-Tarapur [24-Munger],282,Madhya Vidyalay Pouria (West Part),Auxiliary,682,,25.0146,86.6119,Yes,Yes,Yes
+164-Tarapur [24-Munger],283,Madhya Vidyalay Kendua (East Part),Main,1,681,25.01416607,86.60552544,Yes,Yes,Yes
+164-Tarapur [24-Munger],283,Madhya Vidyalay Kendua (West Part),Auxiliary,682,,25.01416607,86.60552544,Yes,Yes,Yes
+164-Tarapur [24-Munger],284,Prathmik Vidyalay Kamargama (East Part),Main,1,488,25.00051136,86.60249088,Yes,Yes,Yes
+164-Tarapur [24-Munger],284,Prathmik Vidyalay Kamargama (West Part),Auxiliary,489,,25.00051136,86.60249088,Yes,Yes,Yes
+164-Tarapur [24-Munger],285,Madhya Vidyalay Supour (East Part),Main,1,667,25.01527778,86.5975,Yes,Yes,Yes
+164-Tarapur [24-Munger],285,Madhya Vidyalay Supour (West Part),Auxiliary,668,,25.01527778,86.5975,Yes,Yes,Yes
+164-Tarapur [24-Munger],286,Madhya Vidylaya Gonai,Main,1,,25.02080474,86.59868587,Yes,Yes,Yes
+164-Tarapur [24-Munger],287,Uchh Vidyalay Kuangarhi (East Part),Main,1,601,25.02499,86.5998,Yes,Yes,Yes
+164-Tarapur [24-Munger],287,Uchh Vidyalay Kuangarhi (West Part),Auxiliary,602,,25.02499,86.5998,Yes,Yes,Yes
+164-Tarapur [24-Munger],288,Madhya Vidyalay Jamua,Main,1,,25.01416667,86.59138889,Yes,Yes,Yes
+164-Tarapur [24-Munger],289,Madhya Vidyalay Kundi (East Part),Main,1,585,24.99055366,86.55673493,Yes,Yes,Yes
+164-Tarapur [24-Munger],289,Madhya Vidyalay Kundi (West Part),Auxiliary,586,,24.99055366,86.55673493,Yes,Yes,Yes
+164-Tarapur [24-Munger],290,Madhya Vidyalay Kanchanpur Katiyari (West Part),Main,1,,24.9825,86.56638889,Yes,Yes,Yes
+164-Tarapur [24-Munger],291,Madhya Vidyalay Kanchanpur Katiyari (East Part),Main,1,,24.9825,86.56638889,Yes,Yes,Yes
+164-Tarapur [24-Munger],292,Madhya Vidyalay Birajpur (South Part),Main,1,,24.99220941,86.57239342,Yes,Yes,Yes
+164-Tarapur [24-Munger],293,Madhya Vidyalay Birajpur (North Part),Main,1,,24.99220941,86.57239342,Yes,Yes,Yes
+164-Tarapur [24-Munger],294,Madhya Vidyalay Khapda (East Part),Main,1,636,25.00480436,86.57603602,Yes,Yes,Yes
+164-Tarapur [24-Munger],294,Madhya Vidyalay Khapda (West Part),Auxiliary,637,,25.00480436,86.57603602,Yes,Yes,Yes
+164-Tarapur [24-Munger],295,Panchayat Bhawan Patghaghar,Main,1,732,24.9931,86.5998,Yes,No,Yes
+164-Tarapur [24-Munger],295,Suchna Bhawan Patghaghar,Auxiliary,733,,24.9931,86.5998,Yes,Yes,Yes
+164-Tarapur [24-Munger],296,Prathmik Vidyalay Jhitti (East Part),Main,1,593,24.9795319,86.58213434,Yes,Yes,Yes
+164-Tarapur [24-Munger],296,Prathmik Vidyalay Jhitti (West Part),Auxiliary,594,,24.9795319,86.58213434,Yes,Yes,Yes
+164-Tarapur [24-Munger],297,Madhya Vidyalay Jala (North Part),Main,1,606,24.98714065,86.58962358,Yes,Yes,Yes
+164-Tarapur [24-Munger],297,Madhya Vidyalay Jala (East Part),Auxiliary,607,,24.98714065,86.58962358,Yes,Yes,Yes
+164-Tarapur [24-Munger],298,Madhya Vidyalay Jala (South Part),Main,1,506,24.98714065,86.58962358,Yes,Yes,Yes
+164-Tarapur [24-Munger],298,Madhya Vidyalay Jala (West Part),Auxiliary,507,,24.98714065,86.58962358,Yes,Yes,Yes
+164-Tarapur [24-Munger],299,Madhya Vidyalay Sarkatiya (West Part),Main,1,,24.9938,86.5998,Yes,Yes,Yes
+164-Tarapur [24-Munger],300,Madhya Vidyalay Sarkatiya (East Part),Main,1,,24.9938,86.5998,Yes,Yes,Yes
+164-Tarapur [24-Munger],301,Prathmik Vidyalay Bhalua (West Part),Main,1,,24.97012079,86.56173494,Yes,Yes,Yes
+164-Tarapur [24-Munger],302,Prathmik Vidyalay Bhalua (East Part),Main,1,,24.97012079,86.56173494,Yes,Yes,Yes
+164-Tarapur [24-Munger],303,Madhya Vidyalay Bhikhadih (East Part),Main,1,710,24.9611111,86.55166667,Yes,Yes,Yes
+164-Tarapur [24-Munger],303,Madhya Vidyalay Bhikhadih (West Part),Auxiliary,711,,24.9611111,86.55166667,Yes,Yes,Yes
+164-Tarapur [24-Munger],304,Madhya Vidyalay Kathour (East Part),Main,1,608,24.996,86.602,Yes,Yes,Yes
+164-Tarapur [24-Munger],304,Madhya Vidyalay Kathour (West Part),Auxiliary,609,,24.996,86.602,Yes,Yes,Yes
+164-Tarapur [24-Munger],305,Madhya Vidyalay Durgapur (East Part),Main,1,547,24.99773547,86.60379225,Yes,Yes,Yes
+164-Tarapur [24-Munger],305,Madhya Vidyalay Durgapur (West Part),Auxiliary,548,,24.99773547,86.60379225,Yes,Yes,Yes
+164-Tarapur [24-Munger],306,Madhya Vidyalay Navgain (East Part),Main,1,680,24.99234781,86.61750864,Yes,Yes,Yes
+164-Tarapur [24-Munger],306,Madhya Vidyalay Navgain (West Part),Auxiliary,681,,24.99234781,86.61750864,Yes,Yes,Yes
+164-Tarapur [24-Munger],307,Rashtriya Pustakalay Navgain ,Main,1,512,24.992,86.618,Yes,No,No
+164-Tarapur [24-Munger],307,Madhya Vidyalay Navgain (South Part),Auxiliary,513,,24.99234781,86.61750864,Yes,Yes,Yes
+164-Tarapur [24-Munger],308,Madhya Vidyalay Dhankunda (East Part),Main,1,650,24.97678388,86.61210675,Yes,Yes,Yes
+164-Tarapur [24-Munger],308,Madhya Vidyalay Dhankunda (West Part),Auxiliary,651,,24.97678388,86.61210675,Yes,Yes,Yes
+164-Tarapur [24-Munger],309,Prathmik Vidyalay Chandpura (East Part),Main,1,556,25.00166667,86.6225,Yes,Yes,Yes
+164-Tarapur [24-Munger],309,Prathmik Vidyalay Chandpura (West Part),Auxiliary,557,,25.00166667,86.6225,Yes,Yes,Yes
+164-Tarapur [24-Munger],310,Madhya Vidyalay Moujma ,Main,1,,24.990053,86.6227,Yes,Yes,Yes
+164-Tarapur [24-Munger],311,Madhya Vidyalay Ratanpura (East Part),Main,1,562,24.97740972,86.59556817,Yes,Yes,Yes
+164-Tarapur [24-Munger],311,Madhya Vidyalay Ratanpura (West Part),Auxiliary,563,,24.97740972,86.59556817,Yes,Yes,Yes
+164-Tarapur [24-Munger],312,Madhya Vidyalay Sripur (North Part),Main,1,,24.9675378,86.58450858,Yes,Yes,Yes
+164-Tarapur [24-Munger],313,Madhya Vidyalay Sripur (South Part),Main,1,,24.9675378,86.58450858,Yes,Yes,Yes
+164-Tarapur [24-Munger],314,Madhya Vidylay Jhikuli (North Part),Main,1,,24.96213295,86.5884577,Yes,Yes,Yes
+164-Tarapur [24-Munger],315,Madhya Vidylay Jhikuli (South Part),Main,1,,24.96213295,86.5884577,Yes,Yes,Yes
+164-Tarapur [24-Munger],316,Madhya Vidyalay Chandania (North Part),Main,1,,24.95990525,86.59881607,Yes,Yes,Yes
+164-Tarapur [24-Munger],317,Madhya Vidyalay Chandania (South Part),Main,1,,24.95990525,86.59881607,Yes,Yes,Yes
+164-Tarapur [24-Munger],318,Rashtriya Pustakalay Chandaniya ,Main,1,689,24.9588,86.5993,Yes,Yes,Yes
+164-Tarapur [24-Munger],318,Aanganbari Kendra Chandania-1 (Kendra sankhya 13),Auxiliary,690,,24.9588,86.5993,Yes,Yes,Yes
+164-Tarapur [24-Munger],319,Rani Prabhawati Uchh Vidyalay Sangrampur (North Part),Main,1,,24.95441144,86.58124043,Yes,Yes,Yes
+164-Tarapur [24-Munger],320,Rani Prabhawati Uchh Vidyalay Sangrampur (South Part),Main,1,,24.95441144,86.58124043,Yes,Yes,Yes
+164-Tarapur [24-Munger],321,Prakhand Karyalay Sangrampur (East Part),Main,1,675,24.9526,86.5869,Yes,Yes,Yes
+164-Tarapur [24-Munger],321,Prathmik Vidyalay Sangrampur Colony,Auxiliary,676,,24.9526,86.5869,Yes,Yes,Yes
+164-Tarapur [24-Munger],322,Prakhand Karyalay Sangrampur (East Part),Main,1,,24.9526,86.5869,Yes,Yes,Yes
+164-Tarapur [24-Munger],323,Prakhand Karyalay Sangrampur (West Part),Main,1,,24.9526,86.5869,Yes,Yes,Yes
+164-Tarapur [24-Munger],324,Kanya Madhya Vidyalay Sangrampur,Main,1,,24.95254925,86.58328325,Yes,Yes,Yes
+165-Munger [24-Munger],1,Madhay Vidyalaya Parora Tola Kutlupur,Main,1,741,25.3683,86.4655,Yes,Yes,Yes
+165-Munger [24-Munger],2,Madhya Vidyalaya Hari Babu Tola Kutlupur (North Part),Main,1,731,23.3475,86.3517,Yes,Yes,Yes
+165-Munger [24-Munger],3,Madhya Vidyalaya Hari Babu Tola Kutlupur (South Part),Main,1,783,23.3475,86.3517,Yes,Yes,Yes
+165-Munger [24-Munger],4,Madhya Vidyalaya Shivram Choudhary Tola Kutlupur (South Part 1),Main,1,540,25.35,86.3624,Yes,Yes,Yes
+165-Munger [24-Munger],4,Madhya Vidyalaya Shivram Choudhary Tola Kutlupur (South Part 2),Auxiliary,541,,25.35,86.3624,Yes,Yes,Yes
+165-Munger [24-Munger],5,Madhya Vidhalaya Shivram Choudhary Tola Kutlupur (Middle Part - 1),Main,1,645,25.35,86.3624,Yes,Yes,Yes
+165-Munger [24-Munger],5,Madhya Vidhalaya Shivram Choudhary Tola Kutlupur (Middle Part - 2),Auxiliary,646,,25.35,86.3624,Yes,Yes,Yes
+165-Munger [24-Munger],6,Madhya Vidyalaya Ram Singh Tola Kutlupur (North Part),Main,1,858,25.363,86.3847,Yes,Yes,Yes
+165-Munger [24-Munger],7,Madhya Vidyalaya Ram Singh Tola Kutlupur (South Part),Main,1,729,25.363,86.3847,Yes,Yes,Yes
+165-Munger [24-Munger],8,Madhya Vidyalaya Ram Singh Tola Kutlupur (East Part),Main,1,742,25.363,86.3847,Yes,Yes,Yes
+165-Munger [24-Munger],9,Gandhi Uchaya Vidyalaya Kachhari Tola Kutlupur (West Part),Main,1,535,25.3553,86.3721,Yes,Yes,Yes
+165-Munger [24-Munger],9,Gandhi Uchaya Vidyalaya Kachhari Tola Kutlupur (East Part),Auxiliary,536,,25.3553,86.3721,Yes,Yes,Yes
+165-Munger [24-Munger],10,Madhya Vidyalaya Bodhan Mahto Tola Jafar Nagar (North Part - 1),Main,1,553,25.3852,86.4058,Yes,Yes,Yes
+165-Munger [24-Munger],10,Madhya Vidyalaya Bodhan Mahto Tola Jafar Nagar (North Part - 2),Auxiliary,554,,25.3852,86.4058,Yes,Yes,Yes
+165-Munger [24-Munger],11,Madhya Vidyalaya Bodhan Mahto Tola Jafar Nagar (South Part),Main,1,929,25.3852,86.4058,Yes,Yes,Yes
+165-Munger [24-Munger],12,Angan Bari Kendra Sitacharan Jafar Nagar(Kendra Sankhiya-71),Main,1,565,25.3855,86.4104,Yes,Yes,Yes
+165-Munger [24-Munger],13,Utkramit Madhaya Vidyalaya Chamru Mahto Tola Jafar Nagar,Main,1,795,25.3863,86.413,Yes,Yes,Yes
+165-Munger [24-Munger],14,Zila Parishad Karyalaya Munger (North Part),Main,1,805,25.3776,86.4651,Yes,Yes,Yes
+165-Munger [24-Munger],15,Zila Parishad Karyalaya Munger (North East Part),Main,1,795,25.3776,86.4651,Yes,Yes,Yes
+165-Munger [24-Munger],16,Zila Parishad Karyalaya Munger (South Part),Main,1,721,25.3776,86.4651,Yes,Yes,Yes
+165-Munger [24-Munger],016A,"Zila Karykram Padhadhikari Sthapana Karyalaya, Munger",Auxiliary,702,,25.3776,86.465,Yes,Yes,Yes
+165-Munger [24-Munger],17,Kaniya Madhaya Vidyalaya Choti Kelawari (West Part),Main,1,678,25.3824,86.4719,Yes,Yes,Yes
+165-Munger [24-Munger],017A,Kaniya Madhaya Vidyalaya Choti Kelawari (East Part),Auxiliary,679,,25.3824,86.4719,Yes,Yes,Yes
+165-Munger [24-Munger],18,Madhaya Vidyalaya Gulzar Pokhar (South Part -1),Main,1,616,25.377,86.4736,Yes,Yes,Yes
+165-Munger [24-Munger],018A,Madhaya Vidyalaya Gulzar Pokhar (South Part - 2),Auxiliary,617,,25.377,86.4736,Yes,Yes,Yes
+165-Munger [24-Munger],19,Prathamik Vidyalaya Katghar (North Part),Main,1,687,25.3683,86.4726,Yes,Yes,Yes
+165-Munger [24-Munger],20,Prathamik Vidyalaya Katghar (South Part - 1),Main,1,657,25.3683,86.4726,Yes,Yes,Yes
+165-Munger [24-Munger],20,Prathamik Vidyalaya Katghar (South Part - 2),Auxiliary,658,,25.3683,86.4726,Yes,Yes,Yes
+165-Munger [24-Munger],21,Madhaya Vidyalaya Lal Darwaza (South Part),Main,1,624,25.3875,86.4721,Yes,Yes,Yes
+165-Munger [24-Munger],21,Sahayak Vidhut Apurti Awar Pramandal Lal Darwaza Munger (South part),Auxiliary,625,,25.2316,86.2811,Yes,Yes,Yes
+165-Munger [24-Munger],22,Madhaya Vidyalaya Lal Darwaza (North Part),Main,1,734,25.3875,86.4721,Yes,Yes,Yes
+165-Munger [24-Munger],23,Madhaya Vidyalaya Lal Darwaza (Middle Part),Main,1,702,25.3875,86.4721,Yes,Yes,Yes
+165-Munger [24-Munger],24,Balika Madhaya Vidyalaya Lal Darwaza (East Part),Main,1,583,25.3875,86.4725,Yes,Yes,Yes
+165-Munger [24-Munger],024A,Sahayak Vidhut Apurti Awar Pramandal Bill Counter Lal Darwaza Munger (East Part),Auxiliary,584,,25.2316,86.2811,Yes,Yes,Yes
+165-Munger [24-Munger],25,Balika Madhaya Vidyalaya Lal Darwaza (West Part),Main,1,696,25.3875,86.4725,Yes,Yes,Yes
+165-Munger [24-Munger],025A,Sahayak Vidhut Apurti Awar Pramandal Section Office Lal Darwaza Munger (West Part),Auxiliary,697,,25.2316,86.2811,Yes,Yes,Yes
+165-Munger [24-Munger],26,Madhaya Vidyalaya Basudevpur (North Part - 1),Main,1,665,25.3873,86.4735,Yes,Yes,Yes
+165-Munger [24-Munger],26,Madhaya Vidyalaya Basudevpur (North Part - 2),Auxiliary,666,,25.3873,86.4736,Yes,Yes,Yes
+165-Munger [24-Munger],27,Madhaya Vidyalaya Basudevpur (South Part - 1),Main,1,637,25.3873,86.4736,Yes,Yes,Yes
+165-Munger [24-Munger],27,Madhaya Vidyalaya Basudevpur (South Part - 2),Auxiliary,638,,25.3873,86.4736,Yes,Yes,Yes
+165-Munger [24-Munger],28,Nand Kumar Uchaya Vidyalaya Mukhya Bhavan Basudevpur (West part),Main,1,684,25.38625,86.47947,Yes,Yes,Yes
+165-Munger [24-Munger],28,Kaniya Madhaya Vidyalaya Basudevpur (East Part),Auxiliary,685,,25.38625,86.47947,Yes,Yes,Yes
+165-Munger [24-Munger],29,Nand Kumar Uchaya Vidyalaya Prayogshala Bhavan Basudevpur (North Part),Main,1,574,25.38625,86.47947,Yes,Yes,Yes
+165-Munger [24-Munger],29,Prathamik Vidyalaya Basudevpur (North Part),Auxiliary,575,,25.3873,86.4735,Yes,Yes,Yes
+165-Munger [24-Munger],30,Nand Kumar Uchaya Vidyalaya Prayogshala Bhavan Basudevpur (South Part),Main,1,505,25.3873,86.4735,Yes,Yes,Yes
+165-Munger [24-Munger],30,Prathamik Vidyalaya Basudevpur (South Part),Auxiliary,506,,25.3873,86.4735,Yes,Yes,Yes
+165-Munger [24-Munger],31,Prathamik Vidyalaya Choukhandi (East Part),Main,1,978,25.3912,86.4873,Yes,Yes,Yes
+165-Munger [24-Munger],32,Prathamik Vidyalaya Choukhandi (Middle Part),Main,1,988,25.3912,86.4873,Yes,Yes,Yes
+165-Munger [24-Munger],33,Prathamik Vidyalaya Choukhandi (West Part),Main,1,857,25.3912,86.4873,Yes,Yes,Yes
+165-Munger [24-Munger],34,Prathamik Vidyalaya Sherpur (East Part),Main,1,682,25.3895,86.4883,Yes,Yes,Yes
+165-Munger [24-Munger],34,Prathamik Vidyalaya Sherpur (West Part),Auxiliary,683,,25.3895,86.4883,Yes,Yes,Yes
+165-Munger [24-Munger],35,Prathamik Vidyalaya Shyampur (East Part),Main,1,665,25.3873,86.4865,Yes,Yes,Yes
+165-Munger [24-Munger],35,Prathamik Vidyalaya Shyampur (West Part),Auxiliary,666,,25.3873,86.4865,Yes,Yes,Yes
+165-Munger [24-Munger],36,Urdu Prathamik Vidyalaya Nayagoun,Main,1,738,25.3799,86.4875,Yes,Yes,Yes
+165-Munger [24-Munger],36,I.T.C. Institute Basudevpur (East Part),Auxiliary,739,,25.225,86.1916,Yes,Yes,Yes
+165-Munger [24-Munger],37,B.M.C.Maktab Nayagoun (South Part),Main,1,643,25.38,86.4676,Yes,Yes,Yes
+165-Munger [24-Munger],37,I.T.C. Institute Basudevpur (West Part),Auxiliary,644,,25.2251,86.1916,Yes,Yes,Yes
+165-Munger [24-Munger],38,B.M.C.Maktab Nayagoun (Middle South Part),Main,1,883,25.38,86.4676,Yes,Yes,Yes
+165-Munger [24-Munger],39,B.M.C.Maktab Nayagoun (North Part),Main,1,866,25.38,86.4676,Yes,Yes,Yes
+165-Munger [24-Munger],40,B.M.C.Maktab Nayagoun (North Middle Part),Main,1,876,25.38,86.4676,Yes,Yes,Yes
+165-Munger [24-Munger],41,Nand Kumar Uchaya Vidyalaya Mukhya Bhavan Basudevpur (Middle part),Main,1,527,25.2316,86.2811,Yes,Yes,Yes
+165-Munger [24-Munger],41,Kaniya Madhaya Vidyalaya Basudevpur (North Part),Auxiliary,528,,25.2316,86.2811,Yes,Yes,Yes
+165-Munger [24-Munger],42,Nand Kumar Uchaya Vidyalaya Mukhya Bhavan Basudevpur (East part),Main,1,571,25.2316,86.2811,Yes,Yes,Yes
+165-Munger [24-Munger],42,Kaniya Madhaya Vidyalaya Basudevpur (South Part),Auxiliary,572,,25.2316,86.2811,Yes,Yes,Yes
+165-Munger [24-Munger],43,"Chandra Shekhar Singh Uchaya Vidyalaya, Basudevpur (East Part)",Main,1,696,25.2317,86.2811,Yes,Yes,Yes
+165-Munger [24-Munger],43,"Chandra Shekhar Singh Uchaya Vidyalaya, Basudevpur (West Part)",Auxiliary,697,,25.2317,86.2811,Yes,Yes,Yes
+165-Munger [24-Munger],44,I.T.C. Majdur Union Bhawan Basudevpur (West Part),Main,1,854,25.3871,86.4786,Yes,Yes,Yes
+165-Munger [24-Munger],45,I.T.C. Majdur Union Bhawan Basudevpur (East Part),Main,1,822,25.3871,86.4786,Yes,Yes,Yes
+165-Munger [24-Munger],46,Shikshak Sangh karyalay Neelam Road (North Part -1),Main,1,673,25.3785,86.4757,Yes,Yes,Yes
+165-Munger [24-Munger],46,Sunrise Audyogik Prashikshan Kendra (North Part),Auxiliary,674,,25.2241,86.2843,Yes,Yes,Yes
+165-Munger [24-Munger],47,Madhaya Vidyalaya Gulzar Pokhar (North Part),Main,1,777,25.3786,86.4722,Yes,Yes,Yes
+165-Munger [24-Munger],48,Shikshak Sangh Karayalay Neelam Road (South Part),Main,1,692,25.3785,86.4757,Yes,Yes,Yes
+165-Munger [24-Munger],48,Sunrise Audyogik Prashikshan Kendra (South Part),Auxiliary,693,,25.2241,86.2843,Yes,Yes,Yes
+165-Munger [24-Munger],49,Sikshak Sangh Karyalaya Neelam Road (Middle Part),Main,1,866,25.3785,86.4757,Yes,Yes,Yes
+165-Munger [24-Munger],50,Shikshak Sangh Karyalay Neelam Road (Middle Part-2),Main,1,887,25.3785,86.4757,Yes,Yes,Yes
+165-Munger [24-Munger],51,Urdu Madhya Vidyalaya Topkhana Bazar (West Part),Main,1,648,25.3784,86.4715,Yes,Yes,Yes
+165-Munger [24-Munger],51,Urdu Prathmik Vidyalaya Topkhana Bazar (West Part - 2),Auxiliary,649,,25.3784,86.4715,Yes,Yes,Yes
+165-Munger [24-Munger],52,Urdu Prathmik Vidyalaya Topkhana Bazar (East Part),Main,1,947,25.3784,86.4715,Yes,Yes,Yes
+165-Munger [24-Munger],53,Urdu Prathmik Vidyalaya Gulzar Pokhar (East Part),Main,1,580,25.3786,86.4722,Yes,Yes,Yes
+165-Munger [24-Munger],53,Nand Kumar Park Gulzar Pokhar,Auxiliary,581,,25.2242,86.2822,Yes,Yes,Yes
+165-Munger [24-Munger],54,Urdu Prathmik Vidyalaya Gulzar Pokhar (West Part -1),Main,1,695,25.3786,86.4722,Yes,Yes,Yes
+165-Munger [24-Munger],54,Urdu Prathmik Vidyalaya Gulzar Pokhar (West Part - 2),Auxiliary,696,,25.3786,86.4722,Yes,Yes,Yes
+165-Munger [24-Munger],55,Urdu Prathmik Vidyalaya Gulzar Pokhar (Middle Part - 1),Main,1,615,25.3786,86.4722,Yes,Yes,Yes
+165-Munger [24-Munger],55,Urdu Prathmik Vidyalaya Gulzar Pokhar (Middle Part - 2),Auxiliary,616,,25.3786,86.4722,Yes,Yes,Yes
+165-Munger [24-Munger],56,Town Hall Munger (East Part - 1),Main,1,510,25.377,86.4716,Yes,Yes,Yes
+165-Munger [24-Munger],56,Town Hall Munger (East Part - 2),Auxiliary,511,,25.377,86.4716,Yes,Yes,Yes
+165-Munger [24-Munger],57,Town Hall Munger (West Part),Main,1,754,25.377,86.4716,Yes,Yes,Yes
+165-Munger [24-Munger],58,Aadarsh Madhya Vidyalaya Bekapur (East Part),Main,1,747,25.372,86.4775,Yes,Yes,Yes
+165-Munger [24-Munger],59,Aadarsh Madhya Vidyalaya Bekapur (West Part - 1),Main,1,511,25.372,86.4775,Yes,Yes,Yes
+165-Munger [24-Munger],59,Aadarsh Madhya Vidyalaya Bekapur (West Part - 2),Auxiliary,512,,25.372,86.4775,Yes,Yes,Yes
+165-Munger [24-Munger],60,Madhya Vidyalaya Chowk Bazar (South Part),Main,1,973,25.3722,86.4763,Yes,Yes,Yes
+165-Munger [24-Munger],61,Madhya Vidyalaya Chauk Bazar (North Part),Main,1,709,25.3722,86.4763,Yes,Yes,Yes
+165-Munger [24-Munger],62,Urdu Prathmik Vidyalay Murgiyachak,Main,1,686,25.3779,86.4773,Yes,Yes,Yes
+165-Munger [24-Munger],62,Guard Room Van Pramandal Dipo Refujee Colony (West Part),Auxiliary,687,,25.3789,864789,Yes,Yes,Yes
+165-Munger [24-Munger],63,Guard Room Van Pramandal Dipo Refujee Colony (South Part),Main,1,511,25.3789,864789,Yes,Yes,Yes
+165-Munger [24-Munger],63,Guard Room Van Pramandal Dipo Refujee Colony (North Part),Auxiliary,512,,25.3789,864789,Yes,Yes,Yes
+165-Munger [24-Munger],64,Prathmik Vidyalaya Rifuji Colony (East Part),Main,1,849,25.3766,86.48,Yes,Yes,Yes
+165-Munger [24-Munger],65,Prathmik Vidyalaya Rifugi Colony (West Part),Main,1,732,25.3766,86.48,Yes,Yes,Yes
+165-Munger [24-Munger],66,Madhya Vidyalaya Madhopur (East Part - 1),Main,1,564,25.3789,86.4841,Yes,Yes,Yes
+165-Munger [24-Munger],66,Madhya Vidyalaya Madhopur (East Part - 2),Auxiliary,565,,25.3789,86.4841,Yes,Yes,Yes
+165-Munger [24-Munger],67,Madhya Vidyalaya Madhopur (West Part - 1),Main,1,621,25.3789,86.4841,Yes,Yes,Yes
+165-Munger [24-Munger],67,Madhya Vidyalaya Madhopur (West Part - 2),Auxiliary,622,,25.3789,86.4841,Yes,Yes,Yes
+165-Munger [24-Munger],68,Balika Uchcha Vidyalaya Madhopur (North Part),Main,1,882,25.3789,86.4841,Yes,Yes,Yes
+165-Munger [24-Munger],69,Balika Uchcha Vidyalaya Madhopur (Middle Part),Main,1,885,25.3789,86.4841,Yes,Yes,Yes
+165-Munger [24-Munger],70,Balika Uchcha Vidyalaya Madhopur (South Part),Main,1,775,25.3789,86.4841,Yes,Yes,Yes
+165-Munger [24-Munger],71,Balika Uchya Vidyalay Madhopur (South West Part),Main,1,752,25.3789,86.4841,Yes,Yes,Yes
+165-Munger [24-Munger],72,Prathmik Vidyalaya Raisar (North Part),Main,1,924,25.379,86.4843,Yes,Yes,Yes
+165-Munger [24-Munger],73,Prathmik Vidyalaya Raisar (South Part),Main,1,887,25.379,86.4843,Yes,Yes,Yes
+165-Munger [24-Munger],74,M.W. Uchcha Vidyalaya Churamba (East Part - 1),Main,1,549,25.3754,86.4873,Yes,Yes,Yes
+165-Munger [24-Munger],74,M.W. Uchcha Vidyalaya Churamba (East Part - 2),Auxiliary,550,,25.3754,86.4873,Yes,Yes,Yes
+165-Munger [24-Munger],75,M.W. Uchcha Vidyalaya Churamba (Middle Part - 1),Main,1,572,25.3754,86.4873,Yes,Yes,Yes
+165-Munger [24-Munger],75,M.W. Uchcha Vidyalaya Churamba (Middle Part - 2),Auxiliary,573,,25.3754,86.4873,Yes,Yes,Yes
+165-Munger [24-Munger],76,M.W. Uchcha Vidyalaya Churamba (West Part),Main,1,787,25.3754,86.4873,Yes,Yes,Yes
+165-Munger [24-Munger],77,M.W.Uchya Vidyalay Churamba (North Part),Main,1,811,25.3754,86.4873,Yes,Yes,Yes
+165-Munger [24-Munger],78,Urdu Madhya Vidhalay Churmba,Main,1,862,25.3754,86.489,Yes,Yes,Yes
+165-Munger [24-Munger],79,B.M.C. Kanya Maktab Haji Subhan (East Part),Main,1,703,25.3708,86.4906,Yes,Yes,Yes
+165-Munger [24-Munger],79,"Abhyash Madhya Vidyalaya, Purab sarai (East Part)",Auxiliary,704,,25.3728,86.4886,Yes,Yes,Yes
+165-Munger [24-Munger],80,B.M.C. Kanya Maktab Haji Subhan (Middle Part),Main,1,594,25.3708,86.4906,Yes,Yes,Yes
+165-Munger [24-Munger],80,"Abhyash Madhya Vidyalaya, Purab sarai (Middle Part)",Auxiliary,595,,25.3728,86.4886,Yes,Yes,Yes
+165-Munger [24-Munger],81,B.M.C. Kanya Maktab Haji Subhan (West Part),Main,1,637,25.3708,86.4906,Yes,Yes,Yes
+165-Munger [24-Munger],81,"Abhyash Madhya Vidyalaya, Purab sarai (West Part)",Auxiliary,638,,25.3728,86.4886,Yes,Yes,Yes
+165-Munger [24-Munger],82,Prathmik Sikshak Prashikshan Mahavidyalaya Purabsarai (East Part),Main,1,999,25.3728,86.4885,Yes,Yes,Yes
+165-Munger [24-Munger],83,Prathmik Sikshak Prashikshan Mahavidyalaya Purabsarai (West Part - 1),Main,1,570,25.3728,86.4885,Yes,Yes,Yes
+165-Munger [24-Munger],83,Prathmik Sikshak Prashikshan Mahavidyalaya Purabsarai (West Part - 2),Auxiliary,571,,25.3728,86.4885,Yes,Yes,Yes
+165-Munger [24-Munger],84,Durga Sansatha Uchcha Vidyalaya Dilawarpur (South Part),Main,1,598,25.3698,86.4795,Yes,Yes,Yes
+165-Munger [24-Munger],84,Durga Sansatha Uchcha Vidyalaya Dilawarpur (North Part),Auxiliary,599,,25.3698,86.4795,Yes,Yes,Yes
+165-Munger [24-Munger],85,Udru Madhya Vidyalaya Sanay Kita (Middle Part),Main,1,1020,25.3728,86.483,Yes,Yes,Yes
+165-Munger [24-Munger],86,Udru Madhya Vidyalaya SanayKita (North Part),Main,1,558,25.3728,86.483,Yes,Yes,Yes
+165-Munger [24-Munger],86,Durga Sansathan Kishor Madhya Vidyalaya Shahjubair Road (West Part),Auxiliary,559,,25.3698,86.4795,Yes,Yes,Yes
+165-Munger [24-Munger],87,Udru Madhya Vidyalaya Sanay Kita (North-Middle Part),Main,1,587,25.3728,86.483,Yes,Yes,Yes
+165-Munger [24-Munger],87,Durga Sansathan Kishor Madhya Vidyalaya Shahjubair Road (East Part),Auxiliary,588,,25.3698,86.4795,Yes,Yes,Yes
+165-Munger [24-Munger],88,Udru Madhya Vidyalaya Sanay Kita (South Part),Main,1,627,25.3728,86.483,Yes,Yes,Yes
+165-Munger [24-Munger],88,Durga Sansatha Uchcha Vidyalaya Dilawarpur (south Part - 1),Auxiliary,628,,25.3698,86.4795,Yes,Yes,Yes
+165-Munger [24-Munger],89,kanya Prathmik Vidyalaya Hazisubhan (west Part),Main,1,836,25.3624,86.4884,Yes,Yes,Yes
+165-Munger [24-Munger],90,kanya Prathmik Vidyalaya Hazisubhan (East Part),Main,1,813,25.3624,86.4884,Yes,Yes,Yes
+165-Munger [24-Munger],91,Madhya Vidyalaya Dilawarpur,Main,1,995,25.2228,86.2848,Yes,Yes,Yes
+165-Munger [24-Munger],92,Millat Kanya Uchcha Vidyalaya Dilawarpur (North Part),Main,1,613,25.3736,86.4792,Yes,Yes,Yes
+165-Munger [24-Munger],92,Madhya Vidyalaya Dilawarpur (North Part),Auxiliary,614,,25.2228,86.2848,Yes,Yes,Yes
+165-Munger [24-Munger],93,Millat Kanya Uchcha Vidyalaya Dilawarpur (Middle Part),Main,1,785,25.3736,86.4792,Yes,Yes,Yes
+165-Munger [24-Munger],94,Millat Kanya Uchcha Vidyalaya Dilawarpur (South Part),Main,1,699,25.3736,86.4792,Yes,Yes,Yes
+165-Munger [24-Munger],94,Durga Sansatha Uchcha Vidyalaya Dilawarpur (South Part - 2),Auxiliary,700,,25.3698,86.4795,Yes,Yes,Yes
+165-Munger [24-Munger],95,Nav Nirmit Samudayik Bhawan Sarkari Sah Colony (North Part),Main,1,876,25.3718,86.4788,Yes,Yes,Yes
+165-Munger [24-Munger],96,Nav Nirmit Samudayik Bhawan Sarkari Sah Colony (South Part),Main,1,888,25.3718,86.4788,Yes,Yes,Yes
+165-Munger [24-Munger],97,Islamiya Middle School Dilawarpur Munger (North Part),Main,1,946,25.374,86.4757,Yes,Yes,Yes
+165-Munger [24-Munger],98,Islamiya Middle School Dilawarpur Munger (North- Middle Part),Main,1,782,25.374,86.4757,Yes,Yes,Yes
+165-Munger [24-Munger],99,Islamiya Middle School Dilawarpur Munger (Middle Part - 1),Main,1,648,25.374,86.4757,Yes,Yes,Yes
+165-Munger [24-Munger],99,Islamiya Middle School Dilawarpur Munger Tent (Middle Part - 2),Auxiliary,649,,25.374,86.4757,Yes,Yes,Yes
+165-Munger [24-Munger],100,Islamiya Middle School Dilawarpur Munger (South Part),Main,1,831,25.374,86.4757,Yes,Yes,Yes
+165-Munger [24-Munger],101,Islamiya Middle School Dilawarpur Munger (South Middle Part),Main,1,852,25.374,86.4757,Yes,Yes,Yes
+165-Munger [24-Munger],102,Ramdeo Singh Yadav Sceince College Bari Bazar (East Part),Main,1,528,25.2215,86.2821,Yes,Yes,Yes
+165-Munger [24-Munger],102,"Madhyamik Sikshak Sangh Bhawan Bari Bazar, Munger",Auxiliary,529,,25.2215,86.2821,Yes,Yes,Yes
+165-Munger [24-Munger],103,Ramdeo Singh Yadav Sceince College Bari Bazar (West Part),Main,1,487,25.2215,86.2821,Yes,Yes,Yes
+165-Munger [24-Munger],104,Nagar Nigam Karyalay (North Part - 1),Main,1,694,25.2217,86.2822,Yes,Yes,Yes
+165-Munger [24-Munger],104,Nagar Nigam Karyalay (North Part - 2),Auxiliary,695,,25.2217,86.2822,Yes,Yes,Yes
+165-Munger [24-Munger],105,Nagar Nigam Karyalay (South Part - 1),Main,1,692,25.2217,86.2822,Yes,Yes,Yes
+165-Munger [24-Munger],105,Nagar Nigam Karyalay (South Part - 2),Auxiliary,693,,25.2217,86.2822,Yes,Yes,Yes
+165-Munger [24-Munger],106,Madhya Vidyalaya Belan Bazar (East Part),Main,1,640,25.2212,86.28,Yes,Yes,Yes
+165-Munger [24-Munger],106,Madhya Vidyalaya Belan Bazar (West Part),Auxiliary,641,,25.2212,86.28,Yes,Yes,Yes
+165-Munger [24-Munger],107,Urdu Prathmik Vidyalaya Belan Bazar,Main,1,537,25.2214,86.2811,Yes,Yes,Yes
+165-Munger [24-Munger],107,Kanya Madhya Vidyalaya Lallu Pokhar Belan Bazar (East Part),Auxiliary,538,,25.2212,86.28,Yes,Yes,Yes
+165-Munger [24-Munger],108,Kanya Madhya Vidyalaya Maksuspur (West Part),Main,1,594,25.2157,86.283,Yes,Yes,Yes
+165-Munger [24-Munger],108,Kanya Madhya Vidyalaya Maksuspur (East Part),Auxiliary,595,,25.2157,86.283,Yes,Yes,Yes
+165-Munger [24-Munger],109,Urdu Prathmik Vidyalaya Maksuspur Khankah (East Part - 1),Main,1,644,25.3656,86.4748,Yes,Yes,Yes
+165-Munger [24-Munger],109,Urdu Prathmik Vidyalaya Maksuspur Khankah (East Part - 2),Auxiliary,645,,25.3656,86.4748,Yes,Yes,Yes
+165-Munger [24-Munger],110,Urdu Prathmik Vidyalaya Maksuspur Khankah (West Part),Main,1,968,25.3656,86.4748,Yes,Yes,Yes
+165-Munger [24-Munger],111,Uchcha Vidyalaya Maksuspur (East Part),Main,1,706,25.2212,86.28,Yes,Yes,Yes
+165-Munger [24-Munger],111,Uchcha Vidyalaya Maksuspur (West Part),Auxiliary,707,,25.2212,86.28,Yes,Yes,Yes
+165-Munger [24-Munger],112,Shree Durga Sanstha Madhya Vidyalaya Betwan Bazar (East Part - 1),Main,1,616,25.3661,86.4754,Yes,Yes,Yes
+165-Munger [24-Munger],112,Shree Durga Sanstha Madhya Vidyalaya Betwan Bazar (East Part - 2),Auxiliary,617,,25.3661,86.4754,Yes,Yes,Yes
+165-Munger [24-Munger],113,Urdu Madhya Vidyalaya Kasim Bazar (North Part - 1),Main,1,717,25.3652,86.4714,Yes,Yes,Yes
+165-Munger [24-Munger],113,Urdu Madhya Vidyalaya Kasim Bazar Tent (North Part - 2),Auxiliary,718,,25.3652,86.4714,Yes,Yes,Yes
+165-Munger [24-Munger],114,Balak Madhya Vidyalay Lallu Pokhar Mushari (West Part),Main,1,773,25.3694,86.4704,Yes,Yes,Yes
+165-Munger [24-Munger],115,Balak Madhya Vidyalay Lallu Pokhar Mushari (West Middle Part),Main,1,730,25.3694,86.4704,Yes,Yes,Yes
+165-Munger [24-Munger],116,Urdu Madhya Vidyalaya Kasim Bazar (South Part),Main,1,876,25.3652,86.4714,Yes,Yes,Yes
+165-Munger [24-Munger],117,Urdu Madhya Vidyalaya Kasim Bazar (Sourth Part-2),Main,1,854,25.3652,86.4714,Yes,Yes,Yes
+165-Munger [24-Munger],118,Balak Madhya Vidyalaya Lallu Pokhar Mushari (East Part),Main,1,515,25.2212,86.28,Yes,Yes,Yes
+165-Munger [24-Munger],118,Kanya Madhya Vidyalaya Lallu Pokhar Belan Bazar (West Part),Auxiliary,516,,25.212,86.2826,Yes,Yes,Yes
+165-Munger [24-Munger],119,Balak Madhya Vidyalaya Lallu Pokhar Mushari (East Middle Part),Main,1,544,25.2212,86.28,Yes,Yes,Yes
+165-Munger [24-Munger],119,Kanya Madhya Vidyalaya Lallu Pokhar Belan Bazar (West Middle Part),Auxiliary,545,,25.212,86.2826,Yes,Yes,Yes
+165-Munger [24-Munger],120,Uchcha Vidyalaya Maksuspur (North Part),Main,1,604,25.2212,86.2826,Yes,Yes,Yes
+165-Munger [24-Munger],120,Balak Madhya Vidyalaya Maksuspur (North Part),Auxiliary,605,,25.2212,86.2826,Yes,Yes,Yes
+165-Munger [24-Munger],121,Uchcha Vidyalaya Maksuspur (South Part),Main,1,716,25.2212,86.2826,Yes,Yes,Yes
+165-Munger [24-Munger],121,Balak Madhya Vidyalaya Maksuspur (South Part),Auxiliary,717,,25.2212,86.2826,Yes,Yes,Yes
+165-Munger [24-Munger],122,Shree Durga Sanstha Madhya Vidyalaya Betwan Bazar (West Part - 1),Main,1,661,25.3661,86.4754,Yes,Yes,Yes
+165-Munger [24-Munger],122,Shree Durga Sanstha Madhya Vidyalaya Betwan Bazar (West Part - 2),Auxiliary,662,,25.3661,86.4754,Yes,Yes,Yes
+165-Munger [24-Munger],123,Nagar Palika Bhawan Market Kaura Maidan (North Part),Main,1,1016,25.3695,86.475,Yes,Yes,Yes
+165-Munger [24-Munger],124,Nagar Palika Bhawan Market Kaura Maidan (South Part),Main,1,491,25.3695,86.475,Yes,Yes,Yes
+165-Munger [24-Munger],124,Madhya Vidyalaya Koura Maidan,Auxiliary,492,,25.221,86.2831,Yes,Yes,Yes
+165-Munger [24-Munger],125,Rajkiya Bus Dipott. Munger (West Part),Main,1,881,25.3685,86.4801,Yes,Yes,Yes
+165-Munger [24-Munger],126,Rajkiya Bas Dipo Munger (West Middle Part),Main,1,848,25.3685,86.4801,Yes,Yes,Yes
+165-Munger [24-Munger],127,Rajkiya Bus Dipott. Munger (East Part),Main,1,769,25.3685,86.4801,Yes,Yes,Yes
+165-Munger [24-Munger],128,Rajkiya Bas Dipo Munger (East Middle Part),Main,1,714,25.3685,86.4801,Yes,Yes,Yes
+165-Munger [24-Munger],129,Rajkiya Madhya Vidyalaya Sandalpur (North Part),Main,1,864,25.3618,86.4827,Yes,Yes,Yes
+165-Munger [24-Munger],130,Rajkiya Madhya Vidyalay Sandalpur(North Middle Part),Main,1,836,25.3618,86.4827,Yes,Yes,Yes
+165-Munger [24-Munger],131,Rajkiya Madhya Vidyalaya Sandalpur (Middle Part),Main,1,998,25.3618,86.4827,Yes,Yes,Yes
+165-Munger [24-Munger],132,Rajkiya Madhya Vidyalaya Sandalpur (South Part - 1),Main,1,617,25.3618,86.4827,Yes,Yes,Yes
+165-Munger [24-Munger],132,Rajkiya Madhya Vidyalaya Sandalpur (South Part - 2),Auxiliary,618,,25.3618,86.4827,Yes,Yes,Yes
+165-Munger [24-Munger],133,Rajkiya Kanya Madhay Vidyalaya Sandalpur (North Part),Main,1,842,25.3618,86.4827,Yes,Yes,Yes
+165-Munger [24-Munger],134,Rajkiya Kanya Madhay Vidyalaya Sandalpur (South Part),Main,1,799,25.3618,86.4827,Yes,Yes,Yes
+165-Munger [24-Munger],135,Kanya Madhya Vidyalaya Maniya Chouraha,Main,1,629,25.212,86.2826,Yes,Yes,Yes
+165-Munger [24-Munger],135,Kanya Madhya Vidyalaya Maniya Chouraha Naya Bhawan,Auxiliary,630,,25.212,86.2826,Yes,Yes,Yes
+165-Munger [24-Munger],136,Prathmik Vidyalaya Khoja Bazar (North Part),Main,1,901,25.3625,86.4782,Yes,Yes,Yes
+165-Munger [24-Munger],137,Prathmik Vidyalaya Khoja Bazar (South Part - 1),Main,1,527,25.3625,86.4782,Yes,Yes,Yes
+165-Munger [24-Munger],137,Prathmik Vidyalaya Khoja Bazar (South Part - 2),Auxiliary,528,,25.3625,86.4782,Yes,Yes,Yes
+165-Munger [24-Munger],138,Madhya Vidyalaya Puraniganj (East Part),Main,1,861,25.8628,86.4794,Yes,Yes,Yes
+165-Munger [24-Munger],139,Madhya Vidyalay Puraniganj (West Part - 1),Main,1,542,25.8628,86.4794,Yes,Yes,Yes
+165-Munger [24-Munger],139,Madhya Vidyalay Puraniganj (West Part - 2),Auxiliary,543,,25.8628,86.4794,Yes,Yes,Yes
+165-Munger [24-Munger],140,Ramdeo Singh Yadav College Khoja Bazar Maniya Chouraha (North Part),Main,1,581,25.3624,86.4792,Yes,Yes,Yes
+165-Munger [24-Munger],140,Ramdeo Singh Yadav College Khoja Bazar Maniya Chouraha Library Bhawan,Auxiliary,582,,25.3624,86.4792,Yes,Yes,Yes
+165-Munger [24-Munger],141,Ramdeo Singh Yadav College Khoja Bazar Maniya Chouraha (South Part),Main,1,1000,25.3624,86.4792,Yes,Yes,Yes
+165-Munger [24-Munger],142,Madhya Vidyalaya Mirjapur (North Part),Main,1,518,25.3577,86.4799,Yes,Yes,Yes
+165-Munger [24-Munger],142,Madhya Vidyalaya Mirjapur (South Part),Auxiliary,519,,25.3577,86.4799,Yes,Yes,Yes
+165-Munger [24-Munger],143,Madhya Vidyalaya Kasim Bazar (North Part),Main,1,925,25.212,86.281,Yes,Yes,Yes
+165-Munger [24-Munger],144,Madhya Vidyalaya Kasim Bazar (North Middle Part),Main,1,825,25.212,86.281,Yes,Yes,Yes
+165-Munger [24-Munger],145,Madhya Vidyalaya Kasim Bazar (Middle Part),Main,1,883,25.212,86.281,Yes,Yes,Yes
+165-Munger [24-Munger],146,Madhya VIdyalaya Kasim Bazar (Middle Part-2),Main,1,861,25.212,86.281,Yes,Yes,Yes
+165-Munger [24-Munger],147,Madhya Vidyalaya Kasim Bazar (South Part),Main,1,512,25.212,86.281,Yes,Yes,Yes
+165-Munger [24-Munger],147,Devendra Sharma Agarvatti Factory Kasim Bazar,Auxiliary,513,,25.212,86.281,Yes,Yes,Yes
+165-Munger [24-Munger],148,Madhya Vidyalaya Kasim Bazar (North-South Part),Main,1,893,25.212,86.281,Yes,Yes,Yes
+165-Munger [24-Munger],149,Prathmik Vidyalaya Shiv Nagar (West Part),Main,1,884,25.3469,86.4618,Yes,Yes,Yes
+165-Munger [24-Munger],150,Prathmik Vidyalaya Shiv Nagar (East Part - 1),Main,1,572,25.3469,86.4618,Yes,Yes,Yes
+165-Munger [24-Munger],150,Prathmik Vidyalaya Shiv Nagar (East Part - 2),Auxiliary,573,,25.3469,86.4618,Yes,Yes,Yes
+165-Munger [24-Munger],151,Prathmik Vidyalaya Chaintola (North Part),Main,1,598,25.3559,86.4647,Yes,Yes,Yes
+165-Munger [24-Munger],151,Prathmik Vidyalaya Chaintola (South Part),Auxiliary,599,,25.3559,86.4647,Yes,Yes,Yes
+165-Munger [24-Munger],152,Madhya Vidyalay Chauabag (North Part),Main,1,956,25.3559,86.4647,Yes,Yes,Yes
+165-Munger [24-Munger],153,Madhya Vidyalay Chauabag (Middle Part),Main,1,886,25.3559,86.4647,Yes,Yes,Yes
+165-Munger [24-Munger],154,Prathmik Vidyalay Chandanbag (South Part - 1),Main,1,537,25.3559,86.4647,Yes,Yes,Yes
+165-Munger [24-Munger],154,Prathmik Vidyalay Chandanbag (South Part - 2),Auxiliary,538,,25.3559,86.4647,Yes,Yes,Yes
+165-Munger [24-Munger],155,Madhya Vidyalaya Mahaddipur (West Part),Main,1,547,25.3555,86.4697,Yes,Yes,Yes
+165-Munger [24-Munger],155,Madhya Vidyalaya Mahaddipur (East Part),Auxiliary,548,,25.3555,86.4697,Yes,Yes,Yes
+165-Munger [24-Munger],156,Madhya Vidyalaya Hasanganj (West Part),Main,1,772,25.3425,86.4758,Yes,Yes,Yes
+165-Munger [24-Munger],157,Madhya Vidyalaya Hasanganj (East Part),Main,1,747,25.3425,86.4758,Yes,Yes,Yes
+165-Munger [24-Munger],158,Madhya Vidyalaya Hasanganj (Middle Part),Main,1,662,25.3425,86.4758,Yes,Yes,Yes
+165-Munger [24-Munger],159,Kanya Madhya Vidyalaya Hasanganj (East Part),Main,1,893,25.3483,86.4765,Yes,Yes,Yes
+165-Munger [24-Munger],160,Kanya Madhya Vidyalaya Hasanganj (West Part),Main,1,601,25.3483,86.4765,Yes,Yes,Yes
+165-Munger [24-Munger],161,Madhya Vidyalaya Herudiyara (East Part - 1),Main,1,512,25.3427,86.4731,Yes,Yes,Yes
+165-Munger [24-Munger],161,Madhya Vidyalaya Herudiyara (East Part - 2),Auxiliary,513,,25.3427,86.4731,Yes,Yes,Yes
+165-Munger [24-Munger],162,Madhya Vidyalaya Herudiyara (Middle Part - 1),Main,1,619,25.3427,86.4731,Yes,Yes,Yes
+165-Munger [24-Munger],162,Madhya Vidyalaya Herudiyara (Middle Part - 2),Auxiliary,620,,25.3427,86.4731,Yes,Yes,Yes
+165-Munger [24-Munger],163,Madhya Vidyalaya Herudiyara (West Part),Main,1,557,25.3427,86.4731,Yes,Yes,Yes
+165-Munger [24-Munger],164,Prathmik Vidyalaya Bindwara (East Part),Main,1,750,25.3428,86.4757,Yes,Yes,Yes
+165-Munger [24-Munger],165,Prathmik Vidyalaya Bindwara (West Part),Main,1,838,25.3428,86.4757,Yes,Yes,Yes
+165-Munger [24-Munger],166,Kanya Madhya Vidyalaya Bindwara (North Part),Main,1,765,25.3429,86.476,Yes,Yes,Yes
+165-Munger [24-Munger],167,Kanya Madhya Vidyalaya Bindwara (South Part),Main,1,752,25.3429,86.476,Yes,Yes,Yes
+165-Munger [24-Munger],168,Rajkiya Madhya Vidyalaya Naulakkha Hawai Adda (West Part - 1),Main,1,532,25.3461,86.4874,Yes,Yes,Yes
+165-Munger [24-Munger],168,Rajkiya Madhya Vidyalaya Naulakkha Hawai Adda (West Part - 2),Auxiliary,533,,25.3461,86.4874,Yes,Yes,Yes
+165-Munger [24-Munger],169,Rajkiya Madhya Vidyalaya Naulakkha Hawai Adda (East Part),Main,1,915,25.3461,86.4874,Yes,Yes,Yes
+165-Munger [24-Munger],170,Prathmik Vidyalaya Navtoliya (East Part - 1),Main,1,589,25.3522,86.4825,Yes,Yes,Yes
+165-Munger [24-Munger],170,Prathmik Vidyalaya Navtoliya (East Part - 2),Auxiliary,590,,25.3522,86.4825,Yes,Yes,Yes
+165-Munger [24-Munger],171,Prathmik Vidyalaya Navtoliya (West Part),Main,1,742,25.3522,86.4825,Yes,Yes,Yes
+165-Munger [24-Munger],172,Prathmik Vidyalaya Navtoliya (West North Part),Main,1,736,25.3522,86.4825,Yes,Yes,Yes
+165-Munger [24-Munger],173,Urdu Prathmik Vidyalaya Salempur (East Part),Main,1,849,25.3659,86.5014,Yes,Yes,Yes
+165-Munger [24-Munger],174,Urdu Prathmik Vidyalaya Salempur (West Part),Main,1,904,25.3659,86.5014,Yes,Yes,Yes
+165-Munger [24-Munger],175,Soochana Kendra Prakhand Karyalaya Sadar,Main,1,712,25.3712,86.498,Yes,Yes,Yes
+165-Munger [24-Munger],175,Aatma Karyalay Prakhand parisar Sadar Munger,Auxiliary,713,,25.3712,86.498,Yes,Yes,Yes
+165-Munger [24-Munger],176,Prathmik Vidyalaya Mubarakchak (North Part),Main,1,618,25.3564,86.4987,Yes,Yes,Yes
+165-Munger [24-Munger],176,Prathmik Vidyalaya Mubarakchak (South Part),Auxiliary,619,,25.3564,86.4987,Yes,Yes,Yes
+165-Munger [24-Munger],177,Madhya Vidyalaya Prakhand Karyalaya Benigir (North Part),Main,1,596,25.3711,86.4979,Yes,Yes,Yes
+165-Munger [24-Munger],177,Lohiya Bhawan Prakhand Parisar Sadar Munger,Auxiliary,597,,25.3711,86.4979,Yes,Yes,Yes
+165-Munger [24-Munger],178,Madhya Vidyalaya Prakhand Karyalaya Benigir (South Part),Main,1,814,25.3711,86.4979,Yes,Yes,Yes
+165-Munger [24-Munger],179,Madhya Vidyalaya Prakhand Karyalay Benigir (Middle Part),Main,1,816,25.3711,86.4979,Yes,Yes,Yes
+165-Munger [24-Munger],180,Prathmik Vidyalaya Harijan Tola Nav Nirmit Bhawan Salempur (North Part),Main,1,581,25.3662,86.4988,Yes,Yes,Yes
+165-Munger [24-Munger],180,Prathmik Vidyalaya Harijan Tola Nav Nirmit Bhawan Salempur (South Part),Auxiliary,582,,25.3662,86.4988,Yes,Yes,Yes
+165-Munger [24-Munger],181,Prathmik Vidyalaya Dhoutal Mahto Tola (East Middle Part),Main,1,665,25.3947,86.4814,Yes,Yes,Yes
+165-Munger [24-Munger],181,Madhya Vidyalaya Budhhan Marar Tola (North Part),Auxiliary,666,,25.3846,86.8715,Yes,Yes,Yes
+165-Munger [24-Munger],182,Prathmik Vidyalaya Dhoutal Mahto Tola (West Middle Part),Main,1,672,25.3947,86.4814,Yes,Yes,Yes
+165-Munger [24-Munger],182,Madhya Vidyalaya Budhhan Marar Tola (South Part),Auxiliary,673,,25.3846,86.8715,Yes,Yes,Yes
+165-Munger [24-Munger],183,Madhya Vidyalaya Aadarsh Gram(North Part),Main,1,855,25.3939,86.4816,Yes,Yes,Yes
+165-Munger [24-Munger],184,Madhya Vidyalaya Aadarsh Gram (South Part),Main,1,889,25.3939,86.4816,Yes,Yes,Yes
+165-Munger [24-Munger],185,Prathmik Vidyalaya Mahadeopur,Main,1,654,25.3883,86.5027,Yes,Yes,Yes
+165-Munger [24-Munger],186,Madhya Vidyalaya Mahuli (East Part),Main,1,608,25.3883,86.4998,Yes,Yes,Yes
+165-Munger [24-Munger],186,Madhya Vidyalaya Mahaveer Sthan Choti Mahuli (East Part),Auxiliary,609,,25.3982,86.4896,Yes,Yes,Yes
+165-Munger [24-Munger],187,Madhya Vidyalaya Mahuli (West Part),Main,1,565,25.3883,86.4998,Yes,Yes,Yes
+165-Munger [24-Munger],187,Madhya Vidyalaya Mahaveer Sthan Choti Mahuli (West Part),Auxiliary,566,,25.3982,86.4896,Yes,Yes,Yes
+165-Munger [24-Munger],188,Prathmik Vidyalaya Bhaiyaram Rai Tola Tikarampur,Main,1,899,25.3982,86.4896,Yes,Yes,Yes
+165-Munger [24-Munger],189,Madhya Vidyalaya Bihari Marar Tola Tikarampur (North Part),Main,1,849,25.4938,86.5349,Yes,Yes,Yes
+165-Munger [24-Munger],190,Madhya Vidyalaya Bihari Marar Tola Tikarampur (South Part - 1),Main,1,658,25.4938,86.5349,Yes,Yes,Yes
+165-Munger [24-Munger],190,Madhya Vidyalaya Bihari Marar Tola Tikarampur (South Part - 2),Auxiliary,659,,25.4938,86.5349,Yes,Yes,Yes
+165-Munger [24-Munger],191,Madhya Vidyalaya Jagdish Mandal Tola Tikarampur (North Part),Main,1,600,25.4953,86.5528,Yes,Yes,Yes
+165-Munger [24-Munger],191,Madhya Vidyalaya Jagdish Mandal Tola Tikarampur (South Part),Auxiliary,601,,25.4953,86.5528,Yes,Yes,Yes
+165-Munger [24-Munger],192,Prathmik Vidyalaya Devnandan Mandal Tola Tikarampur (North Part),Main,1,601,25.3848,86.5213,Yes,Yes,Yes
+165-Munger [24-Munger],192,Prathmik Vidyalaya Devnandan Mandal Tola Tikarampur (South Part),Auxiliary,602,,25.3848,86.5213,Yes,Yes,Yes
+165-Munger [24-Munger],193,Prathmik Vidyalaya Banarsi Rai Tola Tikaramur,Main,1,893,25.4851,86.5364,Yes,Yes,Yes
+165-Munger [24-Munger],194,Janta Uchcha Vidyalaya Bhawan Nav Nirmit Shed Taufir,Main,1,370,25.3786,86.5135,Yes,Yes,Yes
+165-Munger [24-Munger],195,Prathmik Vidyalaya Jay Mangal Paswan Tola Taufir,Main,1,673,25.406,86.5553,Yes,Yes,Yes
+165-Munger [24-Munger],196,Madhya Vidyalaya Nawada,Main,1,761,25.3826,86.4986,Yes,Yes,Yes
+165-Munger [24-Munger],197,Prathmik Vidyalaya Shankarpur I.T.C. Colony Churamba,Main,1,694,25.3789,86.4977,Yes,Yes,Yes
+165-Munger [24-Munger],198,Nawada Halka Kachahari,Main,1,518,25.3813,86.5009,Yes,Yes,Yes
+165-Munger [24-Munger],198,Panchayat Sarkar Bhawan Shankarpur,Auxiliary,519,,25.3812,86.501,Yes,Yes,Yes
+165-Munger [24-Munger],199,Madhya Vidyalaya Chak Ibrahim Shankarpur (South Part - 1),Main,1,586,25.3825,86.501,Yes,Yes,Yes
+165-Munger [24-Munger],199,Madhya Vidyalaya Chak Ibrahim Shankarpur (South Part - 2),Auxiliary,587,,25.3825,86.501,Yes,Yes,Yes
+165-Munger [24-Munger],200,Madhya Vidyalaya Chak Ibrahim Shankarpur (North Part - 1),Main,1,618,25.3825,86.501,Yes,Yes,Yes
+165-Munger [24-Munger],200,Madhya Vidyalaya Chak Ibrahim Shankarpur (North Part - 2),Auxiliary,619,,25.3825,86.501,Yes,Yes,Yes
+165-Munger [24-Munger],201,Prathmik Vidyalaya Shankarpur Milki (South Part),Main,1,606,25.383,86.5012,Yes,Yes,Yes
+165-Munger [24-Munger],201,Prathmik Vidyalaya Shankarpur Milki (North Part),Auxiliary,607,,25.383,86.5012,Yes,Yes,Yes
+165-Munger [24-Munger],202,Madhya Vidyalaya Mai Sikandarpur (East Part - 1),Main,1,541,25.378,86.5175,Yes,Yes,Yes
+165-Munger [24-Munger],202,Madhya Vidyalaya Mai Sikandarpur (East Part - 2),Auxiliary,542,,25.378,86.5175,Yes,Yes,Yes
+165-Munger [24-Munger],203,Madhya Vidyalaya Mai Sikandarpur (Middle Part),Main,1,759,25.378,86.5175,Yes,Yes,Yes
+165-Munger [24-Munger],204,Madhya Vidyalaya Mai Sikandarpur (West Part - 1),Main,1,512,25.378,86.5175,Yes,Yes,Yes
+165-Munger [24-Munger],204,Madhya Vidyalaya Mai Sikandarpur (West Part - 2),Auxiliary,513,,25.378,86.5175,Yes,Yes,Yes
+165-Munger [24-Munger],205,Prathmik Vidyalaya Naya Tola Shitalpur (West Part - 1),Main,1,589,25.3782,86.5201,Yes,Yes,Yes
+165-Munger [24-Munger],205,Prathmik Vidyalaya Naya Tola Shitalpur (West Part - 2),Auxiliary,590,,25.3782,86.5201,Yes,Yes,Yes
+165-Munger [24-Munger],206,I.T.I. Munger (East Part),Main,1,560,25.3691,86.5046,Yes,Yes,Yes
+165-Munger [24-Munger],206,I.T.I. Munger (West Part),Auxiliary,561,,25.3691,86.5046,Yes,Yes,Yes
+165-Munger [24-Munger],207,Madhya Vidyalaya Taufir Diyara (North Part),Main,1,533,25.3794,86.5188,Yes,Yes,Yes
+165-Munger [24-Munger],207,Madhya Vidyalaya Taufir Diyara (East Part),Auxiliary,534,,25.3794,86.5188,Yes,Yes,Yes
+165-Munger [24-Munger],208,Madhya Vidyalaya Taufir Diyara (Middle Part),Main,1,550,25.3794,86.5188,Yes,Yes,Yes
+165-Munger [24-Munger],208,Madhya Vidyalaya Taufir Diyara (West Part),Auxiliary,551,,25.3794,86.5188,Yes,Yes,Yes
+165-Munger [24-Munger],209,Madhya Vidyalaya Taufir Diyara (South Part),Main,1,538,25.3794,86.5188,Yes,Yes,Yes
+165-Munger [24-Munger],209,Prathmik Vidyalaya Karari Tola Toufir,Auxiliary,539,,25.3796,86.5189,Yes,Yes,Yes
+165-Munger [24-Munger],210,Sarvjanik Prathmik Vidyalaya Chain Tola Pirpahar (East Part),Main,1,514,25.3784,86.5191,Yes,Yes,Yes
+165-Munger [24-Munger],210,Madhya Vidyalaya Terasi Deva Tola Toufir,Auxiliary,515,,25.3786,86.5191,Yes,Yes,Yes
+165-Munger [24-Munger],211,Sarvjanik Prathmik Vidyalaya Chain Tola Pirpahar (West Part),Main,1,928,25.3784,86.5139,Yes,Yes,Yes
+165-Munger [24-Munger],212,Madhya Vidyalaya Sitakund Shitalpur (East Part - 1),Main,1,685,25.378,86.5115,Yes,Yes,Yes
+165-Munger [24-Munger],212,Madhya Vidyalaya Sitakund Shitalpur (East Part - 2),Auxiliary,686,,25.378,86.5115,Yes,Yes,Yes
+165-Munger [24-Munger],213,Madhya Vidyalay Sitakund Shitalpur(West Middle Part),Main,1,722,25.378,86.5115,Yes,Yes,Yes
+165-Munger [24-Munger],214,Madhya Vidyalaya Sitakund Shitalpur (West Part),Main,1,716,25.378,86.5115,Yes,Yes,Yes
+165-Munger [24-Munger],215,Samudayik Bhawan Bardah (East Part),Main,1,546,25.3794,86.5182,Yes,Yes,Yes
+165-Munger [24-Munger],215,Madhya Vidyalaya Kalyan Chak (North Part),Auxiliary,547,,25.3793,86.518,Yes,Yes,Yes
+165-Munger [24-Munger],216,Samudayik Bhawan Bardah (West Part),Main,1,549,25.3794,86.5182,Yes,Yes,Yes
+165-Munger [24-Munger],216,Samudayik Bhawan Bardah (South Part),Auxiliary,550,,25.3794,86.5182,Yes,Yes,Yes
+165-Munger [24-Munger],217,Madhya Vidyalaya Mirjapur Bardah (North Part - 1),Main,1,684,25.3795,86.5182,Yes,Yes,Yes
+165-Munger [24-Munger],217,Madhya Vidyalaya Mirjapur Bardah (North Part - 2),Auxiliary,685,,25.3795,86.5182,Yes,Yes,Yes
+165-Munger [24-Munger],218,Madhya Vidyalaya Mirjapur Bardah (South Part - 1),Main,1,666,25.3795,86.5182,Yes,Yes,Yes
+165-Munger [24-Munger],218,Madhya Vidyalaya Mirjapur Bardah (South Part - 2),Auxiliary,667,,25.3795,86.5182,Yes,Yes,Yes
+165-Munger [24-Munger],219,Panchyat Bhawan Maheshpur,Main,1,621,25.3398,86.5563,Yes,Yes,Yes
+165-Munger [24-Munger],220,Prathmik Vidyalaya Maniyarchak (East Part),Main,1,471,25.3466,86.5539,Yes,Yes,Yes
+165-Munger [24-Munger],221,Prathmik Vidyalaya Maniyarchak (East Middle Part),Main,1,713,25.3466,86.5539,Yes,Yes,Yes
+165-Munger [24-Munger],221,Prathmik Vidyalaya Nath Tola Maniyarchak,Auxiliary,714,,25.3461,86.5538,Yes,Yes,Yes
+165-Munger [24-Munger],222,Prathmik Vidyalaya Maniyarchak (West Part),Main,1,960,25.3461,86.5538,Yes,Yes,Yes
+165-Munger [24-Munger],223,Prathmik Vidyalaya Maniyarchak (West Middle Part),Main,1,959,25.3461,86.5538,Yes,Yes,Yes
+165-Munger [24-Munger],224,Prathmik Vidyalaya Fulkiya (North Part),Main,1,841,25.2973,86.5736,Yes,Yes,Yes
+165-Munger [24-Munger],225,Prathmik Vidyalaya Fulkiya(South Part),Main,1,816,25.2973,86.5736,Yes,Yes,Yes
+165-Munger [24-Munger],226,Prathmik Vidyalaya Tarapur Diyara Totaha,Main,1,912,25.3419,86.5477,Yes,Yes,Yes
+165-Munger [24-Munger],227,Madhya Vidyalaya Ramdiri Gaira Pahad (East Part),Main,1,586,25.3611,86.5386,Yes,Yes,Yes
+165-Munger [24-Munger],227,Madhya Vidyalaya Ramdiri Gaira Pahad (West Part),Auxiliary,587,,25.3611,86.5386,Yes,Yes,Yes
+165-Munger [24-Munger],228,Madhya Vidyalaya Sitakund Dih (East Part - 1),Main,1,619,25.3822,86.4947,Yes,Yes,Yes
+165-Munger [24-Munger],228,Madhya Vidyalaya Sitakund Dih (East Part - 2),Auxiliary,620,,25.3822,86.4947,Yes,Yes,Yes
+165-Munger [24-Munger],229,Madhya Vidyalaya Sitakund Dih (West Part - 1),Main,1,650,25.3822,86.4947,Yes,Yes,Yes
+165-Munger [24-Munger],229,Madhya Vidyalaya Sitakund Dih (West Part - 2),Auxiliary,651,,25.3822,86.4947,Yes,Yes,Yes
+165-Munger [24-Munger],230,Prathmik Vidyalaya Bhagat Chowki,Main,1,913,25.3382,86.5489,Yes,Yes,Yes
+165-Munger [24-Munger],231,Sarkari Samudayik Bhawan Mahadeopur (West Part),Main,1,666,25.3421,86.5438,Yes,Yes,Yes
+165-Munger [24-Munger],231,Sarkari Samudayik Bhawan Mahadeopur (East Part),Auxiliary,667,,25.3421,86.5438,Yes,Yes,Yes
+165-Munger [24-Munger],232,Madhya Vidyalaya Chouran Nouwagarhi (South Part - 1),Main,1,630,25.3465,86.5447,Yes,Yes,Yes
+165-Munger [24-Munger],232,Madhya Vidyalaya Chouran Nouwagarhi (South Part - 2),Auxiliary,631,,25.3465,86.5447,Yes,Yes,Yes
+165-Munger [24-Munger],233,Madhya Vidyalaya Chouran Nouwagarhi (North Part - 1),Main,1,523,25.3465,86.5447,Yes,Yes,Yes
+165-Munger [24-Munger],233,Madhya Vidyalaya Chouran Nouwagarhi (North Part - 2),Auxiliary,524,,25.3465,86.5447,Yes,Yes,Yes
+165-Munger [24-Munger],234,Madhya Vidyalaya Katariya (North Part - 1),Main,1,619,25.3685,86.5126,Yes,Yes,Yes
+165-Munger [24-Munger],234,Madhya Vidyalaya Katariya (North Part - 2),Auxiliary,620,,25.3685,86.5126,Yes,Yes,Yes
+165-Munger [24-Munger],235,Madhya Vidyalaya Katariya (South Part - 1),Main,1,599,25.3685,86.5126,Yes,Yes,Yes
+165-Munger [24-Munger],235,Madhya Vidyalaya Katariya (South Part - 2),Auxiliary,600,,25.3685,86.5126,Yes,Yes,Yes
+165-Munger [24-Munger],236,Madhya Vidyalaya Hasanpur (South Part),Main,1,735,25.3644,86.5277,Yes,Yes,Yes
+165-Munger [24-Munger],237,Madhya Vidyalaya Hasanpur (South Middle Part),Main,1,733,25.3644,86.5277,Yes,Yes,Yes
+165-Munger [24-Munger],238,Madhya Vidyalaya Hasanpur (Middle Part - 1),Main,1,676,25.3644,86.5277,Yes,Yes,Yes
+165-Munger [24-Munger],238,Madhya Vidyalaya Hasanpur (Middle Part - 2),Auxiliary,677,,25.3644,86.5277,Yes,Yes,Yes
+165-Munger [24-Munger],239,Madhya Vidyalaya Hasanpur (North Part),Main,1,841,25.3644,86.5277,Yes,Yes,Yes
+165-Munger [24-Munger],240,Madhya Vidyalaya Hasanpur(North Middle Part),Main,1,853,25.3644,86.5277,Yes,Yes,Yes
+165-Munger [24-Munger],241,Urdu Madhya Vidyalaya Bakarpur (North Part),Main,1,770,25.3622,86.5114,Yes,Yes,Yes
+165-Munger [24-Munger],242,Urdu Madhya Vidyalaya Bakarpur (East West Part),Main,1,777,25.3622,86.5114,Yes,Yes,Yes
+165-Munger [24-Munger],243,Prathmik Vidyalaya Kantpur (North Part),Main,1,917,25.3471,86.5302,Yes,Yes,Yes
+165-Munger [24-Munger],244,Prathmik Vidyalaya Kantpur(Middle Part),Main,1,942,25.3471,86.5302,Yes,Yes,Yes
+165-Munger [24-Munger],245,Prathmik Vidyalaya Kantpur (South Part),Main,1,543,25.3471,86.5302,Yes,Yes,Yes
+165-Munger [24-Munger],245,Madhya Vidyalaya Gadih (East Part),Auxiliary,544,,25.357,86.5211,Yes,Yes,Yes
+165-Munger [24-Munger],246,Urdu Madhya Vidyalaya Nawagadi (North Part),Main,1,957,25.3822,86.4947,Yes,Yes,Yes
+165-Munger [24-Munger],247,Urdu Madhya Vidyalaya Nawagadi (South Part),Main,1,515,25.3822,86.4947,Yes,Yes,Yes
+165-Munger [24-Munger],247,Urdu Madhya Vidyalaya Nawagadi (West Part),Auxiliary,516,,25.3822,86.4947,Yes,Yes,Yes
+165-Munger [24-Munger],248,Madhya Vidyalaya Nouwagadi (North Part),Main,1,748,25.3411,86.5419,Yes,Yes,Yes
+165-Munger [24-Munger],249,Madhya Vidyalaya Nouwagadi(South Part),Main,1,737,25.3411,86.5419,Yes,Yes,Yes
+165-Munger [24-Munger],250,Uchcha Vidyalaya Nouwagadi (North Part),Main,1,726,25.3411,86.5419,Yes,Yes,Yes
+165-Munger [24-Munger],251,Uchch Vidyalay Nowagarhi (Middle Part),Main,1,743,25.3411,86.5419,Yes,Yes,Yes
+165-Munger [24-Munger],252,Uchcha Vidyalaya Nouwagadi (South Part - 1),Main,1,563,25.3411,86.5419,Yes,Yes,Yes
+165-Munger [24-Munger],252,Uchcha Vidyalaya Nouwagadi (South Part - 2),Auxiliary,564,,25.3411,86.5419,Yes,Yes,Yes
+165-Munger [24-Munger],253,Madhya Vidyalaya Keshopur (East Part),Main,1,822,25.3496,86.5286,Yes,Yes,Yes
+165-Munger [24-Munger],254,Madhya Vidyalaya Keshopur (West Part),Main,1,795,25.3496,86.5286,Yes,Yes,Yes
+165-Munger [24-Munger],255,Prathmik Vidyalaya Milkichak No-1 (East Part),Main,1,551,25.3412,86.5259,Yes,Yes,Yes
+165-Munger [24-Munger],255,Panchayat Sarkar Bhawan Jankinagar (East Part),Auxiliary,552,,25.3311,86.5058,Yes,Yes,Yes
+165-Munger [24-Munger],256,Prathmik Vidyalay Milkichak No-1(West Part),Main,1,696,25.3412,86.5259,Yes,Yes,Yes
+165-Munger [24-Munger],256,Panchayat Sarkar Bhawan Jankinagar (West Part),Auxiliary,697,,25.3311,86.5058,Yes,Yes,Yes
+165-Munger [24-Munger],257,Madhya Vidyalaya Athsaihya Bahadurpur West Bhawan (West Part),Main,1,513,25.3983,86.6147,Yes,Yes,Yes
+165-Munger [24-Munger],257,Madhya Vidyalaya Athsaihya Bahadurpur West Bhawan (East Part),Auxiliary,514,,25.3983,86.6147,Yes,Yes,Yes
+165-Munger [24-Munger],258,Madhya Vidyalaya Athsaihya Bahadurpur East Bhawan (North Part),Main,1,1025,25.3983,86.6147,Yes,Yes,Yes
+165-Munger [24-Munger],259,Madhya Vidyalaya Athsaihya Bahadurpur (South Part),Main,1,774,25.3983,86.6147,Yes,Yes,Yes
+165-Munger [24-Munger],260,Madhya Vidyalaya Athsaihya Bahadurpur South bhawan (East Part),Main,1,642,25.3983,86.6147,Yes,Yes,Yes
+165-Munger [24-Munger],260,Madhya Vidyalaya Athsaihya Bahadurpur South bhawan (West Part),Auxiliary,643,,25.3983,86.6147,Yes,Yes,Yes
+165-Munger [24-Munger],261,Madhya Vidyalaya Karemandal Tola (East Part),Main,1,840,25.3942,86.6065,Yes,Yes,Yes
+165-Munger [24-Munger],262,Madhya Vidyalaya Karemandal Tola (West Part),Main,1,753,25.3943,86.6062,Yes,Yes,Yes
+165-Munger [24-Munger],263,Uchcha Vidyalaya Harinmar Vishanpur(North Part),Main,1,811,25.3845,86.6229,Yes,Yes,Yes
+165-Munger [24-Munger],264,Uchch Vidyalaya Harinmar Vishunpur(South Part),Main,1,765,25.3834,86.6229,Yes,Yes,Yes
+165-Munger [24-Munger],265,Madhya Vidyalaya Hansumandal Tola (East Part),Main,1,958,25.3891,86.6183,Yes,Yes,Yes
+165-Munger [24-Munger],266,Madhya Vidyalaya Hansumandal Tola (West Part),Main,1,837,25.3891,86.6176,Yes,Yes,Yes
+165-Munger [24-Munger],267,"Madhya Vidyalaya Hansumandal Tola, (West Bhawan - 1)",Main,1,527,25.3892,86.6179,Yes,Yes,Yes
+165-Munger [24-Munger],267,"Madhya Vidyalaya Hansumandal Tola, (West Bhawan - 2)",Auxiliary,528,,25.3892,86.6178,Yes,Yes,Yes
+165-Munger [24-Munger],268,"Madhya Vidyalaya Hansumandal Tola, (South Bhawan - 1)",Main,1,586,25.3811,86.6185,Yes,Yes,Yes
+165-Munger [24-Munger],268,"Madhya Vidyalaya Hansumandal Tola, (South Bhawan - 2)",Auxiliary,587,,25.3811,86.6187,Yes,Yes,Yes
+165-Munger [24-Munger],269,Madhya Vidyalaya Manik Mandal Tola (North Part),Main,1,553,25.3568,86.6218,Yes,Yes,Yes
+165-Munger [24-Munger],269,Madhya Vidyalaya Prem Nagar (East Part),Auxiliary,554,,25.3509,86.6241,Yes,Yes,Yes
+165-Munger [24-Munger],270,Madhya Vidyalaya Manik Mandal Tola (Middle Part),Main,1,525,25.3567,86.6218,Yes,Yes,Yes
+165-Munger [24-Munger],270,Madhya Vidyalaya Prem Nagar (Middle Part),Auxiliary,527,,25.3567,86.6216,Yes,Yes,Yes
+165-Munger [24-Munger],271,Madhya Vidyalaya Manik Mandal Tola (South Part),Main,1,534,25.3567,86.6218,Yes,Yes,Yes
+165-Munger [24-Munger],271,Madhya Vidyalaya Prem Nagar (West Part),Auxiliary,535,,25.3509,86.624,Yes,Yes,Yes
+165-Munger [24-Munger],272,Madhya Vidyalaya Kurmi Mandal Tola Jhouwa Bahiyar (North Part - 1),Main,1,612,25.3522,86.6298,Yes,Yes,Yes
+165-Munger [24-Munger],272,Madhya Vidyalaya Kurmi Mandal Tola Jhouwa Bahiyar (North Part - 2),Auxiliary,613,,25.3522,86.6297,Yes,Yes,Yes
+165-Munger [24-Munger],273,Madhya Vidyalaya Kurmi Tola Jhouwa Bahiyar (West Part),Main,1,737,25.3522,86.6298,Yes,Yes,Yes
+165-Munger [24-Munger],274,Madhya Vidyalaya Kurmi Tola Jhouwa Bahiyar (East Part),Main,1,879,25.3523,86.6298,Yes,Yes,Yes
+165-Munger [24-Munger],275,Prathmik Vidyalaya Kala Tola,Main,1,741,25.2945,86.5781,Yes,Yes,Yes
+165-Munger [24-Munger],276,Madhya Vidyalaya Harijan Kalyan Tola (North Part - 1),Main,1,656,25.2951,86.5771,Yes,Yes,Yes
+165-Munger [24-Munger],276,Madhya Vidyalaya Harijan Kalyan Tola (North Part - 2),Auxiliary,657,,25.2951,86.577,Yes,Yes,Yes
+165-Munger [24-Munger],277,Madhya Vidyalaya Harijan Kalyan Tola East Naya Bhawan,Main,1,925,25.2951,86.5773,Yes,Yes,Yes
+165-Munger [24-Munger],278,Prathmik Vidyalaya Ekasi Tola,Main,1,970,25.2951,86.5761,Yes,Yes,Yes
+165-Munger [24-Munger],279,Madhya Vidyalaya Shakahra Tola (North Tola,Main,1,645,25.3002,86.5642,Yes,Yes,Yes
+165-Munger [24-Munger],279,Madhya Vidyalaya Shakahra Tola (South Part),Auxiliary,679,,25.3002,86.5643,Yes,Yes,Yes
+165-Munger [24-Munger],280,Madhya Vidyalaya Brahamsathan (East Part),Main,1,510,25.3023,86.5691,Yes,Yes,Yes
+165-Munger [24-Munger],280,Madhya Vidyalaya Brahamsathan (Naya Bhawan),Auxiliary,511,,25.3023,86.5692,Yes,Yes,Yes
+165-Munger [24-Munger],281,Madhya Vidyalaya Brahamsathan (West Part),Main,1,588,25.3023,86.5692,Yes,Yes,Yes
+165-Munger [24-Munger],281,Madhya Vidyalaya Brahamsathan (Purana Bhawan),Auxiliary,589,,25.2949,86.569,Yes,Yes,Yes
+165-Munger [24-Munger],282,Madhya Vidyalaya Bariyarpur (East Part),Main,1,681,25.2958,86.572,Yes,Yes,Yes
+165-Munger [24-Munger],282,Balika Uchaha Vidyalaya Bariyarpur,Auxiliary,684,,25.2948,86.5707,Yes,Yes,Yes
+165-Munger [24-Munger],283,Madhya Vidyalaya Bariyarpur (West Part),Main,1,762,25.2948,86.572,Yes,Yes,Yes
+165-Munger [24-Munger],284,Madhya Vidyalaya Bariyarpur (Middle Part),Main,1,694,25.2948,86.572,Yes,Yes,Yes
+165-Munger [24-Munger],285,Kanya Madhya Vidyalaya Bariyarpur (East Part - 1),Main,1,562,25.2952,86.5705,Yes,Yes,Yes
+165-Munger [24-Munger],285,Kanya Madhya Vidyalaya Bariyarpur (East Part - 2),Auxiliary,563,,25.2952,86.5706,Yes,Yes,Yes
+165-Munger [24-Munger],286,Kanya Madhya Vidyalaya Bariyarpur (West Part - 1),Main,1,548,25.2952,86.5703,Yes,Yes,Yes
+165-Munger [24-Munger],286,Kanya Madhya Vidyalaya Bariyarpur (West Part - 2),Auxiliary,560,,25.2952,86.5705,Yes,Yes,Yes
+165-Munger [24-Munger],287,Madhya Vidyalaya Naya Tola (North Part),Main,1,937,25.2893,86.5756,Yes,Yes,Yes
+165-Munger [24-Munger],288,Madhya Vidyalaya Naya Tola (South Part),Main,1,894,25.2893,86.5757,Yes,Yes,Yes
+165-Munger [24-Munger],289,Philip Uchcha Vidyalaya Bariyarpur (East Part),Main,1,766,25.2862,86.5778,Yes,Yes,Yes
+165-Munger [24-Munger],290,Philip Uchcha Vidyalaya Bariyarpur (East Part),Main,1,822,25.2862,86.5778,Yes,Yes,Yes
+165-Munger [24-Munger],291,Philip Uchcha Vidyalaya Bariyarpur East Bhawan (North Part),Main,1,735,25.2864,86.5777,Yes,Yes,Yes
+165-Munger [24-Munger],291,Philip Uchcha Vidyalaya Bariyarpur East Bhawan (South Part),Auxiliary,739,,25.2864,86.5776,Yes,Yes,Yes
+165-Munger [24-Munger],292,Soochana Kendra Rajaswa Kachahari Parisar Bariyarpur,Main,1,1032,25.2828,86.5801,Yes,Yes,Yes
+165-Munger [24-Munger],293,Madhya Vidyalaya Bahadurpur (West Part),Main,1,698,25.2594,86.5706,Yes,Yes,Yes
+165-Munger [24-Munger],293,Madhya Vidyalaya Bahadurpur (East Part),Auxiliary,602,,25.2594,86.5707,Yes,Yes,Yes
+165-Munger [24-Munger],294,Madhya Vidyalaya Mirjachak,Main,1,505,25.2647,86.5665,Yes,Yes,Yes
+165-Munger [24-Munger],295,Madhya Vidyalaya Chiraiyabad (North Part),Main,1,698,25.3044,86.5401,Yes,Yes,Yes
+165-Munger [24-Munger],295,Madhya Vidyalaya Chiraiyabad (South Part),Auxiliary,700,,25.3044,86.5402,Yes,Yes,Yes
+165-Munger [24-Munger],296,Madhya Vidyalaya Kajichak (West Part),Main,1,523,25.3001,86.5457,Yes,Yes,Yes
+165-Munger [24-Munger],296,Madhya Vidyalaya Kajichak (East Part),Auxiliary,524,,25.3001,86.5458,Yes,Yes,Yes
+165-Munger [24-Munger],297,Madhya Vidyalaya Ratanpur (East Part),Main,1,935,25.296,86.5455,Yes,Yes,Yes
+165-Munger [24-Munger],298,Madhya Vidyalaya Ratanpur (West Part - 1),Main,1,512,25.2961,86.5452,Yes,Yes,Yes
+165-Munger [24-Munger],298,Madhya Vidyalaya Ratanpur (West Part - 2),Auxiliary,593,,25.2961,86.5451,Yes,Yes,Yes
+165-Munger [24-Munger],299,Prathmik Vidyalaya Akhada Tola (South Part),Main,1,584,25.2931,86.5438,Yes,Yes,Yes
+165-Munger [24-Munger],299,Prathmik Vidyalaya Akhada Tola (North Part),Auxiliary,585,,25.2931,865437,Yes,Yes,Yes
+165-Munger [24-Munger],300,Madhya Vidyalaya Umbhibanbarsha,Main,1,618,25.2759,86.5344,Yes,Yes,Yes
+165-Munger [24-Munger],301,Madhya Vidyalaya Mahdeva Bariyarpur (North Part),Main,1,741,25.2811,86.5798,Yes,Yes,Yes
+165-Munger [24-Munger],302,Madhya Vidyalaya Mahadewa Bariyarpur (South Part),Main,1,745,25.2811,86.5799,Yes,Yes,Yes
+165-Munger [24-Munger],303,Madhya Vidyalaya Mahdeva Bariyarpur South Bhawan (West Part),Main,1,550,25.276,86.5799,Yes,Yes,Yes
+165-Munger [24-Munger],303,Madhya Vidyalaya Mahdeva Bariyarpur South Bhawan (East Part),Auxiliary,551,,25.276,86.5798,Yes,Yes,Yes
+165-Munger [24-Munger],304,Kanya Prathmik Vidyalaya Mahdeva,Main,1,760,25.2777,86.5832,Yes,Yes,Yes
+165-Munger [24-Munger],305,Ram Manohar Lohiya Uchcha Vidyalaya Bariyarpur (North Part),Main,1,799,25.2789,86.5815,Yes,Yes,Yes
+165-Munger [24-Munger],306,Ram Manohar Lohiya Uchcha Vidyalaya Bariyarpur (Middle Part),Main,1,510,25.2788,86.5815,Yes,Yes,Yes
+165-Munger [24-Munger],306,C.B.L.K. Mahavidyalaya Bariyarpur (East Part),Auxiliary,511,,25.2757,86.5815,Yes,Yes,Yes
+165-Munger [24-Munger],307,Ram Manohar Lohiya Uchcha Vidyalaya Bariyarpur (South Part),Main,1,536,25.2787,86.5814,Yes,Yes,Yes
+165-Munger [24-Munger],307,C.B.L.K. Mahavidyalaya Bariyarpur (West Part),Auxiliary,538,,25.2787,86.5814,Yes,Yes,Yes
+165-Munger [24-Munger],308,Madhya Vidyalaya Nirpur North Bhawan (East Part),Main,1,686,25.2712,86.5897,Yes,Yes,Yes
+165-Munger [24-Munger],308,Madhya Vidyalaya Nirpur North Bhawan (West Part),Auxiliary,689,,25.2712,86.5896,Yes,Yes,Yes
+165-Munger [24-Munger],309,Madhya Vidyalaya Nirpur (North Part),Main,1,859,25.2712,86.5898,Yes,Yes,Yes
+165-Munger [24-Munger],310,Madhya Vidyalaya Nirpur (South Part),Main,1,927,25.2723,86.5895,Yes,Yes,Yes
+165-Munger [24-Munger],311,Prathmik Vidyalaya Jharkahwa (East Part),Main,1,767,25.2657,86.5976,Yes,Yes,Yes
+165-Munger [24-Munger],312,Prathmik Vidyalaya Jharkahwa (West Part),Main,1,778,25.26564,86.59742,Yes,Yes,Yes
+165-Munger [24-Munger],313,Madhya Vidyalaya Naya Chhavni (West Part),Main,1,579,25.26753,86.59493,Yes,Yes,Yes
+165-Munger [24-Munger],313,Madhya Vidyalaya Naya Chhavni (East Part),Auxiliary,607,,25.26753,86.59495,Yes,Yes,Yes
+165-Munger [24-Munger],314,Madhya Vidyalaya Fulkiya Tola (North Part),Main,1,546,25.26229,86.60279,Yes,Yes,Yes
+165-Munger [24-Munger],314,Madhya Vidyalaya Fulkiya Tola Purana Bhawan,Auxiliary,551,,25.26229,86.60278,Yes,Yes,Yes
+165-Munger [24-Munger],315,Madhya Vidyalaya Fulkiya Tola (South Part),Main,1,921,25.26178,86.6033,Yes,Yes,Yes
+165-Munger [24-Munger],316,Prathmik Vidyalaya Sitarampur Najira (West part),Main,1,608,25.2627,86.6015,Yes,Yes,Yes
+165-Munger [24-Munger],316,Prathmik Vidyalaya Sitarampur Najira (East part),Auxiliary,617,,25.2627,86.6014,Yes,Yes,Yes
+165-Munger [24-Munger],317,Madhya Vidyalaya Kalyanpur West Bhawan (South Part),Main,1,666,25.253,86.6121,Yes,Yes,Yes
+165-Munger [24-Munger],317,Madhya Vidyalaya Kalyanpur West Bhawan (North Part),Auxiliary,669,,25.253,86.6121,Yes,Yes,Yes
+165-Munger [24-Munger],318,Madhya Vidyalaya Kalyanpur (East Part - 1),Main,1,572,25.2531,86.6121,Yes,Yes,Yes
+165-Munger [24-Munger],318,Madhya Vidyalaya Kalyanpur (East Part - 2),Auxiliary,580,,25.2531,86.6122,Yes,Yes,Yes
+165-Munger [24-Munger],319,Samudayik Bhawan Kalyanpur,Main,1,520,25.2517,86.6167,Yes,Yes,Yes
+165-Munger [24-Munger],319,Madhya Vidyalaya Kalyanpur (South Part),Auxiliary,522,,25.2517,86.6165,Yes,Yes,Yes
+165-Munger [24-Munger],320,Madhya Vidyalaya Bangali Tola (West Part),Main,1,931,25.2502,86.6227,Yes,Yes,Yes
+165-Munger [24-Munger],321,Madhya Vidyalaya Bangali Tola (East Part),Main,1,571,25.2503,86.6225,Yes,Yes,Yes
+165-Munger [24-Munger],321,Vishahari Sthan Natya Bhawan Bangali Tola,Auxiliary,572,,25.2492,86.228,Yes,Yes,Yes
+165-Munger [24-Munger],322,Shah Zubair Madhya Vidyalaya Ghorghat Purana Purvi Bhawan (South Part - 1),Main,1,520,252438,86.6328,Yes,Yes,Yes
+165-Munger [24-Munger],322,Shah Zubair Madhya Vidyalaya Ghorghat Purana Purvi Bhawan (South Part - 2),Auxiliary,521,,25.2438,86.6326,Yes,Yes,Yes
+165-Munger [24-Munger],323,"Shah Zubair Madhya Vidyalaya Ghorghat,Naya Bhawan (North Part)",Main,1,961,25.2438,86.6328,Yes,Yes,Yes
+165-Munger [24-Munger],324,"Shah Jubair Madhya Vidyalaya Ghorghat,Naya Bhawan (North Part)",Main,1,824,25.2437,86.6327,Yes,Yes,Yes
+165-Munger [24-Munger],325,Shah Zubair Madhya Vidyalaya Ghorghat (South Part),Main,1,860,25.2437,86.6327,Yes,Yes,Yes
+165-Munger [24-Munger],326,Shah Zubair Madhya Vidyalaya Ghorghat Naya Bhawan (East Part - 1),Main,1,617,25.2439,86.6329,Yes,Yes,Yes
+165-Munger [24-Munger],326,Shah Zubair Madhya Vidyalaya Ghorghat Naya Bhawan (East Part - 2),Auxiliary,618,,25.2439,86.6328,Yes,Yes,Yes
+165-Munger [24-Munger],327,Prathmik Vidyalaya Tulsipur Kathgola (East Part),Main,1,914,25.2431,86.6388,Yes,Yes,Yes
+165-Munger [24-Munger],328,Prathmik Vidyalaya Tulsipur Kathgola (West Part - 1),Main,1,514,25.2432,86.6389,Yes,Yes,Yes
+165-Munger [24-Munger],328,Prathmik Vidyalaya Tulsipur Kathgola (West Part - 2),Auxiliary,515,,25.2432,86.6388,Yes,Yes,Yes
+165-Munger [24-Munger],329,Madhya Vidyalaya Khariya (North Part),Main,1,799,252122,86.6295,Yes,Yes,Yes
+165-Munger [24-Munger],330,Madhya Vidyalaya Khariya (Middle Part),Main,1,746,25.2121,86.6295,Yes,Yes,Yes
+165-Munger [24-Munger],331,Madhya Vidyalaya Khariya (South Part),Main,1,785,25.2121,86.6293,Yes,Yes,Yes
+165-Munger [24-Munger],332,Madhya Vidyalaya Khariya (North Part),Main,1,777,25.2121,86.6296,Yes,Yes,Yes
+165-Munger [24-Munger],333,Kanya Madhya Vidyalaya Khariya (North Part),Main,1,985,25.2139,86.6308,Yes,Yes,Yes
+165-Munger [24-Munger],334,Kanya Madhya Vidyalaya Khariya (South Part),Main,1,816,25.2141,86.6289,Yes,Yes,Yes
+165-Munger [24-Munger],335,Prathmik Vidyalaya Pipra,Main,1,681,25.204,86.6215,Yes,Yes,Yes
+165-Munger [24-Munger],335,Prathmik Vidyalaya Pipra Kalisthan,Auxiliary,682,,25.2013,86.6188,Yes,Yes,Yes
+166-Jamalpur [24-Munger],001,Kanya Prathmik Vidyalaya Bahachouki (East Part),Main,1,,25.29805556,86.35361111,Yes,Yes,Yes
+166-Jamalpur [24-Munger],002,Kanya Prathmik Vidyalaya Bahachouki (Middle Part),Main,1,,25.29805556,86.35361111,Yes,Yes,Yes
+166-Jamalpur [24-Munger],003,Kanya Prathmik Vidyalaya Bahachouki (West Part)        ,Main,1,,25.30222222,86.36861111,Yes,Yes,Yes
+166-Jamalpur [24-Munger],004,Madhya Vidyalaya Sundarpur (South Part),Main,1,,25.30222222,86.36861111,Yes,Yes,Yes
+166-Jamalpur [24-Munger],005,Madhya Vidyalaya Sundarpur (North Part),Main,1,,25.30157371,25.30157371,Yes,Yes,Yes
+166-Jamalpur [24-Munger],006,Uchcha Vidyalaya Sundarpur	,Main,1,,25.29912028,86.36208827,Yes,Yes,Yes
+166-Jamalpur [24-Munger],007,Madhya Vidyalaya Durgapur	,Main,1,,25.30363858,86.38707507,Yes,Yes,Yes
+166-Jamalpur [24-Munger],008,Madhya Vidyalaya Shivkund Nishad Tola (East Part),Main,1,,25.30361111,86.40305556,Yes,Yes,Yes
+166-Jamalpur [24-Munger],009,Madhya Vidyalaya Shivkund Nishad Tola (West Part),Main,1,,25.3051,86.4001,Yes,Yes,Yes
+166-Jamalpur [24-Munger],010,Kanya Madhya Vidyalaya Shivkund (East part)       ,Main,1,595,25.29,86.4033,Yes,Yes,Yes
+166-Jamalpur [24-Munger],010A,Kanya Madhya Vidyalaya Shivkund (West part)       ,Auxiliary,596,,25.29,86.4033,Yes,Yes,Yes
+166-Jamalpur [24-Munger],011,Madhya Vidyalay Kurmi Tola Shivakund (East Part)        ,Main,1,706,25.30418826,86.38338698,Yes,Yes,Yes
+166-Jamalpur [24-Munger],011A,Madhya Vidyalay Kurmi Tola Shivakund  (West Part)      ,Auxiliary,707,,25.30418826,86.38338698,Yes,Yes,Yes
+166-Jamalpur [24-Munger],012,Prathmik Vidyalaya Chharrapatti  (East Part),Main,1,708,25.30418826,86.38338698,Yes,Yes,No
+166-Jamalpur [24-Munger],012A,Prathmik Vidyalaya Chharrapatti  (West Part)      ,Auxiliary,709,,25.30418826,86.38338698,Yes,Yes,No
+166-Jamalpur [24-Munger],013,Prathmik Vidyalaya Chhotilagma Hemjapur (South Part-1),Main,1,519,25.3032,86.39,Yes,Yes,Yes
+166-Jamalpur [24-Munger],013A,Prathmik Vidyalaya Chhotilagma Hemjapur (South Part-2),Auxiliary,520,,25.3032,86.39,Yes,Yes,Yes
+166-Jamalpur [24-Munger],014,Prathmik Vidyalaya Chhotilagma Hemjapur (North Part),Main,1,,25.3032,86.39,Yes,Yes,Yes
+166-Jamalpur [24-Munger],015,Madhya Vidyalaya Badi Lagma Hemjapur (South Part),Main,1,,25.30244013,86.37999723,Yes,Yes,Yes
+166-Jamalpur [24-Munger],016,Madhya Vidyalaya Badi Lagma Hemjapur (North Part)        ,Main,1,,25.30244013,86.37999723,Yes,Yes,Yes
+166-Jamalpur [24-Munger],017,Madhya Vidyalaya Hemjapur (South Part),Main,1,,25.3023,86.3805,Yes,Yes,Yes
+166-Jamalpur [24-Munger],018,Madhya Vidyalaya Hemjapur (North Part-1)        ,Main,1,616,25.3027,86.375,Yes,Yes,Yes
+166-Jamalpur [24-Munger],018A,Madhya Vidyalaya Hemjapur (North Part-2) ,Auxiliary,617,,25.3027,86.375,Yes,Yes,Yes
+166-Jamalpur [24-Munger],019,Panchayat Bhawan Hemjapur,Main,1,,25.25890367,86.39338197,Yes,Yes,Yes
+166-Jamalpur [24-Munger],020,"Madhya Vidyalay Chand Tola, Hemajapur        ",Main,1,,25.25434237,86.39320541,Yes,Yes,Yes
+166-Jamalpur [24-Munger],021,Madhya Vidyalaya Sugathia (East Part)        ,Main,1,678,25.25434237,86.39320541,Yes,Yes,Yes
+166-Jamalpur [24-Munger],021A,Madhya Vidyalaya Sugathia (West Part)        ,Auxiliary,679,,25.25434237,86.39320541,Yes,Yes,Yes
+166-Jamalpur [24-Munger],22,Madhya Vidyalaya Maharn Naya Bhawana (East Part)        ,Main,1,,25.2594165,86.41140255,Yes,Yes,Yes
+166-Jamalpur [24-Munger],23,Madhya Vidyalaya Maharna Naya Bhawan (West Part)        ,Main,1,,25.2594165,86.41140255,Yes,Yes,Yes
+166-Jamalpur [24-Munger],24,Madhya Vidyalaya Maharna(East Part),Main,1,527,25.25694444,86.41527778,Yes,Yes,Yes
+166-Jamalpur [24-Munger],24A,Madhya Vidyalaya Maharna (West Part),Auxiliary,528,,25.25694444,86.41527778,Yes,Yes,Yes
+166-Jamalpur [24-Munger],25,Madhya Vidyalaya Mangarh (North Part),Main,1,,25.27526875,86.47444589,Yes,Yes,Yes
+166-Jamalpur [24-Munger],26,Madhya Vidyalaya Mangadh (South Part)        ,Main,1,,25.275,86.4612,Yes,Yes,Yes
+166-Jamalpur [24-Munger],27,Madhya Vidyalaya Mangarh (East Part),Main,1,,25.2751,86.4612,Yes,Yes,Yes
+166-Jamalpur [24-Munger],28,Madhya Vidyalaya Mangadh (West Part),Main,1,,25.28472222,86.48,Yes,Yes,Yes
+166-Jamalpur [24-Munger],29,Prathmik Vidyalaya Dharhara Town (East Part-1)        ,Main,1,651,25.28833333,86.48361111,Yes,Yes,Yes
+166-Jamalpur [24-Munger],29A,Prathmik Vidyalaya Dharhara Town (East Part-2),Auxiliary,652,,25.28833333,86.48361111,Yes,Yes,Yes
+166-Jamalpur [24-Munger],30,Madhya Vidyalaya Sarobagh (East Part)       ,Main,1,685,25.265,86.4771,Yes,Yes,Yes
+166-Jamalpur [24-Munger],30A,Madhya Vidyalaya Sarobagh(West Part)        ,Auxiliary,686,,25.265,86.4771,Yes,Yes,Yes
+166-Jamalpur [24-Munger],31,Madhya Vidyalaya Bhalar (West Part-1)        ,Main,1,527,25.2782,86.481,Yes,Yes,Yes
+166-Jamalpur [24-Munger],31A,Madhya Vidyalaya Bhalar (West Part-2)        ,Auxiliary,528,,25.2782,86.481,Yes,Yes,Yes
+166-Jamalpur [24-Munger],32,Madhya Vidyalaya Bhalar (East Part-1),Main,1,526,25.28138156,86.48374866,Yes,Yes,Yes
+166-Jamalpur [24-Munger],32A,Madhya Vidyalaya Bhalar (East Part-2),Auxiliary,527,,25.28138156,86.48374866,Yes,Yes,Yes
+166-Jamalpur [24-Munger],33,Prathmik Vidyalaya Govindpur (East Part),Main,1,,25.28548536,86.48707465,Yes,Yes,Yes
+166-Jamalpur [24-Munger],34,Prathmik Vidyalaya Govindpur (West Part),Main,1,,25.28548536,86.48707465,Yes,Yes,Yes
+166-Jamalpur [24-Munger],35,Madhya Vidyalaya Fulka Khirodharpur (East Part)       ,Main,1,629,25.25,86.485,Yes,Yes,Yes
+166-Jamalpur [24-Munger],35A,Madhya Vidyalaya Fulka Khirodharpur(West Part),Auxiliary,630,,25.25,86.485,Yes,Yes,Yes
+166-Jamalpur [24-Munger],36,Prathmik Vidyalaya Dhasrathpur Dhasrathi (East Part),Main,1,,25.2647,86.4619,Yes,Yes,Yes
+166-Jamalpur [24-Munger],37,Prathmik Vidhalay Dashrathpur Dashrathi (West Part),Main,1,,25.2646,86.4619,Yes,Yes,Yes
+166-Jamalpur [24-Munger],38,Madhya Vidyalaya Dariyapur(East Part),Main,1,679,25.26277778,86.46361111,Yes,Yes,Yes
+166-Jamalpur [24-Munger],38A,Madhya Vidyalaya Dariyapur(West Part),Auxiliary,680,,25.26277778,86.46361111,Yes,Yes,Yes
+166-Jamalpur [24-Munger],39,Prathmik Vidyalaya Paharpur(East Part),Main,1,671,25.257,86.4603,Yes,Yes,Yes
+166-Jamalpur [24-Munger],39A,Prathmik Vidyalaya Paharpur(West Part),Auxiliary,672,,25.257,86.4603,Yes,Yes,Yes
+166-Jamalpur [24-Munger],40,Prathmik Vidyalaya Matadih Nayatola (West Part-1),Main,1,508,25.25723867,86.45976113,Yes,Yes,Yes
+166-Jamalpur [24-Munger],040A,Prathmik Vidyalaya Matadih Nayatola (West Part-2),Auxiliary,509,,25.25723867,86.45976113,Yes,Yes,Yes
+166-Jamalpur [24-Munger],041,Prathmik Vidyalaya Matadih Nayatola (East Part),Main,1,,25.25615333,86.44207922,Yes,Yes,Yes
+166-Jamalpur [24-Munger],042,Prathmik Vidhalay Matadih Naya Tola (Middile Part)        ,Main,1,,25.2485,86.4421,Yes,Yes,Yes
+166-Jamalpur [24-Munger],43,Madhya Vidyalaya Bilokhar (East Part),Main,1,,25.25618443,86.44136005,Yes,Yes,Yes
+166-Jamalpur [24-Munger],44,Madhya Vidyalaya Bilokhar (West Part)        ,Main,1,,25.25618443,86.44136005,Yes,Yes,Yes
+166-Jamalpur [24-Munger],45,Madhya Vidyalaya Sarha (North Part-1)        ,Main,1,652,25.2547,86.4517,Yes,Yes,Yes
+166-Jamalpur [24-Munger],045A,Madhya Vidyalaya Sarha (North Part-2)        ,Auxiliary,653,,25.2547,86.4517,Yes,Yes,Yes
+166-Jamalpur [24-Munger],46,Madhya Vidyalaya Itwa Sarha (South Part)        ,Main,1,,25.24642023,86.39064185,Yes,Yes,Yes
+166-Jamalpur [24-Munger],47,Madhya Vidyalay Itava (East Part),Main,1,,25.24411855,86.39267558,Yes,Yes,Yes
+166-Jamalpur [24-Munger],48,Madhya Vidyalay Itava (West Part),Main,1,,25.21942586,86.39431554,Yes,Yes,Yes
+166-Jamalpur [24-Munger],49,Madhya Vidyalaya Pachrukhi (East Bhag),Main,1,,25.2199,86.3972,Yes,Yes,Yes
+166-Jamalpur [24-Munger],50,Madhya Vidyalaya Pachrukhi (West Part),Main,1,,25.20771579,86.40909738,Yes,Yes,Yes
+166-Jamalpur [24-Munger],51,Madhya Vidyalaya Pachrukhi Naya Bhawan (East Part)        ,Main,1,,25.2582,86.4267,Yes,Yes,Yes
+166-Jamalpur [24-Munger],52,Madhya Vidyalaya Pachrukhi Naya Bhawan (West Part)        ,Main,1,,25.25742573,86.42208029,Yes,Yes,Yes
+166-Jamalpur [24-Munger],53,Uchcha Vidyalaya Adalpur Amari(East Part),Main,1,536,25.25742573,86.42208029,Yes,Yes,Yes
+166-Jamalpur [24-Munger],053A,Uchcha Vidyalaya Adalpur Amari(West Part),Auxiliary,537,,25.25742573,86.42208029,Yes,Yes,Yes
+166-Jamalpur [24-Munger],54,Kanya Madhya Vidyalaya Amari (East Part)        ,Main,1,,25.25742573,86.42208029,Yes,Yes,Yes
+166-Jamalpur [24-Munger],55,Kanya Madhya Vidyalaya Amari (West Part),Main,1,,25.25217723,86.42594639,Yes,Yes,Yes
+166-Jamalpur [24-Munger],56,Madhya Vidyalaya Amari (West Part-1)        ,Main,1,652,25.25217723,86.42594639,Yes,Yes,Yes
+166-Jamalpur [24-Munger],056A,Madhya Vidyalaya Amari (West Part-2),Auxiliary,653,,25.25217723,86.42594639,Yes,Yes,Yes
+166-Jamalpur [24-Munger],57,Madhya Vidyalaya Amari (East Part-1),Main,1,716,25.25197514,86.42493961,Yes,Yes,Yes
+166-Jamalpur [24-Munger],057A,Madhya Vidyalaya Amari (East Part-2),Auxiliary,717,,25.25197514,86.42493961,Yes,Yes,Yes
+166-Jamalpur [24-Munger],58,Madhya Vidyalaya Barichak (East Part),Main,1,,25.24938955,86.4273653,Yes,Yes,Yes
+166-Jamalpur [24-Munger],59,Madhya Vidyalaya Barichak (West Part)        ,Main,1,,25.24938955,86.4273653,Yes,Yes,Yes
+166-Jamalpur [24-Munger],60,Madhya Vidyalaya Govindpur (East Part)       ,Main,1,579,25.25333333,86.39888889,Yes,Yes,Yes
+166-Jamalpur [24-Munger],060A,Madhya Vidyalaya Govindpur(West Part),Auxiliary,580,,25.25333333,86.39888889,Yes,Yes,Yes
+166-Jamalpur [24-Munger],61,Prathmik Vidyalaya Jasidih (East Part)        ,Main,1,,25.2577742,86.40464571,Yes,Yes,Yes
+166-Jamalpur [24-Munger],62,Prathmik Vidyalaya Jasidih (West Part)        ,Main,1,,25.25552592,86.40462654,Yes,Yes,Yes
+166-Jamalpur [24-Munger],63,Madhya Vidyalaya Khajuria (East Part)        ,Main,1,,25.25552592,86.40462654,Yes,Yes,Yes
+166-Jamalpur [24-Munger],64,Madhya Vidyalaya Khajuria (West Part)        ,Main,1,,25.2562,86.4053,Yes,Yes,Yes
+166-Jamalpur [24-Munger],65,Panchayat Bhawan Mahagama        ,Main,1,,25.20633926,86.37361403,Yes,Yes,Yes
+166-Jamalpur [24-Munger],66,Madhya Vidyalaya Laraiyatand (East Part)        ,Main,1,,25.20663559,86.38839864,Yes,Yes,Yes
+166-Jamalpur [24-Munger],67,Madhya Vidyalaya Laraiyatand (West Part)        ,Main,1,,25.21342113,86.38539496,Yes,Yes,Yes
+166-Jamalpur [24-Munger],68,Panchayat Bhawan Orabagicha        ,Main,1,,25.21638889,86.39722222,Yes,Yes,Yes
+166-Jamalpur [24-Munger],69,Madhya Vidyalaya Orabagicha (South Part-1)        ,Main,1,569,25.20792113,86.39228808,Yes,Yes,Yes
+166-Jamalpur [24-Munger],069A,Madhya Vidyalaya Orabagicha (South Part-2),Auxiliary,570,,25.20792113,86.39228808,Yes,Yes,Yes
+166-Jamalpur [24-Munger],70,Madhya Vidyalaya Orabagicha (North Part),Main,1,,25.19764817,86.39859513,Yes,Yes,Yes
+166-Jamalpur [24-Munger],71,Madhya Vidyalaya Orabagicha (East Part-1)        ,Main,1,573,25.1925,86.41138889,Yes,Yes,Yes
+166-Jamalpur [24-Munger],071A,Madhya Vidyalaya Orabagicha (East Part-2),Auxiliary,574,,25.1925,86.41138889,Yes,Yes,Yes
+166-Jamalpur [24-Munger],72,Madhya Vidyalaya Mohanpur (South Part)        ,Main,1,,25.20377686,86.43634253,Yes,Yes,Yes
+166-Jamalpur [24-Munger],73,Madhya Vidyalaya Mohanpur (North Part-1)        ,Main,1,585,25.20377686,86.43634253,Yes,Yes,Yes
+166-Jamalpur [24-Munger],073A,Madhya Vidyalaya Mohanpur (North Part-2),Auxiliary,586,,25.20377686,86.43634253,Yes,Yes,Yes
+166-Jamalpur [24-Munger],74,Uchcha Vidyalaya Mohanpur (East Part)       ,Main,1,629,25.204,86.4388,Yes,Yes,Yes
+166-Jamalpur [24-Munger],074A,Uchcha Vidyalaya Mohanpur (West Part)       ,Auxiliary,630,,25.204,86.4388,Yes,Yes,Yes
+166-Jamalpur [24-Munger],75,Prathmik Vidyalaya Khushalpur (South part-1)        ,Main,1,509,25.2148,86.4484,Yes,Yes,Yes
+166-Jamalpur [24-Munger],075A,Prathmik Vidyalaya Khushalpur (South part-2),Auxiliary,510,,25.2148,86.4484,Yes,Yes,Yes
+166-Jamalpur [24-Munger],76,Prathmik Vidyalaya Khushalpur (North Part-1)        ,Main,1,511,25.2265,86.4599,Yes,Yes,Yes
+166-Jamalpur [24-Munger],076A,Prathmik Vidyalaya Khushalpur (North Part-2),Auxiliary,512,,25.2265,86.4599,Yes,Yes,Yes
+166-Jamalpur [24-Munger],77,Prathmik Vidyalaya Dharhara (Uttar Tola)        ,Main,1,,25.19860724,86.44131609,Yes,Yes,Yes
+166-Jamalpur [24-Munger],78,Kanya Madhya Vidyalaya Dharhara (East Part)        ,Main,1,,25.3108,86.4279,Yes,Yes,Yes
+166-Jamalpur [24-Munger],79,Kanya Madhya Vidyalaya Dharhara (West Part)        ,Main,1,,25.30081452,86.40586736,Yes,Yes,Yes
+166-Jamalpur [24-Munger],80,Madhya Vidyalaya Dharhara (South Part)        ,Main,1,,25.3055,86.412,Yes,Yes,Yes
+166-Jamalpur [24-Munger],81,Madhya Vidyalaya Dharhara (North Part)      ,Main,1,,25.3056,86.4116,Yes,Yes,Yes
+166-Jamalpur [24-Munger],82,Panchayat Bhawan Dharhara        ,Main,1,,25.3049,86.4124,Yes,Yes,Yes
+166-Jamalpur [24-Munger],83,Prathmik Vidyalaya Virojpur        ,Main,1,,25.30608398,86.42191374,Yes,Yes,Yes
+166-Jamalpur [24-Munger],84,Basic School Ghatwari        ,Main,1,,25.30608398,86.42191374,Yes,Yes,Yes
+166-Jamalpur [24-Munger],85,Madhya Vidyalaya Kumarpur        ,Main,1,,25.31557785,86.43731057,Yes,Yes,Yes
+166-Jamalpur [24-Munger],86,Madhya Vidyalaya Bhikhakita (East Part)       ,Main,1,681,25.31557785,86.43731057,Yes,Yes,Yes
+166-Jamalpur [24-Munger],086A,Madhya Vidyalaya Bhikhakita (West Part)       ,Auxiliary,682,,25.31557785,86.43731057,Yes,Yes,Yes
+166-Jamalpur [24-Munger],87,Madhya Vidyalaya Aajimganj,Main,1,,25.30957967,86.43452144,Yes,Yes,Yes
+166-Jamalpur [24-Munger],88,Madhya Vidyalaya Goraia        ,Main,1,,25.3135,86.434,Yes,Yes,Yes
+166-Jamalpur [24-Munger],89,Prathmik Vidyalaya Sakhaul        ,Main,1,,25.31019246,86.42987356,Yes,Yes,Yes
+166-Jamalpur [24-Munger],90,Madhya Vidyalaya Bangalwa (East Part-1)        ,Main,1,557,25.331,86.4553,Yes,Yes,Yes
+166-Jamalpur [24-Munger],090A,Madhya Vidyalaya Bangalwa (East Part-2),Auxiliary,558,,25.331,86.4553,Yes,Yes,Yes
+166-Jamalpur [24-Munger],91,Madhya Vidyalaya Bangalwa (West Part)        ,Main,1,,25.331,86.4553,Yes,Yes,Yes
+166-Jamalpur [24-Munger],92,Madhya Vidyalay Bangalwa (Middle Part)        ,Main,1,,25.3224,86.4505,Yes,Yes,Yes
+166-Jamalpur [24-Munger],93,Panchayat Sarkar Bhawan Bangalwa(East Part),Main,1,611,25.3221,86.4507,Yes,Yes,Yes
+166-Jamalpur [24-Munger],093A,Panchayat Sarkar Bhawan Bangalwa(West Part),Auxiliary,612,,25.3221,86.4507,Yes,Yes,Yes
+166-Jamalpur [24-Munger],94,Madhya Vidyalaya Banwarsha        ,Main,1,,25.33916667,86.46083333,Yes,Yes,Yes
+166-Jamalpur [24-Munger],95,Madhya Vidyalaya Jayanti Gram Lakarkola        ,Main,1,,25.3409,86.4741,Yes,Yes,Yes
+166-Jamalpur [24-Munger],96,Prathmik Vidyalaya Satgharwa(East Part)        ,Main,1,541,25.32904081,86.47567649,Yes,Yes,Yes
+166-Jamalpur [24-Munger],096A,Prathmik Vidyalaya Satgharwa (West Part)       ,Auxiliary,542,,25.32904081,86.47567649,Yes,Yes,Yes
+166-Jamalpur [24-Munger],97,Prathmik Vidyalaya Sarvoday Tola Farda,Main,1,,25.32904081,86.47567649,Yes,Yes,Yes
+166-Jamalpur [24-Munger],98,Madhya Vidyalaya Shinghia Punsara (North part)        ,Main,1,506,25.33055556,86.47388889,Yes,Yes,Yes
+166-Jamalpur [24-Munger],098A,Madhya Vidyalaya Shinghia Punsara (South Part),Auxiliary,507,,25.33055556,86.47388889,Yes,Yes,Yes
+166-Jamalpur [24-Munger],99,Uchcha Vidyalaya Singhia (East Part)        ,Main,1,,25.332,86.4776,Yes,Yes,Yes
+166-Jamalpur [24-Munger],100,Uchcha Vidyalaya Singhia (North Part)        ,Main,1,,25.3319,86.4778,Yes,Yes,Yes
+166-Jamalpur [24-Munger],101,Uchcha Vidyalaya Singhia (West Part)        ,Main,1,,25.34053465,86.48174445,Yes,Yes,Yes
+166-Jamalpur [24-Munger],102,Prayag Narayan Madhya Vidyalaya Singhia        ,Main,1,,25.3434,86.5014,Yes,Yes,Yes
+166-Jamalpur [24-Munger],103,Madhya Vidyalaya Raviraitola Farda (North Part),Main,1,,25.3433,86.5014,Yes,Yes,Yes
+166-Jamalpur [24-Munger],104,Madhya Vidyalaya Raviraitola Farda (South Part),Main,1,,25.34015988,86.5063051,Yes,Yes,Yes
+166-Jamalpur [24-Munger],105,Madhya Vidyalaya Raviraitola Farda (Middle Part),Main,1,,25.32777778,86.50277778,Yes,Yes,Yes
+166-Jamalpur [24-Munger],106,Panchayat Bhawan Parham(North Part),Main,1,582,25.3367589,86.4943196,Yes,Yes,Yes
+166-Jamalpur [24-Munger],106A,Panchayat Bhawan Parham(South Part),Auxiliary,583,,25.3367589,86.4943196,Yes,Yes,Yes
+166-Jamalpur [24-Munger],107,Madhya Vidyalaya Padham(North Part),Main,1,668,25.33527778,86.50444444,Yes,Yes,Yes
+166-Jamalpur [24-Munger],107A,Madhya Vidyalaya Padham(South Part),Auxiliary,669,,25.33527778,86.50444444,Yes,Yes,Yes
+166-Jamalpur [24-Munger],108,Madhya Vidyalaya Farda,Main,1,,25.3259,86.4919,Yes,Yes,Yes
+166-Jamalpur [24-Munger],109,Uchcha Vidyalaya Farda(East Part),Main,1,691,25.3259,86.4918,Yes,Yes,Yes
+166-Jamalpur [24-Munger],109A,Uchcha Vidyalaya Farda(West Part),Auxiliary,692,,25.3259,86.4918,Yes,Yes,Yes
+166-Jamalpur [24-Munger],110,Prathmik Vidyalaya Prem Tola  Farda (North Part),Main,1,,25.326,86.4919,Yes,Yes,Yes
+166-Jamalpur [24-Munger],111,Prathmik Vidyalaya Prem Tola Farda (South Part)        ,Main,1,,25.3259,86.4918,Yes,Yes,Yes
+166-Jamalpur [24-Munger],112,Madhya Vidyalaya Dakra Satkhajuria (East Part-1)        ,Main,1,540,25.3248,86.4984,Yes,Yes,Yes
+166-Jamalpur [24-Munger],112A,Madhya Vidyalaya Dakra Satkhajuria (East Part-2)        ,Auxiliary,541,,25.3248,86.4984,Yes,Yes,Yes
+166-Jamalpur [24-Munger],113,Madhya Vidyalaya Dakra Satkhajuria (West Part)	,Main,1,,25.32694444,86.50111111,Yes,Yes,Yes
+166-Jamalpur [24-Munger],114,Madhya Vidyalaya Malik Patti Farda (East Part-1)        ,Main,1,539,25.32694444,86.50111111,Yes,Yes,Yes
+166-Jamalpur [24-Munger],114A,Madhya Vidyalaya Malik Patti Farda (East Part-2)        ,Auxiliary,540,,25.32694444,86.50111111,Yes,Yes,Yes
+166-Jamalpur [24-Munger],115,Madhya Vidyalaya Malik Patti Farda (West Part)	,Main,1,,25.3232,86.5003,Yes,Yes,Yes
+166-Jamalpur [24-Munger],116,Madhya Vidyalaya Herudiyara (East Part),Main,1,,25.3233,86.5003,Yes,Yes,Yes
+166-Jamalpur [24-Munger],117,Madhya Vidyalaya Herudiyara (West Part)        ,Main,1,,25.3233,86.5003,Yes,Yes,Yes
+166-Jamalpur [24-Munger],118,Uchcha Vidyalaya Hasanganj (East Part),Main,1,599,25.32262863,86.50444007,Yes,Yes,Yes
+166-Jamalpur [24-Munger],118A,Uchcha Vidyalaya Hasanganj  (West Part)      ,Auxiliary,600,,25.32262863,86.50444007,Yes,Yes,Yes
+166-Jamalpur [24-Munger],119,Madhya Vidyalaya Indrukh (North Part),Main,1,,25.32262863,86.50444007,Yes,Yes,Yes
+166-Jamalpur [24-Munger],120,Madhya Vidyalaya Indrukh (South Part-1)        ,Main,1,644,25.32262863,86.50444007,Yes,Yes,Yes
+166-Jamalpur [24-Munger],120A,Madhya Vidyalaya Indrukh (South Part-2),Auxiliary,645,,25.32262863,86.50444007,Yes,Yes,Yes
+166-Jamalpur [24-Munger],121,Prathmik Vidyalaya Chakmansingh,Main,1,,25.32083333,86.49805556,Yes,Yes,Yes
+166-Jamalpur [24-Munger],122,Madhya Vidyalaya Halimpur (North Part-1),Main,1,629,25.3215,86.4939,Yes,Yes,Yes
+166-Jamalpur [24-Munger],122A,Madhya Vidyalaya Halimpur (North Part-2),Auxiliary,630,,25.3215,86.4939,Yes,Yes,Yes
+166-Jamalpur [24-Munger],123,Madhya Vidyalaya Halimpur (South Part),Main,1,,25.3264,86.497,Yes,Yes,Yes
+166-Jamalpur [24-Munger],124,Madhya Vidyalay Halimpur (Middle Part),Main,1,,25.3205,86.4882,Yes,Yes,Yes
+166-Jamalpur [24-Munger],125,Gaivi Madhya Vidyalaya Gauripur (West Part)	,Main,1,,25.3203,86.4881,Yes,Yes,Yes
+166-Jamalpur [24-Munger],126,Gaivi Madhya Vidyalaya Gauripur (East Part)	,Main,1,,25.3225,86.4867,Yes,Yes,Yes
+166-Jamalpur [24-Munger],127,Uchcha Vidyalaya Chandanpura (North Part)	,Main,1,,25.3225,86.4865,Yes,Yes,Yes
+166-Jamalpur [24-Munger],128,Uchcha Vidyalaya Chandanpura (Middle Part)	,Main,1,,25.3225,86.4865,Yes,Yes,Yes
+166-Jamalpur [24-Munger],129,Uchcha Vidyalaya Chandanpura (South Part)	,Main,1,,25.319,86.493,Yes,Yes,Yes
+166-Jamalpur [24-Munger],130,Madhya Vidyalaya Chandanpura (North Part)	,Main,1,,25.3191,86.493,Yes,Yes,Yes
+166-Jamalpur [24-Munger],131,Madhya Vidyalaya Chandanpura (South Part)	,Main,1,,25.3191,86.493,Yes,Yes,Yes
+166-Jamalpur [24-Munger],132,Madhya Vidyalaya Naya Tola Ramnagar,Main,1,,25.317,86.4963,Yes,Yes,Yes
+166-Jamalpur [24-Munger],133,Prathmik Vidyalaya Bhagichak (East Part),Main,1,519,25.3171,86.4958,Yes,Yes,Yes
+166-Jamalpur [24-Munger],133A,Prathmik Vidyalaya Bhagichak (West Part),Auxiliary,520,,25.3171,86.4958,Yes,Yes,Yes
+166-Jamalpur [24-Munger],134,Madhya Vidyalaya Ramnagar Morcha(North Part),Main,1,604,25.3177,86.495,Yes,Yes,Yes
+166-Jamalpur [24-Munger],134A,Madhya Vidyalaya Ramnagar Morcha(South Part),Auxiliary,605,,25.3177,86.495,Yes,Yes,Yes
+166-Jamalpur [24-Munger],135,Madhya Vidyalaya Daulatpur (South Part),Main,1,,25.3184,86.4995,Yes,Yes,Yes
+166-Jamalpur [24-Munger],136,Madhya Vidyalaya Daulatpur (Middle Part)        ,Main,1,568,25.3185,86.4996,Yes,Yes,Yes
+166-Jamalpur [24-Munger],136A,PRAKHAND SIKSHA KARYALAY JAMALPUR,Auxiliary,569,,25.306386,86.491712,Yes,Yes,Yes
+166-Jamalpur [24-Munger],137,Madhya Vidyalaya Daulatpur (North Part-1),Main,1,522,25.3185,86.4996,Yes,Yes,Yes
+166-Jamalpur [24-Munger],137A,Madhya Vidyalaya Daulatpur (North Part-2),Auxiliary,523,,25.3185,86.4996,Yes,Yes,Yes
+166-Jamalpur [24-Munger],138,Madhya Vidyalaya Daulatpur (West Part),Main,1,688,25.3123,86.498,Yes,Yes,Yes
+166-Jamalpur [24-Munger],138A,Madhya Vidyalaya Daulatpur (Kitchen Shed),Auxiliary,689,,25.3123,86.498,Yes,Yes,Yes
+166-Jamalpur [24-Munger],139,P. D. Uchcha Vidyalaya Jamalpur (East Part)        ,Main,1,526,25.3124,86.4981,Yes,Yes,Yes
+166-Jamalpur [24-Munger],139A,P. D. Uchcha Vidyalaya Jamalpur (West Part),Auxiliary,527,,25.3124,86.4981,Yes,Yes,Yes
+166-Jamalpur [24-Munger],140,Madhya Vidyalaya Badi Ashikpur (North Part),Main,1,,25.3157,86.4906,Yes,Yes,Yes
+166-Jamalpur [24-Munger],141,Madhya Vidyalaya Badi Ashikpur (South Part-1),Main,1,528,25.318,86.4863,Yes,Yes,Yes
+166-Jamalpur [24-Munger],141A,Madhya Vidyalaya Badi Ashikpur (South Part-2),Auxiliary,529,,25.318,86.4863,Yes,Yes,Yes
+166-Jamalpur [24-Munger],142,Madhya Vidyalaya Mungarora No-2 (West Part)        ,Main,1,,25.3175,86.4868,Yes,Yes,Yes
+166-Jamalpur [24-Munger],143,Madhya Vidyalaya Mungarora No-2 (North Part-1),Main,1,519,25.3176,86.4866,Yes,Yes,Yes
+166-Jamalpur [24-Munger],143A,Madhya Vidyalaya Mungarora No-2 (North Part-2),Auxiliary,520,,25.3176,86.4866,Yes,Yes,Yes
+166-Jamalpur [24-Munger],144,Madhya Vidyalaya Mungarora No-2 (East Part-1)        ,Main,1,664,25.30441023,86.47980278,Yes,Yes,Yes
+166-Jamalpur [24-Munger],144A,Madhya Vidyalaya Mungarora No-2 (East Part-2),Auxiliary,665,,25.30441023,86.47980278,Yes,Yes,Yes
+166-Jamalpur [24-Munger],145,Kanya Prathmik Vidyalaya Alinagar Mugrora (North Part),Main,1,,25.31305556,86.48666667,Yes,Yes,Yes
+166-Jamalpur [24-Munger],146,Kanya  Prathmik Vidyalaya Alinagar Mugrora (Middle Part),Main,1,,25.30441023,86.47980278,Yes,Yes,Yes
+166-Jamalpur [24-Munger],147,Kanya Prathmik Vidyalaya Alinagar Mugrora (South Part),Main,1,,25.31444444,86.48944444,Yes,Yes,Yes
+166-Jamalpur [24-Munger],148,Kanya Madhya Vidyalaya Naya Gaon(North Part),Main,1,610,25.3151,86.4906,Yes,Yes,Yes
+166-Jamalpur [24-Munger],148A,Kanya Madhya Vidyalaya Naya Gaon(South Part),Auxiliary,611,,25.3151,86.4906,Yes,Yes,Yes
+166-Jamalpur [24-Munger],149,Achchu Ram Kanya Uchcha Vidyalaya Jamalpur (North Part),Main,1,595,25.315,86.4905,Yes,Yes,Yes
+166-Jamalpur [24-Munger],149A,Achchu Ram Kanya Uchcha Vidyalaya Jamalpur (South Part),Auxiliary,596,,25.315,86.4905,Yes,Yes,Yes
+166-Jamalpur [24-Munger],150,Madhya Vidyalaya B.M.P-09 (North Part)        ,Main,1,553,25.330994,86.496589,Yes,Yes,Yes
+166-Jamalpur [24-Munger],150A,Madhya Vidyalaya B.M.P-09 (South Part)       ,Auxiliary,554,,25.33101,86.496607,Yes,Yes,Yes
+166-Jamalpur [24-Munger],151,Purva Railway Uchcha Vidyalaya Jamalpur (North Part),Main,1,,25.3125,86.48944444,Yes,Yes,Yes
+166-Jamalpur [24-Munger],152,Purva Railway Uchcha Vidyalaya Jamalpur (South Part-1)        ,Main,1,627,25.31194444,86.48777778,Yes,Yes,Yes
+166-Jamalpur [24-Munger],152A,Purva Railway Uchcha Vidyalaya Jamalpur (South Part-2)        ,Auxiliary,628,,25.31194444,86.48777778,Yes,Yes,Yes
+166-Jamalpur [24-Munger],153,Madhya Vidyalaya Rampur (East Part-1)        ,Main,1,546,25.31194444,86.48777778,Yes,Yes,Yes
+166-Jamalpur [24-Munger],153A,Madhya Vidyalaya Rampur (East Part-2)        ,Auxiliary,547,,25.31194444,86.48777778,Yes,Yes,Yes
+166-Jamalpur [24-Munger],154,Madhya Vidyalaya Rampur (West Part-1),Main,1,517,25.3107,86.4885,Yes,Yes,Yes
+166-Jamalpur [24-Munger],154A,Madhya Vidyalaya Rampur (West Part-2),Auxiliary,518,,25.3107,86.4885,Yes,Yes,Yes
+166-Jamalpur [24-Munger],155,Madhya Vidyalaya Rampur (Middle Part-1),Main,1,664,25.31194444,86.48777778,Yes,Yes,Yes
+166-Jamalpur [24-Munger],155A,Madhya Vidyalaya Rampur (Middle Part-2),Auxiliary,665,,25.31194444,86.48777778,Yes,Yes,Yes
+166-Jamalpur [24-Munger],156,Mission Kanya Prathmik Vidyalaya Baridariyapur (East Part-1)        ,Main,1,576,25.3088,86.4868,Yes,Yes,Yes
+166-Jamalpur [24-Munger],156A,Mission Kanya Prathmik Vidyalaya Baridariyapur (East Part-2)        ,Auxiliary,577,,25.3088,86.4868,Yes,Yes,Yes
+166-Jamalpur [24-Munger],157,Mission Kanya Prathmik Vidyalaya Badi Dariyapur (West Part-1),Main,1,729,25.3087,86.487,Yes,Yes,Yes
+166-Jamalpur [24-Munger],157A,Mission Kanya Prathmik Vidyalaya Badi Dariyapur (West Part-2),Auxiliary,730,,25.3087,86.487,Yes,Yes,Yes
+166-Jamalpur [24-Munger],158,Mission Kanya Prathmik Vidyalaya Badi Dariyapur (Middle Part-1)        ,Main,1,641,25.3088,86.4868,Yes,Yes,Yes
+166-Jamalpur [24-Munger],158A,Mission Kanya Prathmik Vidyalaya Badi Dariyapur (Middle Part-2)        ,Auxiliary,642,,25.3088,86.4868,Yes,Yes,Yes
+166-Jamalpur [24-Munger],159,Nagar Parishad Karyalaya (East Part-1)        ,Main,1,532,25.3087,86.487,Yes,Yes,Yes
+166-Jamalpur [24-Munger],159A,Nagar Parishad Karyalaya (East Part-2)        ,Auxiliary,533,,25.3087,86.487,Yes,Yes,Yes
+166-Jamalpur [24-Munger],160,Nagar Parishad karyalaya (West Part-1),Main,1,533,25.30468219,86.48561397,Yes,Yes,Yes
+166-Jamalpur [24-Munger],160A,Nagar Parishad karyalaya (West Part-2),Auxiliary,534,,25.30468219,86.48561397,Yes,Yes,Yes
+166-Jamalpur [24-Munger],161,Sahayak Abhiyanta Karyalaya Jamalpur Purvi Railway(East Part)        ,Main,1,662,25.30468219,86.48561397,Yes,Yes,Yes
+166-Jamalpur [24-Munger],161A,Sahayak Abhiyanta Karyalaya Jamalpur Purvi Railway (West Part)       ,Auxiliary,663,,25.30468219,86.48561397,Yes,Yes,Yes
+166-Jamalpur [24-Munger],162,Hari Sabha Naya Gaon (East Part)	,Main,1,,25.30468219,86.48561397,No,No,Yes
+166-Jamalpur [24-Munger],163,"Hari Sabha Nayagaon, Shade	",Main,1,,25.30468219,86.48561397,No,No,Yes
+166-Jamalpur [24-Munger],164,Hari Sabha Naya Gaon (West Part)	,Main,1,,25.30083333,86.48777778,No,No,Yes
+166-Jamalpur [24-Munger],165,Hari Sabha Naya Gaon (Middle Part)	,Main,1,,25.30083333,86.48777778,No,No,Yes
+166-Jamalpur [24-Munger],166,Central Institute Purv Railway (North Part)        ,Main,1,,25.3012,86.4805,Yes,Yes,Yes
+166-Jamalpur [24-Munger],167,Central Institute Purv Railway Jamalpur Confrence Hall        ,Main,1,,25.30027778,86.48611111,Yes,Yes,Yes
+166-Jamalpur [24-Munger],168,Central Institute Purv Railway Jamalpur (South Part)        ,Main,1,,25.30027778,86.48611111,Yes,Yes,Yes
+166-Jamalpur [24-Munger],169,Balika Uchcha Vidyalaya Jamalpur (East Part)        ,Main,1,738,25.29138889,86.4825,Yes,Yes,Yes
+166-Jamalpur [24-Munger],169A,Balika Uchcha Vidyalaya Jamalpur (West Part)        ,Auxiliary,739,,25.29138889,86.4825,Yes,Yes,Yes
+166-Jamalpur [24-Munger],170,A.T.P. Prathmik Vidyalaya Rampur Colony(East Part)        ,Main,1,551,25.29428275,86.48276506,No,No,Yes
+166-Jamalpur [24-Munger],170A,A.T.P. Prathmik Vidyalaya Rampur Colony(west Part)        ,Auxiliary,552,,25.29428275,86.48276506,No,No,Yes
+166-Jamalpur [24-Munger],171,National Institute Purva Railway Rampur Colony (South Part),Main,1,,25.28827978,86.49036547,No,No,Yes
+166-Jamalpur [24-Munger],172,National Institute Purva Railway Rampur Colony (North Part)	,Main,1,,25.28827978,86.49036547,No,No,Yes
+166-Jamalpur [24-Munger],173,Madhya Vidyalaya walipur (East Part),Main,1,,25.29235334,86.49557666,Yes,Yes,Yes
+166-Jamalpur [24-Munger],174,Madhya Vidyalaya walipur (Middle Part),Main,1,,25.29235334,86.49557666,Yes,Yes,Yes
+166-Jamalpur [24-Munger],175,Madhya Vidyalaya Walipur (West Part),Main,1,,25.35916667,86.49888889,Yes,Yes,Yes
+166-Jamalpur [24-Munger],176,Madhya Vidyalaya Walipur (North Part)	,Main,1,,25.36648496,86.49647911,Yes,Yes,Yes
+166-Jamalpur [24-Munger],177,Kanya Madhya Vidyalaya Sadar Bazar Jamalpur        ,Main,1,,25.36105994,86.49616088,Yes,Yes,Yes
+166-Jamalpur [24-Munger],178,Bhartiya Arya Madhya Vidyalaya Sadar Bazar Jamalpur (East Part-1),Main,1,682,25.35212236,86.50220838,Yes,Yes,Yes
+166-Jamalpur [24-Munger],178A,Bhartiya Arya Madhya Vidyalaya Sadar Bazar Jamalpur (East Part-2),Auxiliary,683,,25.35212236,86.50220838,Yes,Yes,Yes
+166-Jamalpur [24-Munger],179,Bhartiya Arya Madhya Vidyalaya Sadar Bazar Jamalpur (West Part),Main,1,,25.3563,86.5114,Yes,Yes,Yes
+166-Jamalpur [24-Munger],180,Bhartiya Arya Madhya Vidyalaya Sadar Bazar Jamalpur (Middle Part),Main,1,,25.3563,86.5115,Yes,Yes,Yes
+166-Jamalpur [24-Munger],181,R. B. Uchcha Vidyalaya Jamalpur (East Part-1)        ,Main,1,517,25.32166667,86.56138889,Yes,Yes,Yes
+166-Jamalpur [24-Munger],181A,R. B. Uchcha Vidyalaya Jamalpur (East Part-2)        ,Auxiliary,518,,25.32166667,86.56138889,Yes,Yes,Yes
+166-Jamalpur [24-Munger],182,R. B. Uchcha Vidyalaya Jamalpur (West Part)	,Main,1,,25.32166667,86.56138889,Yes,Yes,Yes
+166-Jamalpur [24-Munger],183,R. B. Uchcha Vidyalaya Jamalpur (Middle Part),Main,1,,25.33226797,86.5552974,Yes,Yes,Yes
+166-Jamalpur [24-Munger],184,Madhya Vidyalaya Mohanpur (West Part-1)        ,Main,1,593,25.33226797,86.5552974,Yes,Yes,Yes
+166-Jamalpur [24-Munger],184A,Madhya Vidyalaya Mohanpur (West Part-2)        ,Auxiliary,594,,25.33226797,86.5552974,Yes,Yes,Yes
+166-Jamalpur [24-Munger],185,Madhya Vidyalaya Mohanpur (East Part),Main,1,,25.31131424,86.54923505,Yes,Yes,Yes
+166-Jamalpur [24-Munger],186,Madhya Vidyalaya Mohanpur (Middle Part)	,Main,1,,25.31131424,86.54923505,Yes,Yes,Yes
+166-Jamalpur [24-Munger],187,Railway Madhya Vidyalaya Jamalpur No-2	,Main,1,,25.30594205,86.56674382,No,No,Yes
+166-Jamalpur [24-Munger],188,Sitaram Kanya Prathmik Vidyalaya Mohanpur (South Part)	,Main,1,,25.30594205,86.56674382,Yes,Yes,Yes
+166-Jamalpur [24-Munger],189,Sitaram Kanya Prathmik Vidyalaya Mohanpur (North Part)        ,Main,1,,25.30833333,86.56694444,Yes,Yes,Yes
+166-Jamalpur [24-Munger],190,Railway Madhya Vidyalaya Jamalpur No-1 (East Part)        ,Main,1,,25.30833333,86.56694444,No,No,Yes
+166-Jamalpur [24-Munger],191,Railway Madhya Vidyalaya Jamalpur No-1 (Middle Part),Main,1,,25.31549817,86.55622844,No,No,Yes
+166-Jamalpur [24-Munger],192,Railway Madhya Vidyalaya Jamalpur No-1 (West Part),Main,1,,25.31,86.53638889,No,No,Yes
+166-Jamalpur [24-Munger],193,Railway Madhya Vidyalaya Jamalpur No-1 (North Part),Main,1,,25.3184,86.535,No,No,Yes
+166-Jamalpur [24-Munger],194,Railway Madhya Vidyalaya Jamalpur No-1 (South Part),Main,1,,25.3182,86.5349,No,No,Yes
+166-Jamalpur [24-Munger],195,Toril Mandal Kanya Uchcha Vidyalaya Jamalpur (North Part-1),Main,1,,25.316,86.5356,Yes,Yes,Yes
+166-Jamalpur [24-Munger],196,Toril Mandal Kanya Uchcha Vidyalaya Jamalpur (North Part-2)	,Main,1,,25.3161,86.5357,Yes,Yes,Yes
+166-Jamalpur [24-Munger],197,Toril Mandal Kanya Uchcha Vidyalaya (South Part-1)	,Main,1,,25.3152,86.5346,Yes,Yes,Yes
+166-Jamalpur [24-Munger],198,Toril Mandal Kanya Uchcha Vidyalaya (South Part-2)	,Main,1,,25.3225,86.53333333,Yes,Yes,Yes
+166-Jamalpur [24-Munger],199,Madhya Vidyalaya Bhelu Jahangira (East Part-1)        ,Main,1,595,25.3225,86.53333333,Yes,Yes,Yes
+166-Jamalpur [24-Munger],199A,Madhya Vidyalaya Bhelu Jahangira (East Part-2)        ,Auxiliary,596,,25.3225,86.53333333,Yes,Yes,Yes
+166-Jamalpur [24-Munger],200,Madhya Vidyalaya Bhelu Jahangira (West Part)	,Main,1,,25.33361111,86.52888889,Yes,Yes,Yes
+166-Jamalpur [24-Munger],201,Madhya Vidyalaya Bhelu Jahangira (Middle Part),Main,1,,25.3326,86.5329,Yes,Yes,Yes
+166-Jamalpur [24-Munger],202,Prathmik Vidyalaya Faridpur	,Main,1,,25.3303,86.5319,Yes,Yes,Yes
+166-Jamalpur [24-Munger],203,Hardevi Tulshi Uchcha Vidyalaya Jamalpur (East Part-1)        ,Main,1,561,25.3302,86.532,Yes,Yes,Yes
+166-Jamalpur [24-Munger],203A,Hardevi Tulshi Uchcha Vidyalaya Jamalpur (East Part-2)        ,Auxiliary,562,,25.3302,86.532,Yes,Yes,Yes
+166-Jamalpur [24-Munger],204,Hardevi Tulshi Uchcha Vidyalaya Jamalpur (West Part-1)        ,Main,1,540,25.33004429,86.53172044,Yes,Yes,Yes
+166-Jamalpur [24-Munger],204A,Hardevi Tulshi Uchcha Vidyalaya Jamalpur (West Part-2)        ,Auxiliary,541,,25.33004429,86.53172044,Yes,Yes,Yes
+166-Jamalpur [24-Munger],205,Prathmik Vidyalaya Fulka (East Part),Main,1,,25.26622,86.5554,Yes,Yes,Yes
+166-Jamalpur [24-Munger],206,Prathmik Vidyalaya Fulka (West Part)	,Main,1,,25.2618,86.5552,Yes,Yes,Yes
+166-Jamalpur [24-Munger],207,Prathmik Vidyalaya Nayatola Fulka(East Part)        ,Main,1,665,25.26527778,86.55444444,Yes,Yes,Yes
+166-Jamalpur [24-Munger],207A,Prathmik Vidyalaya Nayatola Fulka(West Part)        ,Auxiliary,666,,25.26527778,86.55444444,Yes,Yes,Yes
+166-Jamalpur [24-Munger],208,Prathmik Vidyalaya Ramchandrapur (North Part),Main,1,,25.26527778,86.55444444,Yes,Yes,Yes
+166-Jamalpur [24-Munger],209,Prathmik Vidyalaya Ramchandrapur (South Part-1)        ,Main,1,595,25.262,86.555,Yes,Yes,Yes
+166-Jamalpur [24-Munger],209A,Prathmik Vidyalaya Ramchandrapur (South Part-2),Auxiliary,596,,25.262,86.555,Yes,Yes,Yes
+166-Jamalpur [24-Munger],210,Prathmik Vidhalay Ramchandarpur (East Part)        ,Main,1,,25.2624,86.5509,Yes,Yes,Yes
+166-Jamalpur [24-Munger],211,Madhya Vidyalaya Lakshmanpur (East Part),Main,1,,25.264,86.5601,Yes,Yes,Yes
+166-Jamalpur [24-Munger],212,Madhya Vidyalaya Lakshmanpur (West Part-1)        ,Main,1,675,25.2519,86.5687,Yes,Yes,Yes
+166-Jamalpur [24-Munger],212A,Madhya Vidyalaya Lakshmanpur (West Part-2),Auxiliary,676,,25.2519,86.5687,Yes,Yes,Yes
+166-Jamalpur [24-Munger],213,Madhya Vidyalaya Bank (North Part)       ,Main,1,682,25.2432,86.5735,Yes,Yes,Yes
+166-Jamalpur [24-Munger],213A,Madhya Vidyalaya Bank (South Part)      ,Auxiliary,683,,25.2432,86.5735,Yes,Yes,Yes
+166-Jamalpur [24-Munger],214,Urdu Madhya Vidyalaya MubarakChak (East Part)        ,Main,1,807,25.25365712,86.56900136,Yes,Yes,Yes
+166-Jamalpur [24-Munger],214A,Urdu Madhya Vidyalaya MubarakChak (Pahchan Bhavan)  ,Auxiliary,808,,25.25365712,86.56900136,Yes,Yes,Yes
+166-Jamalpur [24-Munger],215,Urdu Madhya Vidyalaya MubarakChak (West Part-1),Main,1,598,25.25365712,86.56900136,Yes,Yes,Yes
+166-Jamalpur [24-Munger],215A,Urdu Madhya Vidyalaya MubarakChak (West Part-2),Auxiliary,599,,25.25365712,86.56900136,Yes,Yes,Yes
+166-Jamalpur [24-Munger],216,Prathmik Vidyalaya Kanchangarh (East Part)	,Main,1,,25.2523,86.5688,Yes,Yes,Yes
+166-Jamalpur [24-Munger],217,Prathmik Vidyalaya Kanchangarh (West Part)	,Main,1,,25.25527778,86.57222222,Yes,Yes,Yes
+166-Jamalpur [24-Munger],218,Urdu Madhya Vidyalaya Banaudha (East Part)        ,Main,1,,25.2584,86.5364,Yes,Yes,Yes
+166-Jamalpur [24-Munger],219,Urdu Madhya Vidyalaya Banaudha (West Part)        ,Main,1,,25.2433,86.5756,Yes,Yes,Yes
+166-Jamalpur [24-Munger],220,Urdu Madhya Vidyalaya Banaudha (Naya Bhawan)        ,Main,1,,25.23507892,86.57673879,Yes,Yes,Yes
+166-Jamalpur [24-Munger],221,Madhya Vidyalaya Kalarampur (East Part-1)        ,Main,1,580,25.23507892,86.57673879,Yes,Yes,Yes
+166-Jamalpur [24-Munger],221A,Madhya Vidyalaya Kalarampur (East Part-2),Auxiliary,581,,25.23507892,86.57673879,Yes,Yes,Yes
+166-Jamalpur [24-Munger],222,Madhya Vidyalaya Kalarampur (West Part)	,Main,1,,25.22767406,86.585425,Yes,Yes,Yes
+166-Jamalpur [24-Munger],223,Madhya Vidyalaya Kalarampur (Middle Part)	,Main,1,,25.227674,86.585425,Yes,Yes,Yes
+166-Jamalpur [24-Munger],224,Madhya Vidyalaya Bochahi (East Part-1)        ,Main,1,703,25.2129,86.5622,Yes,Yes,Yes
+166-Jamalpur [24-Munger],224A,Madhya Vidyalaya Bochahi (East Part-2)        ,Auxiliary,704,,25.2129,86.5622,Yes,Yes,Yes
+166-Jamalpur [24-Munger],225,Madhya Vidyalaya Bochahi (West Part-1)        ,Main,1,519,25.1886,86.5702,Yes,Yes,Yes
+166-Jamalpur [24-Munger],225A,Madhya Vidyalaya Bochahi (West Part-2),Auxiliary,520,,25.1886,86.5702,Yes,Yes,Yes
+166-Jamalpur [24-Munger],226,Madhya Vidyalaya Itahari (North Part)	,Main,1,,25.2106,86.5715,Yes,Yes,Yes
+166-Jamalpur [24-Munger],227,Madhya Vidyalaya Itahari (South Part-1),Main,1,527,25.22739945,86.57454468,Yes,Yes,Yes
+166-Jamalpur [24-Munger],227A,Madhya Vidyalaya Itahari (South Part-2),Auxiliary,528,,25.22739945,86.57454468,Yes,Yes,Yes
+166-Jamalpur [24-Munger],228,Madhya Vidyalaya Itahari (Middle Part),Main,1,,25.227399,86.5745446,Yes,Yes,Yes
+166-Jamalpur [24-Munger],229, Madhya Vidyalaya Vijay Nagar (East Part-1) ,Main,1,700,25.2025,86.5858,Yes,Yes,Yes
+166-Jamalpur [24-Munger],229A,Madhya Vidyalaya Vijay Nagar (East Part-2),Auxiliary,701,,25.2025,86.5858,Yes,Yes,Yes
+166-Jamalpur [24-Munger],230,Madhya Vidyalaya Vijay Nagar (West Part),Main,1,,25.2025,86.5858,Yes,Yes,Yes
+166-Jamalpur [24-Munger],231,Prathmik Vidyalaya Pairumandal Tola (North Part)        ,Main,1,541,25.20944444,86.58194444,Yes,Yes,Yes
+166-Jamalpur [24-Munger],231A,Prathmik Vidyalaya Kalyan Tola (East Part),Auxiliary,542,,25.306915,86.560585,Yes,Yes,Yes
+166-Jamalpur [24-Munger],232,Prathmik Vidyalaya Pairumandal tola (SouthPart)        ,Main,1,,25.20958178,86.58859851,Yes,Yes,Yes
+166-Jamalpur [24-Munger],233,Prathmik Vidyalaya Pairumandal Tola (Middile Part)        ,Main,1,594,25.209581,86.58859,Yes,Yes,Yes
+166-Jamalpur [24-Munger],233A,Prathmik Vidyalaya Kalyan Tola (West Part)        ,Auxiliary,595,,25.306925,86.560598,Yes,Yes,Yes
+166-Jamalpur [24-Munger],234,Madhya Vidyalaya Chamangarh        ,Main,1,,25.208,86.5962,Yes,Yes,Yes
+166-Jamalpur [24-Munger],235,Prathmik Vidyalaya Ahara Mushahari        ,Main,1,,25.2062,86.6097,Yes,Yes,Yes
+166-Jamalpur [24-Munger],236,Uchcha Vidyalaya Patam (North Part),Main,1,,25.20509484,86.60921884,Yes,Yes,Yes
+166-Jamalpur [24-Munger],237,Uchcha Vidyalaya Patam (South Part-1)        ,Main,1,564,25.2106,86.5753,Yes,Yes,Yes
+166-Jamalpur [24-Munger],237A,Uchcha Vidyalaya Patam (South Part-2),Auxiliary,565,,25.2106,86.5753,Yes,Yes,Yes
+166-Jamalpur [24-Munger],238,Kanya Madhya Vidyalaya Baraichak Patam (North Part)	,Main,1,,25.1882,86.5819,Yes,Yes,Yes
+166-Jamalpur [24-Munger],239,Kanya Madhya Vidyalaya Baraichak Patam (South Part-1)        ,Main,1,676,25.1844,86.5914,Yes,Yes,Yes
+166-Jamalpur [24-Munger],239A,Kanya Madhya Vidyalaya Baraichak Patam (South Part-2)       ,Auxiliary,677,,25.1844,86.5914,Yes,Yes,Yes
+166-Jamalpur [24-Munger],240,Madhya Vidyalaya Ahara Patam (North Part)	,Main,1,,25.1877,86.597,Yes,Yes,Yes
+166-Jamalpur [24-Munger],241,Madhya Vidyalaya Ahara Patam (South Part),Main,1,,25.1879,86.6021,Yes,Yes,Yes
+166-Jamalpur [24-Munger],242,Madhya Vidyalaya Patam (East Part)	,Main,1,,25.18144334,86.60032456,Yes,Yes,Yes
+166-Jamalpur [24-Munger],243,Madhya Vidyalaya Patam (West Part-1)        ,Main,1,626,25.1853,86.5975,Yes,Yes,Yes
+166-Jamalpur [24-Munger],243A,Madhya Vidyalaya Patam (West Part-2)        ,Auxiliary,627,,25.1853,86.5975,Yes,Yes,Yes
+166-Jamalpur [24-Munger],244,Madhya Vidyalaya Garhirampur (East Part)       ,Main,1,525,25.19525465,86.6111538,Yes,Yes,Yes
+166-Jamalpur [24-Munger],244A,Madhya Vidyalaya Garhirampur (West Part)       ,Auxiliary,526,,25.19525465,86.6111538,Yes,Yes,Yes
+166-Jamalpur [24-Munger],245,Panchayat Bhawan Garhirampur,Main,1,,25.1864,86.5732,Yes,Yes,Yes
+166-Jamalpur [24-Munger],246,Madhya Vidyalaya Mahamda (North Part)	,Main,1,,25.1864,86.5732,Yes,Yes,Yes
+166-Jamalpur [24-Munger],247,Madhya Vidyalaya Mahamda (South Part)	,Main,1,,25.1763,86.569,Yes,Yes,Yes
+166-Jamalpur [24-Munger],248,Kanya Madhya Vidyalaya Mahamada	,Main,1,,25.1763,86.569,Yes,Yes,Yes
+166-Jamalpur [24-Munger],249,Madhya Vidyalaya Paharpur (North Part),Main,1,,25.1744,86.5641,Yes,Yes,Yes
+166-Jamalpur [24-Munger],250,Madhya Vidyalaya Paharpur (South Part)        ,Main,1,,25.1666,86.5715,Yes,Yes,Yes
+166-Jamalpur [24-Munger],251,Madhya Vidyalaya Jawayad Purushottampur (East Part-1)        ,Main,1,605,25.1556,86.3517,Yes,Yes,Yes
+166-Jamalpur [24-Munger],251A,Madhya Vidyalaya Jawayad Purushottampur (East Part-2),Auxiliary,606,,25.1556,86.3517,Yes,Yes,Yes
+166-Jamalpur [24-Munger],252,Madhya Vidyalaya Jawayad Purushottampur (West Part)        ,Main,1,,25.17031951,86.57283212,Yes,Yes,Yes
+166-Jamalpur [24-Munger],253,Panchayat Bhawan Jawayad        ,Main,1,,25.1797,86.6146,No,No,No
+166-Jamalpur [24-Munger],254,Prathmik Vidyalaya Jawayad Mushahari Sangrampur        ,Main,1,,25.17433875,86.62591573,Yes,Yes,Yes
+166-Jamalpur [24-Munger],255,Prathmik Vidyalaya Dangari Viliya(North Part)        ,Main,1,647,25.155,86.3336,Yes,Yes,Yes
+166-Jamalpur [24-Munger],255A,Prathmik Vidyalaya Dangari Viliya(South Part) ,Auxiliary,648,,25.155,86.3336,Yes,Yes,Yes
+166-Jamalpur [24-Munger],256,Samudayik Bhawan Laliyadih	,Main,1,,25.16428063,86.61651901,No,No,No
+166-Jamalpur [24-Munger],257,Sri Krishna Madhya Vidyalaya Brindawan (South Part)      ,Main,1,572,25.1435,86.3424,Yes,Yes,Yes
+166-Jamalpur [24-Munger],257A,Sri Krishna Madhya Vidyalaya Brindawan (North Part)      ,Auxiliary,573,,25.1435,86.3424,Yes,Yes,Yes
+166-Jamalpur [24-Munger],258,Madhya Vidyalaya Lohchi (East Part)	,Main,1,,25.1655,86.5962,Yes,Yes,Yes
+166-Jamalpur [24-Munger],259,Madhya Vidyalaya Lohchi (West Part)	,Main,1,,25.1589,86.5875,Yes,Yes,Yes
+166-Jamalpur [24-Munger],260,Madhya Vidyalaya Laliyadih(East Part),Main,1,505,25.157,86.348,Yes,Yes,Yes
+166-Jamalpur [24-Munger],260A,Madhya Vidyalaya Laliyadih (West Part),Auxiliary,506,,25.157,86.348,Yes,Yes,Yes
+166-Jamalpur [24-Munger],261,Kanya Prathmik Vidyalaya Lohchi( East Part),Main,1,717,25.152,86.342,Yes,Yes,Yes
+166-Jamalpur [24-Munger],261A,Kanya Prathmik Vidyalaya Lohchi(West Part),Auxiliary,718,,25.152,86.342,Yes,Yes,Yes
+166-Jamalpur [24-Munger],262,Madhya Vidyalaya Lakshmipur Jagir (East Part),Main,1,,25.154,86.5812,Yes,Yes,Yes
+166-Jamalpur [24-Munger],263,Madhya Vidyalaya Lakshmipur Jagir (West Part)        ,Main,1,,25.1605,86.5839,Yes,Yes,Yes
+166-Jamalpur [24-Munger],264,Panchayat Bhawan Galimpur(East Part),Main,1,563,25.1435,86.3432,Yes,Yes,Yes
+166-Jamalpur [24-Munger],264A,Panchayat Bhawan Galimpur(West Part),Auxiliary,564,,25.1435,86.3432,Yes,Yes,Yes
+166-Jamalpur [24-Munger],265,Prathmik Vidyalaya Bahira,Main,1,,25.15550882,86.57193995,Yes,Yes,Yes
+166-Jamalpur [24-Munger],266,Prathmik Vidyalaya Brindawan (East Part)        ,Main,1,632,25.1417,86.3417,Yes,Yes,Yes
+166-Jamalpur [24-Munger],266A,Prathmik Vidyalaya Brindawan (West Part)        ,Auxiliary,633,,25.1417,86.3417,Yes,Yes,Yes
+166-Jamalpur [24-Munger],267,Madhya Vidyalaya Bhadaura (North Part-1)        ,Main,1,671,25.1339,86.3513,Yes,Yes,Yes
+166-Jamalpur [24-Munger],267A,Madhya Vidyalaya Bhadaura (North Part-2) ,Auxiliary,672,,25.1339,86.3513,Yes,Yes,Yes
+166-Jamalpur [24-Munger],268,Madhya Vidyalaya Bhadaura (South Part-1)        ,Main,1,619,25.1339,86.3513,Yes,Yes,Yes
+166-Jamalpur [24-Munger],268A,Madhya Vidyalaya Bhadaura (South Part-2)        ,Auxiliary,620,,25.1339,86.3513,Yes,Yes,Yes
+166-Jamalpur [24-Munger],269,Prathmik Vidyalaya Karighati (East Part)      ,Main,1,568,25.125,86.3344,Yes,Yes,Yes
+166-Jamalpur [24-Munger],269A,Prathmik Vidyalaya Karighati (West Part)      ,Auxiliary,569,,25.125,86.3344,Yes,Yes,Yes
+166-Jamalpur [24-Munger],270,Bihar Dalit Vikas Samiti Vidyalaya Ghorakhur	,Main,1,,25.1471,86.5912,Yes,Yes,Yes
+166-Jamalpur [24-Munger],271,Van Vibhag Rest House Shampur	,Main,1,,25.146,86.5877,Yes,Yes,Yes
+166-Jamalpur [24-Munger],272,Madhya Vidyalaya Raghunathpur (East Part-1)        ,Main,1,571,25.1338,86.3429,Yes,Yes,Yes
+166-Jamalpur [24-Munger],272A,Madhya Vidyalaya Raghunathpur (East Part-2)        ,Auxiliary,572,,25.1338,86.3429,Yes,Yes,Yes
+166-Jamalpur [24-Munger],273,Madhya Vidyalaya Raghunathpur (West Part-1)        ,Main,1,502,25.1338,86.3429,Yes,Yes,Yes
+166-Jamalpur [24-Munger],273A,Madhya Vidyalaya Raghunathpur (West Part-2)        ,Auxiliary,503,,25.1338,86.3429,Yes,Yes,Yes
+166-Jamalpur [24-Munger],274,Madhya Vidyalaya Bageshwari (North Part),Main,1,,25.1405,86.587,Yes,Yes,Yes
+166-Jamalpur [24-Munger],275,Madhya Vidyalaya Bageshwari (South Part-1)        ,Main,1,660,25.126,86.3427,Yes,Yes,Yes
+166-Jamalpur [24-Munger],275A,Madhya Vidyalaya Bageshwari (South Part-2)        ,Auxiliary,661,,25.126,86.3427,Yes,Yes,Yes
+166-Jamalpur [24-Munger],276,Prathmik Vidyalaya Anusuchit Jati Agrahan        ,Main,1,,25.12846368,86.57690382,Yes,Yes,Yes
+166-Jamalpur [24-Munger],277,Madhya Vidyalaya Agrahan (East Part-1)        ,Main,1,547,25.1235,86.352,Yes,Yes,Yes
+166-Jamalpur [24-Munger],277A,Madhya Vidyalaya Agrahan (East Part-2)        ,Auxiliary,548,,25.1235,86.352,Yes,Yes,Yes
+166-Jamalpur [24-Munger],278,Madhya Vidyalaya Agrahan (West Part)	,Main,1,,25.113,86.597,Yes,Yes,Yes
+166-Jamalpur [24-Munger],279,Madhya Vidyalaya Kurawa,Main,1,,25.12613644,86.58142877,Yes,Yes,Yes
+166-Jamalpur [24-Munger],280,Samudayik Bhawan Manjhgaindih	,Main,1,,25.10361111,86.58694444,Yes,Yes,Yes
+166-Jamalpur [24-Munger],281,Prathmik Vidyalaya Manjhgain	,Main,1,,25.1036111,86.58694,Yes,Yes,Yes
+166-Jamalpur [24-Munger],282,Samudik Bhawan Shampur (Tanti Tola),Main,1,690,25.211808,86.574709,Yes,Yes,Yes
+166-Jamalpur [24-Munger],282A,Saro Devi Prathmik Vidyalaya Madanpur,Auxiliary,691,,25.211808,86.574709,Yes,Yes,Yes
+166-Jamalpur [24-Munger],283,Madhya Vidyalaya Dhapri	,Main,1,,25.18599,86.58486,Yes,Yes,Yes
+166-Jamalpur [24-Munger],284,Madhya Vidyalaya Bhudharni (East Part)       ,Main,1,556,25.18517,86.59085,Yes,Yes,Yes
+166-Jamalpur [24-Munger],284A,Madhya Vidyalaya Bhudharni (West Part),Auxiliary,557,,25.18517,86.59085,Yes,Yes,Yes
+166-Jamalpur [24-Munger],285,Madhya Vidyalaya Barhauna(East Part),Main,1,609,25.18558,86.59262,Yes,Yes,Yes
+166-Jamalpur [24-Munger],285A,Madhya Vidyalaya Barhauna(West Part),Auxiliary,610,,25.18558,86.59262,Yes,Yes,Yes
+166-Jamalpur [24-Munger],286,Samudayik Bhawan Barhauna        ,Main,1,605,25.185753,86.582812,Yes,Yes,Yes
+166-Jamalpur [24-Munger],286A,Panchyat Bhawan Barhauna  ,Auxiliary,606,,25.185753,86.582812,Yes,Yes,Yes
+166-Jamalpur [24-Munger],287,Madhya Vidyalaya Lakshmipur,Main,1,,25.18641,86.69918,Yes,Yes,Yes
+166-Jamalpur [24-Munger],288,Samudayik Bhawan Lakshmipur	,Main,1,,25.18739,86.59715,Yes,Yes,Yes
+166-Jamalpur [24-Munger],289,Prathmik Vidyalaya Gaura Makhtab (East Part)	,Main,1,,25.18795,86.60213,Yes,Yes,Yes
+166-Jamalpur [24-Munger],290,Prathmik Vidyalaya Gaura Makhtab (West Part)	,Main,1,,25.18795,86.60213,Yes,Yes,Yes
+166-Jamalpur [24-Munger],291,Madhya Vidyalaya Gobadda (North Part-1),Main,1,514,86.348,25.1034,Yes,Yes,Yes
+166-Jamalpur [24-Munger],291A,Madhya Vidyalaya Gobadda (North Part-2),Auxiliary,515,,86.348,25.1034,Yes,Yes,Yes
+166-Jamalpur [24-Munger],292,Madhya Vidyalaya Gobadda (South part)	,Main,1,,86.3423,25.111,Yes,Yes,Yes
+166-Jamalpur [24-Munger],293,Madhya Vidyalaya Gobadda (East Part)	,Main,1,,86.3423,25.111,Yes,Yes,Yes
+166-Jamalpur [24-Munger],294,Madhya Vidyalaya Gobadda (West Part)        ,Main,1,,86.3423,25.111,Yes,Yes,Yes
+166-Jamalpur [24-Munger],295,Madhya Vidyalaya Shivpur Laugayn (North Part-1)        ,Main,1,710,86.3422,25.1013,Yes,Yes,Yes
+166-Jamalpur [24-Munger],295A,Madhya Vidyalaya Shivpur Laugayn (North Part-2)        ,Auxiliary,711,,86.3422,25.1013,Yes,Yes,Yes
+166-Jamalpur [24-Munger],296,Madhya Vidyalaya Shivpur Laugayn (South Part),Main,1,,86.3422,25.1013,Yes,Yes,Yes
+166-Jamalpur [24-Munger],297,Prathmik Vidyalaya Dhondhari Mandare (East Part)       ,Main,1,503,86.332,25.1045,No,Yes,Yes
+166-Jamalpur [24-Munger],297A,Prathmik Vidyalaya Dhondhari Mandare (West Part)       ,Auxiliary,504,,86.332,25.1045,No,Yes,Yes
+166-Jamalpur [24-Munger],298,Bans Tokari Godown Ladui	,Main,1,,86.3417,25.959,No,Yes,No
+166-Jamalpur [24-Munger],299,Prathmik Vidyalaya Korasi (East Part)       ,Main,1,667,86.3422,25.1013,No,Yes,Yes
+166-Jamalpur [24-Munger],299A,Prathmik Vidyalaya Korasi (West Part)       ,Auxiliary,668,,86.3422,25.1013,No,Yes,Yes
+166-Jamalpur [24-Munger],300,Madhya Vidyalaya Ladui (East Part)       ,Main,1,674,86.3329,28.857,No,Yes,Yes
+166-Jamalpur [24-Munger],300A,Madhya Vidyalaya Ladui (West Part)  ,Auxiliary,675,,86.3329,28.857,No,Yes,Yes
+166-Jamalpur [24-Munger],301,Prathmik Vidyalaya Kaudia (East Part)     ,Main,1,631,25.19512,86.60904,Yes,Yes,Yes
+166-Jamalpur [24-Munger],301A,Prathmik Vidyalaya Kaudia (West Part) ,Auxiliary,632,,25.19512,86.60904,Yes,Yes,Yes
+166-Jamalpur [24-Munger],302,Madhya Vidyalaya Gonai	,Main,1,,25.17915,86.61712,Yes,Yes,Yes
+166-Jamalpur [24-Munger],303,Madhya Vidyalaya Sadov,Main,1,,25.19504,86.61146,Yes,Yes,Yes
+166-Jamalpur [24-Munger],304,Prathmik Vidyalaya Khiridih (East Part),Main,1,778,25.17456,86.62572,Yes,Yes,Yes
+166-Jamalpur [24-Munger],304A,Prathmik Vidyalaya Khiridih (West Part),Auxiliary,779,,25.17456,86.62572,Yes,Yes,Yes
+166-Jamalpur [24-Munger],305,Madhya Vidyalaya Kishanpur (East Part),Main,1,621,25.17356,86.72572,Yes,Yes,Yes
+166-Jamalpur [24-Munger],305A,Madhya Vidyalaya Kishanpur (West Part),Auxiliary,622,,25.17356,86.72572,Yes,Yes,Yes
+166-Jamalpur [24-Munger],306,Samudayik Bhawan Khandbihari	,Main,1,,25.9928,86.35527,Yes,Yes,Yes
+166-Jamalpur [24-Munger],307,Rajkiya Buniyadi Vidyalaya  Khandbihari (East Part)       ,Main,1,502,25.9527,86.35201,Yes,Yes,Yes
+166-Jamalpur [24-Munger],307A,Rajkiya Buniyadi Vidyalaya  Khandbihari (West Part)  ,Auxiliary,503,,25.9527,86.35201,Yes,Yes,Yes
+166-Jamalpur [24-Munger],308,Samudiyak Bhawan Nishihara Uttari Tola       ,Main,1,753,25.180446,86.590881,Yes,Yes,Yes
+166-Jamalpur [24-Munger],308A,Madhya Vidyalaya Nishihara       ,Auxiliary,754,,25.180446,86.590881,Yes,Yes,Yes
+166-Jamalpur [24-Munger],309,Pustakalaya Bhawan Baijalpur(East Part)        ,Main,1,526,25.10466,86.34758,Yes,Yes,Yes
+166-Jamalpur [24-Munger],309A,Pustakalaya Bhawan Baijalpur(West Part)  ,Auxiliary,527,,25.10466,86.34758,Yes,Yes,Yes
+166-Jamalpur [24-Munger],310,Prathmik Vidyalaya Bokhra,Main,1,,25.9243,86.34872,Yes,Yes,Yes
+166-Jamalpur [24-Munger],311,Prathmik Vidyalaya Bhusichak	,Main,1,,25.9527,86.35251,Yes,Yes,Yes
+166-Jamalpur [24-Munger],312,Samudayik Bhawan Naya Tola Prasando (East Part)        ,Main,1,701,25.936,86.33722,Yes,Yes,No
+166-Jamalpur [24-Munger],312A,Samudayik Bhawan Naya Tola Prasando (West Part)        ,Auxiliary,702,,25.936,86.33722,Yes,Yes,No
+166-Jamalpur [24-Munger],313,Prathmik Vidyalaya Anushuchit Tola Prasando (East Part)       ,Main,1,705,25.9349,86.34335,Yes,Yes,Yes
+166-Jamalpur [24-Munger],313A,Prathmik Vidyalaya Anushuchit Tola Prasando (West Part) ,Auxiliary,706,,25.9349,86.34335,Yes,Yes,Yes
+166-Jamalpur [24-Munger],314,Madhya Vidyalaya Prasando	,Main,1,,25.9352,86.33956,Yes,Yes,Yes
+166-Jamalpur [24-Munger],315,Madhya Vidyalaya Shasan	,Main,1,,25.15556,86.58909,Yes,Yes,Yes
+166-Jamalpur [24-Munger],316,Uchcha Vidyalaya Muzaffarganj (North Part)	,Main,1,,25.1467,86.59622,Yes,Yes,Yes
+166-Jamalpur [24-Munger],317,Uchcha Vidyalaya Muzaffarganj (South Part)	,Main,1,,25.1467,86.59077,Yes,Yes,Yes
+166-Jamalpur [24-Munger],318,Prathmik Vidyalaya Urdu Mudheri (North Part)        ,Main,1,,25.14828,86.59077,Yes,Yes,Yes
+166-Jamalpur [24-Munger],319,Prathmik Vidyalaya Urdu Mudheri (South Part)        ,Main,1,,25.14828,86.59077,Yes,Yes,Yes
+166-Jamalpur [24-Munger],320,Panchayat Bhawan Muzaffarganj (East Part)	,Main,1,,25.14716,86.59123,No,No,No
+166-Jamalpur [24-Munger],321,Panchayat Bhawan Muzaffarganj (West Part),Main,1,,25.14716,86.59123,No,No,No
+166-Jamalpur [24-Munger],322,Madhya Vidyalaya Muzaffarganj (East Part)       ,Main,1,558,25.1457,86.58774,Yes,Yes,Yes
+166-Jamalpur [24-Munger],322A,Madhya Vidyalaya Muzaffarganj (West Part)      ,Auxiliary,559,,25.1457,86.58774,Yes,Yes,Yes
+166-Jamalpur [24-Munger],323,Madhya Vidyalaya Rataitha No-2 (East Part-1)        ,Main,1,508,25.13713,86.58045,Yes,Yes,Yes
+166-Jamalpur [24-Munger],323A,Madhya Vidyalaya Rataitha No-2 (East Part-2)        ,Auxiliary,509,,25.13713,86.58045,Yes,Yes,Yes
+166-Jamalpur [24-Munger],324,Madhya Vidyalaya Rataitha No-2 (West Part-1)        ,Main,1,702,25.13713,86.58045,Yes,Yes,Yes
+166-Jamalpur [24-Munger],324A,Madhya Vidyalaya Rataitha No-2 (West Part-2)        ,Auxiliary,703,,25.13713,86.58045,Yes,Yes,Yes
+166-Jamalpur [24-Munger],325,Prathmik Vidyalaya Rataitha-1 (East Part),Main,1,603,25.14046,86.58991,Yes,Yes,Yes
+166-Jamalpur [24-Munger],325A,Prathmik Vidyalaya Rataitha-1 (West Part),Auxiliary,604,,25.14046,86.58991,Yes,Yes,Yes
+166-Jamalpur [24-Munger],326,Madhya Vidyalaya Ratani (South Part-1)        ,Main,1,507,25.13359,86.58434,Yes,Yes,Yes
+166-Jamalpur [24-Munger],326A,Madhya Vidyalaya Ratani (South Part-2)        ,Auxiliary,508,,25.13359,86.58434,Yes,Yes,Yes
+166-Jamalpur [24-Munger],327,Madhya Vidyalaya Ratani (North Part)	,Main,1,,25.13359,86.58434,Yes,Yes,Yes
+166-Jamalpur [24-Munger],328,Madhya Vidyalaya Barui (North Part-1)        ,Main,1,520,25.11293,86.59706,Yes,Yes,Yes
+166-Jamalpur [24-Munger],328A,Madhya Vidyalaya Barui (North Part-2)        ,Auxiliary,521,,25.11293,86.59706,Yes,Yes,Yes
+166-Jamalpur [24-Munger],329,Madhya Vidyalaya Barui (South Part-1)        ,Main,1,606,25.11293,86.59706,Yes,Yes,Yes
+166-Jamalpur [24-Munger],329A,Madhya Vidyalaya Barui (South Part-2)        ,Auxiliary,607,,25.11293,86.59706,Yes,Yes,Yes
+166-Jamalpur [24-Munger],330,Madhya Vidyalaya Teghra (East Part)       ,Main,1,622,25.12853,86.57697,Yes,Yes,Yes
+166-Jamalpur [24-Munger],330A,Madhya Vidyalaya Teghra (West Part)       ,Auxiliary,623,,25.12853,86.57697,Yes,Yes,Yes
+166-Jamalpur [24-Munger],331,Prathmik Vidyalaya Mahkola (East Part-1)        ,Main,1,581,25.10369,86.58709,Yes,Yes,Yes
+166-Jamalpur [24-Munger],331A,Prathmik Vidyalaya Mahkola (East Part-2)        ,Auxiliary,582,,25.10369,86.58709,Yes,Yes,Yes
+166-Jamalpur [24-Munger],332,Prathmik Vidyalaya Mahkola (West Part)        ,Main,1,,25.10369,86.58709,Yes,Yes,Yes
