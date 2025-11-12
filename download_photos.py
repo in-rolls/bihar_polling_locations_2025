@@ -202,7 +202,7 @@ def main():
     os.makedirs(output_dir, exist_ok=True)
 
     # Find all photo-links CSV files
-    csv_files = sorted(Path('.').glob('*-photo-links.csv'))
+    csv_files = sorted(Path('data/').glob('*-photo-links.csv'))
 
     print(f"Found {len(csv_files)} photo-links CSV files")
 
